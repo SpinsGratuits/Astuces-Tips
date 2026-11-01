@@ -2,13 +2,13 @@
   {
     "id": 1,
     "jeux": "Coin Master",
-    "fr": "Connectez-vous tous les jours à la même heure pour maximiser vos chances d'obtenir des Free Spins bonus.",
-    "en": "Log in every day at the same time to maximize your chances of getting bonus Free Spins."
+    "fr": "Ne gaspillez pas vos tours si vous n'avez pas assez de ressources pour finir un village. Économisez au moins 50 tours passifs avant de lancer une grosse session de jeu pour optimiser vos gains.",
+    "en": "Don't waste your spins if you don't have enough resources to finish a village. Save at least 50 passive spins before launching a big gaming session to optimize your rewards."
   },
   {
     "id": 2,
     "jeux": "Multi Free Spins",
-    "fr": "Conservez vos multiplicateurs pour les événements spéciaux du week-end.",
-    "en": "Save your multipliers for special weekend events."
+    "fr": "N'oubliez pas de configurer vos notifications personnalisables dans le menu paramètres (Icone en haut à gauche de la page d'accueil).",
+    "en": "Don't forget to configure your customizable notifications in the settings menu (icon in the top-left corner of the home page)."
   }
 ]
