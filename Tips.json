@@ -12,5 +12,47 @@
     "jeuxios": "📱Multi Spins Rewards📱",
     "fr": "N'oubliez pas de configurer vos notifications personnalisables dans le menu paramètres (Icone en haut à gauche de la page d'accueil).",
     "en": "Don't forget to configure your customizable notifications in the settings menu (icon in the top-left corner of the home page)."
-  }
+  },
+   {
+    "id": 3,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "La carte Joker est un atout puissant. Utilisez les cartes Joker pour compléter les sets de cartes les plus difficiles, en particulier les sets non saisonniers, car ces sets sont généralement plus difficiles à compléter. Il est préférable d'utiliser un Joker pour les cartes avec 3 à 5 étoiles.",
+    "en": "The Joker card is a powerful asset. Use Joker cards to complete the most challenging card sets—especially non-seasonal sets, as these are generally harder to finish. It is best to use a Joker for cards with 3 to 5 stars."
+  },
+  {
+    "id": 4,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "Envoyez vos cartes en double à vos amis. Cela les aidera et les encouragera à vous aider en retour. Cette stratégie sociale crée un cycle mutuellement bénéfique.",
+    "en": "Send your duplicate cards to your friends. This will help them and encourage them to help you in return. This social strategy creates a mutually beneficial cycle."
+  },
+  {
+    "id": 5,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "Un multiplicateur plus élevé utilise plus de Tours de votre solde à chaque fois que vous lancez, mais il peut aussi vous rapporter de meilleures récompenses.",
+    "en": "A higher multiplier uses more spins from your balance each time you play, but it can also earn you better rewards."
+  },
+  {
+    "id": 6,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "Vos progrès ne comptent que si vous les conservez. Avant de vous déconnecter, accumulez vos Boucliers, surtout si votre Village n'est qu'à moitié construit. Si vous subissez une Attaque ou un Pillage, vérifiez ce qui a changé, fixez-vous un objectif de reconstruction clair et attendez de pouvoir terminer les éléments les plus chers en une seule fois.",
+    "en": "Your progress only counts if you manage to hold onto it. Before logging off, stock up on Shields—especially if your Village is only partially built. If you are attacked or raided, check what has changed, set a clear reconstruction goal, and wait until you can complete the most expensive items all at once."
+  },  
+      {
+    "id": 7,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "",
+    "en": ""
+  }, 
+  {
+    "id": 8,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "",
+    "en": ""
+  }    
 ]
