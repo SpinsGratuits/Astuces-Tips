@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "jeux": "Coin Master"
+    "jeux": "Coin Master",
     "fr": "Connectez-vous tous les jours à la même heure pour maximiser vos chances d'obtenir des Free Spins bonus.",
     "en": "Log in every day at the same time to maximize your chances of getting bonus Free Spins."
   },
   {
     "id": 2,
-    "jeux": "Multi Free Spins"
+    "jeux": "Multi Free Spins",
     "fr": "Conservez vos multiplicateurs pour les événements spéciaux du week-end.",
     "en": "Save your multipliers for special weekend events."
   }
