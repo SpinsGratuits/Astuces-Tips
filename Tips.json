@@ -41,15 +41,22 @@
     "fr": "Vos progrès ne comptent que si vous les conservez. Avant de vous déconnecter, accumulez vos Boucliers, surtout si votre Village n'est qu'à moitié construit.",
     "en": "Your progress only counts if you manage to keep it. Before logging off, stock up on Shields—especially if your Village is only half-built."
   },  
-      {
-    "id": 7,
-    "jeuxa": "🐷Coin Master🐷",
-    "jeuxios": "🐷Coin Master🐷",
-    "fr": "",
-    "en": ""
-  }, 
   {
+    "id": 7,
+    "jeuxa": "📱Multi Free Spins📱",
+    "jeuxios": "📱Multi Spins Rewards📱",
+    "fr": "Si vous voulez que je rajoute un jeu dans l'application, vous pouvez me contacter en cliquant sur Contact Us dans la page Paramètres.",
+    "en": "If you would like me to add a game to the application, you can contact me by clicking on "Contact Us" on the Settings page."
+  },
+   {
     "id": 8,
+    "jeuxa": "📱Multi Free Spins📱",
+    "jeuxios": "📱Multi Spins Rewards📱",
+    "fr": "J'ai développé cette application, pour satisfaire tous les utilisateurs, n'hésitez pas à noter et à commenter dans le Play Store.",
+    "en": "I developed this application to satisfy all users; please feel free to rate and comment on the Play Store."
+  },
+  {
+    "id": 9,
     "jeuxa": "🐷Coin Master🐷",
     "jeuxios": "🐷Coin Master🐷",
     "fr": "",
