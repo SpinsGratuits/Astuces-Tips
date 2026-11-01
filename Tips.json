@@ -8,211 +8,198 @@
   },
   {
     "id": 2,
+    "jeuxa": "🎩Monopoly Go!🏠",
+    "jeuxios": "🎩Monopoly Go!🏠",
+    "fr": "Augmentez votre multiplicateur lorsque vous vous trouvez à 6, 7 ou 8 cases (statistiquement les plus fréquentes) d'une case intéressante (gares, événements, boucliers).",
+    "en": "Increase your multiplier when you are 6, 7, or 8 spaces away (statistically the most frequent distances) from a valuable space (stations, events, shields)."
+  },
+  {
+    "id": 3,
+    "jeuxa": "🎲Dice Dreams🎲",
+    "jeuxios": "🎲Dice Dreams🎲",
+    "fr": "Concentrez-vous d'abord sur la construction ou l'amélioration des structures les plus coûteuses de votre royaume, puis terminez par les moins chères.",
+    "en": "Focus first on constructing or upgrading the most expensive structures in your kingdom, then finish with the least expensive ones."
+  },
+  {
+    "id": 4,
+    "jeuxa": "✨Match Masters🔴",
+    "jeuxios": "✨Match Masters🔴",
+    "fr": "Concentrez-vous en priorité sur l’alignement des étoiles bleues (qui chargent votre booster) par rapport aux cercles rouges de votre adversaire.",
+    "en": "Focus primarily on aligning the blue stars (which charge your booster) with your opponent’s red circles."
+  },
+  {
+    "id": 5,
     "jeuxa": "📱Multi Free Spins📱",
     "jeuxios": "📱Multi Spins Rewards📱",
-    "fr": "N'oubliez pas de configurer vos notifications personnalisables dans le menu paramètres (Icone en haut à gauche de la page d'accueil).",
+    "fr": "N'oubliez pas de configurer vos notifications personnalisables dans le menu des paramètres (icône en haut à gauche de la page d'accueil).",
     "en": "Don't forget to configure your customizable notifications in the settings menu (icon in the top-left corner of the home page)."
   },
-   {
-    "id": 3,
+  {
+    "id": 6,
+    "jeuxa": "🃊 Domino Dreams 🃊",
+    "jeuxios": "🃊 Domino Dreams 🃊",
+    "fr": "Réservez vos multiplicateurs (x5, x10) pour les événements importants comme les braquages de banque (Bank Heists) ou les raids.",
+    "en": "Save your multipliers (x5, x10) for major events like bank heists or raids."
+  },
+  {
+    "id": 7,
+    "jeuxa": "🐽Piggy Go!🐖",
+    "jeuxios": "🐽Piggy Go!🐖",
+    "fr": "Si vous êtes vulnérable, ne construisez pas les éléments un par un au hasard. Accumulez suffisamment de pièces pour terminer de grandes sections, voire des niveaux insulaires entiers en une seule fois, afin d'éviter de perdre des sommes considérables lors d'attaques.",
+    "en": "Don't build pieces one-by-one randomly if you are vulnerable; save up enough coins to finish large portions or entire island levels at once to avoid losing massive amounts to raids."
+  },
+  {
+    "id": 8,
+    "jeuxa": "🔮Bingo Blitz🔮",
+    "jeuxios": "🔮Bingo Blitz🔮",
+    "fr": "À moins que vous ne manquiez cruellement de crédits, utilisez toujours 4 planches à la fois pour multiplier vos chances d'obtenir des bingos.",
+    "en": "Unless you are desperately short on credits, always use 4 boards at a time to increase your chances of getting bingos."
+  },
+  {
+    "id": 9,
     "jeuxa": "🐷Coin Master🐷",
     "jeuxios": "🐷Coin Master🐷",
     "fr": "La carte Joker est un atout puissant. Utilisez les cartes Joker pour compléter les sets de cartes les plus difficiles, en particulier les sets non saisonniers, car ces sets sont généralement plus difficiles à compléter.",
     "en": "The Joker card is a powerful asset. Use Joker cards to complete the most challenging card sets—especially non-seasonal sets, as these are generally harder to finish."
   },
   {
-    "id": 4,
+    "id": 10,
+    "jeuxa": "🎲Dice Dreams🎲",
+    "jeuxios": "🎲Dice Dreams🎲",
+    "fr": "Dépensez votre or dès que vous en avez assez pour passer au niveau supérieur ou terminer un bâtiment, plutôt que de vous déconnecter avec une fortune facile à voler.",
+    "en": "Spend your gold as soon as you have enough to upgrade to the next level or complete a building, rather than logging off with a fortune that’s easy to steal."
+  },
+  {
+    "id": 11,
+    "jeuxa": "🎩Monopoly Go!🏠",
+    "jeuxios": "🎩Monopoly Go!🏠",
+    "fr": "Attendez des événements comme Wheel Boost ou Board Rush pour lancer vos constructions en bloc et maximiser vos gains à moindre coût.",
+    "en": "Wait for events like Wheel Boost or Board Rush to launch your building projects, allowing you to maximize your gains while spending less."
+  },
+  {
+    "id": 12,
+    "jeuxa": "✨Match Masters🔴",
+    "jeuxios": "✨Match Masters🔴",
+    "fr": "Évitez d'équiper vos boosters les plus rares à chaque match sans réfléchir. Gardez-les pour les modes ou événements où vous avez de fortes chances de gagner (comme les modes dédiés Or ou Diamant).",
+    "en": "Avoid equipping your rarest boosters for every match without giving it any thought. Save them for modes or events where you have a strong chance of winning (such as modes specifically for Gold or Diamond tiers)."
+  },
+  {
+    "id": 13,
+    "jeuxa": "🃊 Domino Dreams 🃊",
+    "jeuxios": "🃊 Domino Dreams 🃊",
+    "fr": "Ne terminez jamais un chapitre avec un solde à zéro. Gardez toujours des pièces pour démarrer le niveau suivant sans attendre.",
+    "en": "Never finish a chapter with a zero balance. Always keep some coins on hand so you can start the next level without having to wait."
+  },
+  {
+    "id": 14,
+    "jeuxa": "📱Multi Free Spins📱",
+    "jeuxios": "📱Multi Spins Rewards📱",
+    "fr": "Si vous voulez que je rajoute un jeu dans l'application, vous pouvez me contacter en cliquant sur 'Contact Us' dans la page des paramètres.",
+    "en": "If you would like me to add a game to the application, you can contact me by clicking on Contact Us on the Settings page."
+  },
+  {
+    "id": 15,
+    "jeuxa": "🐽Piggy Go!🐖",
+    "jeuxios": "🐽Piggy Go!🐖",
+    "fr": "Gérez vos lancers de dés : connectez-vous régulièrement pour récupérer des lancers supplémentaires (disponibles toutes les heures) afin de ne jamais atteindre votre limite maximale d’énergie et de ne pas gaspiller de lancers gratuits.",
+    "en": "Manage Your Dice Rolls: Log in regularly to collect hourly roll refills so you never hit your maximum energy cap and waste free rolls."
+  },
+  {
+    "id": 16,
+    "jeuxa": "🔮Bingo Blitz🔮",
+    "jeuxios": "🔮Bingo Blitz🔮",
+    "fr": "Ne cliquez pas trop vite sur le bouton Bingo. Attendez un peu pour marquer d'autres numéros et faire progresser vos jauges de power-ups, à moins que vous ne risquiez de rater une opportunité.",
+    "en": "Don’t click the Bingo button too quickly. Wait a bit to mark more numbers and fill up your power-up gauges—unless, of course, you risk missing an opportunity."
+  },
+  {
+    "id": 17,
     "jeuxa": "🐷Coin Master🐷",
     "jeuxios": "🐷Coin Master🐷",
     "fr": "Envoyez vos cartes en double à vos amis. Cela les aidera et les encouragera à vous aider en retour. Cette stratégie sociale crée un cycle mutuellement bénéfique.",
     "en": "Send your duplicate cards to your friends. This will help them and encourage them to help you in return. This social strategy creates a mutually beneficial cycle."
   },
   {
-    "id": 5,
-    "jeuxa": "🐷Coin Master🐷",
-    "jeuxios": "🐷Coin Master🐷",
-    "fr": "Un multiplicateur plus élevé utilise plus de Tours de votre solde à chaque fois que vous lancez, mais il peut aussi vous rapporter de meilleures récompenses.",
-    "en": "A higher multiplier uses more spins from your balance each time you play, but it can also earn you better rewards."
-  },
-  {
-    "id": 6,
-    "jeuxa": "🐷Coin Master🐷",
-    "jeuxios": "🐷Coin Master🐷",
-    "fr": "Vos progrès ne comptent que si vous les conservez. Avant de vous déconnecter, accumulez vos Boucliers, surtout si votre Village n'est qu'à moitié construit.",
-    "en": "Your progress only counts if you manage to keep it. Before logging off, stock up on Shields—especially if your Village is only half-built."
-  },  
-  {
-    "id": 7,
-    "jeuxa": "📱Multi Free Spins📱",
-    "jeuxios": "📱Multi Spins Rewards📱",
-    "fr": "Si vous voulez que je rajoute un jeu dans l'application, vous pouvez me contacter en cliquant sur Contact Us dans la page Paramètres.",
-    "en": "If you would like me to add a game to the application, you can contact me by clicking on Contact Us on the Settings page."
-  },
-   {
-    "id": 8,
-    "jeuxa": "📱Multi Free Spins📱",
-    "jeuxios": "📱Multi Spins Rewards📱",
-    "fr": "J'ai développé cette application, pour satisfaire tous les utilisateurs, n'hésitez pas à noter et à commenter dans le Play Store.",
-    "en": "I developed this application to satisfy all users; please feel free to rate and comment on the Play Store."
-	},
-  {
-    "id": 9,
-    "jeuxa": "🎲Dice Dreams🎲",
-    "jeuxios": "🎲Dice Dreams🎲",
-    "fr": "Concentrez-vous d'abord sur la construction ou l'amélioration des structures les plus coûteuses de votre royaume, puis terminez par les moins chères.",
-    "en": "Focus first on constructing or upgrading the most expensive structures in your kingdom, then finish with the least expensive ones."
-  },
-    {
-    "id": 10,
-    "jeuxa": "🎲Dice Dreams🎲",
-    "jeuxios": "🎲Dice Dreams🎲",
-    "fr": "Dépensez votre or dès que vous en avez assez pour passer au niveau supérieur ou terminer un bâtiment, plutôt que de déconnecter avec une fortune facile à voler.",
-    "en": "Spend your gold as soon as you have enough to upgrade to the next level or complete a building, rather than logging off with a fortune that’s easy to steal."
-  },
-    {
-    "id": 11,
+    "id": 18,
     "jeuxa": "🎲Dice Dreams🎲",
     "jeuxios": "🎲Dice Dreams🎲",
     "fr": "Servez-vous de la fonction de vengeance pour cibler précisément les joueurs qui ont attaqué votre royaume récemment.",
     "en": "Use the revenge feature to specifically target players who have recently attacked your kingdom."
   },
-    {
-    "id": 12,
-    "jeuxa": "🎲Dice Dreams🎲",
-    "jeuxios": "🎲Dice Dreams🎲",
-    "fr": "Jouez plus de dés sur les 3 ou 4 premier lancé, c'est à ce moment que tombe trés souvent les dés offerts dans le jeu, puis réduisez de moitié.",
-    "en": "Play more dice during the first 3 or 4 rolls—this is when the bonus dice provided in the game very often appear—then cut your usage in half."
+  {
+    "id": 19,
+    "jeuxa": "🎩Monopoly Go!🏠",
+    "jeuxios": "🎩Monopoly Go!🏠",
+    "fr": "Ne faites pas d'échanges au hasard ; concentrez-vous sur la complétion de sets d'autocollants entiers pour gagner des milliers de dés d'un coup.",
+    "en": "Don't trade at random; focus on completing entire sticker sets to earn thousands of dice at once."
   },
-    {
-    "id": 13,
-    "jeuxa": "🃊 Domino Dreams 🃊",
-    "jeuxios": "🃊 Domino Dreams 🃊",
-    "fr": "",
-    "en": ""
+  {
+    "id": 20,
+    "jeuxa": "✨Match Masters🔴",
+    "jeuxios": "✨Match Masters🔴",
+    "fr": "Utilisez vos Perks (bonus d'avant-match) intelligemment : ne les brûlez pas tous au début ; gardez-les parfois pour placer une contre-attaque décisive en fin de partie. Mettez-les à jour si vous changez de mode de jeu.",
+    "en": "Use your Perks (pre-match bonuses) wisely: don’t burn through them all at the start—sometimes it’s better to save them for a decisive counterattack later in the game. Remember to update them if you switch game modes."
   },
-    {
-    "id": 14,
-    "jeuxa": "🃊 Domino Dreams 🃊",
-    "jeuxios": "🃊 Domino Dreams 🃊",
-    "fr": "Réservez vos multiplicateurs (x5, x10) pour les événements importants comme les braquages de banque (Bank Heists) ou les raids.",
-    "en": "Save your multipliers (x5, x10) for major events like bank heists or raids."
-  },
-    {
-    "id": 15,
-    "jeuxa": "🃊 Domino Dreams 🃊",
-    "jeuxios": "🃊 Domino Dreams 🃊",
-    "fr": "Ne terminez jamais un chapitre avec un solde à zéro. Gardez toujours des pièces pour démarrer le niveau suivant sans attendre.",
-    "en": "Never finish a chapter with a zero balance. Always keep some coins on hand so you can start the next level without having to wait."
-  },
-    {
-    "id": 16,
+  {
+    "id": 21,
     "jeuxa": "🃊 Domino Dreams 🃊",
     "jeuxios": "🃊 Domino Dreams 🃊",
     "fr": "Ne dépensez vos pièces que pour les constructions et améliorations requises pour finir le chapitre. Ignorez les décorations facultatives qui gaspillent vos réserves.",
     "en": "Only spend your coins on the constructions and upgrades required to complete the chapter. Ignore optional decorations, which just waste your reserves."
   },
-    {
-    "id": 17,
-    "jeuxa": "🔮Bingo Blitz🔮",
-    "jeuxios": "🔮Bingo Blitz🔮",
-    "fr": "Sauf si vous manquez cruellement de crédits, utilisez toujours 4 planches à la fois pour multiplier vos chances d'obtenir des bingos.",
-    "en": "Unless you are desperately short on credits, always use 4 boards at a time to increase your chances of getting bingos."
-  },
-    {
-    "id": 18,
-    "jeuxa": "🔮Bingo Blitz🔮",
-    "jeuxios": "🔮Bingo Blitz🔮",
-    "fr": "Ne cliquez pas trop vite sur le bouton Bingo. Attendez un peu pour marquer d'autres numéros et faire progresser vos jauges de power-ups, à moins que vous ne risquiez de rater une opportunité.",
-    "en": "Don’t click the Bingo button too quickly. Wait a bit to mark more numbers and fill up your power-up gauges—unless, of course, you risk missing an opportunity."
-  },
-    {
-    "id": 19,
-    "jeuxa": "🔮Bingo Blitz🔮",
-    "jeuxios": "🔮Bingo Blitz🔮",
-    "fr": "Utilisez les Power-ups intelligemment :
-	• Le Supercharger réduit le temps de recharge.
-	• Le Double XP double vos points d'expérience.
-	• L'Instant Win vous offre un bingo automatique sur une case aléatoire.",
-    "en": "Use Power-ups wisely: 
-	• The Supercharger reduces the recharge time.
-	• Double XP doubles your experience points.
-	• Instant Win grants you an automatic bingo on a random space."
-  },
-    {
-    "id": 20,
-    "jeuxa": "✨Match Masters🔴",
-    "jeuxios": "✨Match Masters🔴",
-    "fr": "Concentrez-vous en priorité sur l’alignement des étoiles bleues (qui chargent votre booster) par rapport aux cercles rouges de votre adversaire.",
-    "en": "Focus primarily on aligning the blue stars (which charge your booster) with your opponent’s red circles."
-  },
-    {
-    "id": 21,
-    "jeuxa": "✨Match Masters🔴",
-    "jeuxios": "✨Match Masters🔴",
-    "fr": "Évitez d'équiper vos boosters les plus rares à chaque match sans réfléchir. Gardez-les pour les modes ou événements où vous avez de fortes chances de gagner (comme les modes dédiés Or ou Diamant).",
-    "en": "Avoid equipping your rarest boosters for every match without giving it any thought. Save them for modes or events where you have a strong chance of winning (such as modes specifically for Gold or Diamond tiers)."
-  },
-    {
+  {
     "id": 22,
-    "jeuxa": "✨Match Masters🔴",
-    "jeuxios": "✨Match Masters🔴",
-    "fr": "Utilisez vos Perks (bonus d'avant-match) intelligemment : Ne les brûlez pas tous au début ; gardez-les parfois pour placer une contre-attaque décisive en fin de partie. Mettez-les à jour si vous changez de mode de jeu.",
-    "en": "Use your Perks (pre-match bonuses) wisely: don’t burn through them all at the start—sometimes it’s better to save them for a decisive counterattack later in the game. Remember to update them if you switch game modes."
-  },  
-    {
+    "jeuxa": "📱Multi Free Spins📱",
+    "jeuxios": "📱Multi Spins Rewards📱",
+    "fr": "J'ai développé cette application pour satisfaire tous les utilisateurs, n'hésitez pas à la noter et à la commenter dans le Play Store.",
+    "en": "I developed this application to satisfy all users; please feel free to rate and comment on the Play Store."
+  },
+  {
     "id": 23,
-    "jeuxa": "✨Match Masters🔴",
-    "jeuxios": "✨Match Masters🔴",
-    "fr": "Réduisez les opportunités de l'adversaire : Avant de faire un choix, regardez si votre mouvement ne va pas offrir un alignement facile ou une bombe sur un plateau ouvert à votre rival.",
-    "en": "Limit your opponent's opportunities: Before making a move, check to ensure that your action won't provide your rival with an easy alignment or a bomb on an open board."
-  },
-    {
-    "id": 24,
-    "jeuxa": "🐽Piggy Go!🐖",
-    "jeuxios": "🐽Piggy Go!🐖",
-    "fr": "Si vous êtes vulnérable, ne construisez pas les éléments un par un au hasar, accumulez suffisamment de pièces pour terminer de grandes sections, voire des niveaux insulaires entiers, en une seule fois, afin d'éviter de perdre des sommes considérables lors d'attaques.",
-    "en": "Don't build pieces one-by-one randomly if you are vulnerable; save up enough coins to finish large portions or entire island levels at once to avoid losing massive amounts to raids."
-  },
-    {
-    "id": 25,
-    "jeuxa": "🐽Piggy Go!🐖",
-    "jeuxios": "🐽Piggy Go!🐖",
-    "fr": "Gérez vos lancers de dés : connectez-vous régulièrement pour récupérer des lancers supplémentaires (disponibles toutes les heures) afin de ne jamais atteindre votre limite maximale d’énergie et de ne pas gaspiller des lancers gratuits.",
-    "en": "Manage Your Dice Rolls: Log in regularly to collect hourly roll refills so you never hit your maximum energy cap and waste free rolls."
-  },
-    {
-    "id": 26,
     "jeuxa": "🐽Piggy Go!🐖",
     "jeuxios": "🐽Piggy Go!🐖",
     "fr": "Élargissez votre liste d’amis en jeu et rejoignez une équipe active pour échanger vos cartes en double, compléter plus rapidement vos albums de récompenses et vous envoyer des cadeaux au quotidien.",
     "en": "Expand your in-game friends list and join an active team to trade card duplicates, complete reward albums faster, and exchange daily gifts."
   },
-    {
-    "id": 27,
-    "jeuxa": "🎩Monopoly Go!🏠",
-    "jeuxios": "🎩Monopoly Go!🏠",
-    "fr": "Augmentez votre multiplicateur lorsque vous vous trouvez à 6, 7 ou 8 cases (statistiquement les plus fréquentes) d'une case intéressante (gares, événements, boucliers).",
-    "en": "Increase your multiplier when you are 6, 7, or 8 spaces away (statistically the most frequent distances) from a valuable space (stations, events, shields)."
-  },
-    {
-    "id": 28,
-    "jeuxa": "🎩Monopoly Go!🏠",
-    "jeuxios": "🎩Monopoly Go!🏠",
-    "fr": "Attendez des événements comme Wheel Boost ou Board Rush pour lancer vos constructions en bloc et maximiser vos gains pour moins d'argent.",
-    "en": "Wait for events like Wheel Boost or Board Rush to launch your building projects, allowing you to maximize your gains while spending less."
-  },
-     {
-    "id": 29,
-    "jeuxa": "🎩Monopoly Go!🏠",
-    "jeuxios": "🎩Monopoly Go!🏠",
-    "fr": "Ne tradez pas au hasard ; concentrez-vous sur la complétion de sets d'autocollants entiers pour gagner des milliers de dés d'un coup.",
-    "en": "Don't trade at random; focus on completing entire sticker sets to earn thousands of dice at once."
-  },
-    {
-    "id": 30,
-    "jeuxa": "🎩Monopoly Go!🏠",
-    "jeuxios": "🎩Monopoly Go!🏠",
-    "fr": "Ne construisez pas vos monuments dès que vous avez un peu d'argent, au risque de vous faire braquer ou détruire.",
-    "en": "Do not build your monuments as soon as you have a little money, or you risk having them raided or destroyed."
-  }  
+  {
+    "id": 24,
+    "jeuxa": "🔮Bingo Blitz🔮",
+    "jeuxios": "🔮Bingo Blitz🔮",
+"fr": "Utilisez les Power-ups intelligemment :\n• Le Supercharger réduit le temps de recharge.\n• Le Double XP double vos points d'expérience.\n• L'Instant Win vous offre un bingo automatique sur une case aléatoire.",
+"en": "Use Power-ups wisely: \n• The Supercharger reduces the recharge time.\n• Double XP doubles your experience points.\n• Instant Win grants you an automatic bingo on a random space."
+},
+{
+"id": 25,
+"jeuxa": "🐷Coin Master🐷",
+"jeuxios": "🐷Coin Master🐷",
+"fr": "Un multiplicateur plus élevé utilise plus de tours de votre solde à chaque fois que vous lancez, mais il peut aussi vous rapporter de meilleures récompenses.",
+"en": "A higher multiplier uses more spins from your balance each time you play, but it can also earn you better rewards."
+},
+{
+"id": 26,
+"jeuxa": "🎲Dice Dreams🎲",
+"jeuxios": "🎲Dice Dreams🎲",
+"fr": "Jouez plus de dés sur les 3 ou 4 premiers lancers : c'est à ce moment que tombent très souvent les dés offerts dans le jeu, puis réduisez votre usage de moitié.",
+"en": "Play more dice during the first 3 or 4 rolls—this is when the bonus dice provided in the game very often appear—then cut your usage in half."
+},
+{
+"id": 27,
+"jeuxa": "🎩Monopoly Go!🏠",
+"jeuxios": "🎩Monopoly Go!🏠",
+"fr": "Ne construisez pas vos monuments dès que vous avez un peu d'argent, au risque de vous faire braquer ou détruire.",
+"en": "Do not build your monuments as soon as you have a little money, or you risk having them raided or destroyed."
+},
+{
+"id": 28,
+"jeuxa": "✨Match Masters🔴",
+"jeuxios": "✨Match Masters🔴",
+"fr": "Réduisez les opportunités de l'adversaire : avant de faire un choix, regardez si votre mouvement ne va pas offrir un alignement facile ou une bombe sur un plateau ouvert à votre rival.",
+"en": "Limit your opponent's opportunities: Before making a move, check to ensure that your action won't provide your rival with an easy alignment or a bomb on an open board."
+},
+{
+"id": 29,
+"jeuxa": "🐷Coin Master🐷",
+"jeuxios": "🐷Coin Master🐷",
+"fr": "Vos progrès ne comptent que si vous les conservez. Avant de vous déconnecter, accumulez vos boucliers, surtout si votre village n'est qu'à moitié construit.",
+"en": "Your progress only counts if you manage to keep it. Before logging off, stock up on Shields—especially if your Village is only half-built."
+}
 ]
