@@ -6,34 +6,35 @@
     "fr": "Ne gaspillez pas vos tours si vous n'avez pas assez de ressources pour finir un village. Économisez au moins 50 tours passifs avant de lancer une grosse session de jeu pour optimiser vos gains.",
     "en": "Don't waste your spins if you don't have enough resources to finish a village. Save at least 50 passive spins before launching a big gaming session to optimize your rewards."
   },
-  {
+    {
     "id": 2,
+    "jeuxa": "📱Multi Free Spins📱",
+    "jeuxios": "📱Multi Spins Rewards📱",
+    "fr": "N'oubliez pas de configurer vos notifications personnalisables dans le menu des paramètres, par défaut celles-ci sont sur OFF.",
+    "en": "Don't forget to configure your customizable notifications in the settings menu; by default, these are set to OFF."
+  },
+  {
+    "id": 3,
     "jeuxa": "🎩Monopoly Go!🏠",
     "jeuxios": "🎩Monopoly Go!🏠",
     "fr": "Augmentez votre multiplicateur lorsque vous vous trouvez à 6, 7 ou 8 cases (statistiquement les plus fréquentes) d'une case intéressante (gares, événements, boucliers).",
     "en": "Increase your multiplier when you are 6, 7, or 8 spaces away (statistically the most frequent distances) from a valuable space (stations, events, shields)."
   },
   {
-    "id": 3,
+    "id": 4,
     "jeuxa": "🎲Dice Dreams🎲",
     "jeuxios": "🎲Dice Dreams🎲",
     "fr": "Concentrez-vous d'abord sur la construction ou l'amélioration des structures les plus coûteuses de votre royaume, puis terminez par les moins chères.",
     "en": "Focus first on constructing or upgrading the most expensive structures in your kingdom, then finish with the least expensive ones."
   },
   {
-    "id": 4,
+    "id": 5,
     "jeuxa": "✨Match Masters🔴",
     "jeuxios": "✨Match Masters🔴",
     "fr": "Concentrez-vous en priorité sur l’alignement des étoiles bleues (qui chargent votre booster) par rapport aux cercles rouges de votre adversaire.",
     "en": "Focus primarily on aligning the blue stars (which charge your booster) with your opponent’s red circles."
   },
-  {
-    "id": 5,
-    "jeuxa": "📱Multi Free Spins📱",
-    "jeuxios": "📱Multi Spins Rewards📱",
-    "fr": "N'oubliez pas de configurer vos notifications personnalisables dans le menu des paramètres (icône en haut à gauche de la page d'accueil).",
-    "en": "Don't forget to configure your customizable notifications in the settings menu (icon in the top-left corner of the home page)."
-  },
+
   {
     "id": 6,
     "jeuxa": "🃊 Domino Dreams 🃊",
