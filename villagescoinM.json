@@ -1,0 +1,5132 @@
+[
+ {
+   "Niveau": 1,
+   "nom_en": "Land of Vikings",
+   "nom_fr": "Terre des Vikings",
+   "nom_de": "Land der Wikinger",
+   "nom_es": "Tierra de vikingos",
+   "nom_it": "Terra dei Vichinghi",
+   "cout": "3.1M"
+ },
+ {
+   "Niveau": 2,
+   "nom_en": "Ancient Egypt",
+   "nom_fr": "Égypte antique",
+   "nom_de": "Altes Ägypten",
+   "nom_es": "El antiguo Egipto",
+   "nom_it": "Antico Egitto",
+   "cout": "5.2M"
+ },
+ {
+   "Niveau": 3,
+   "nom_en": "Snowy Alps",
+   "nom_fr": "Alpes enneigées",
+   "nom_de": "Verschneite Alpen",
+   "nom_es": "Alpes nevados",
+   "nom_it": "Alpi innevate",
+   "cout": "9.5M"
+ },
+ {
+   "Niveau": 4,
+   "nom_en": "Inca",
+   "nom_fr": "Inca",
+   "nom_de": "Inka",
+   "nom_es": "Inca",
+   "nom_it": "Inca",
+   "cout": "13.2M"
+ },
+ {
+   "Niveau": 5,
+   "nom_en": "Far East",
+   "nom_fr": "Extręme Orient",
+   "nom_de": "Fernost",
+   "nom_es": "Lejano Oriente",
+   "nom_it": "Estremo Oriente",
+   "cout": "16.3M"
+ },
+ {
+   "Niveau": 6,
+   "nom_en": "Stone Age",
+   "nom_fr": "Âge de pierre",
+   "nom_de": "Steinzeit",
+   "nom_es": "Edad de Piedra",
+   "nom_it": "Etŕ della pietra",
+   "cout": "17.4M"
+ },
+ {
+   "Niveau": 7,
+   "nom_en": "Sunny Hawaii",
+   "nom_fr": "Hawaď ensoleillé",
+   "nom_de": "Sonniges Hawaii",
+   "nom_es": "Hawái soleado",
+   "nom_it": "Hawaii soleggiata",
+   "cout": "20.6M"
+ },
+ {
+   "Niveau": 8,
+   "nom_en": "Troy",
+   "nom_fr": "Troy",
+   "nom_de": "Troja",
+   "nom_es": "Troya",
+   "nom_it": "Troia",
+   "cout": "25.8M"
+ },
+ {
+   "Niveau": 9,
+   "nom_en": "Africa",
+   "nom_fr": "Afrique",
+   "nom_de": "Afrika",
+   "nom_es": "África",
+   "nom_it": "Africa",
+   "cout": "31M"
+ },
+ {
+   "Niveau": 10,
+   "nom_en": "Atlantis",
+   "nom_fr": "L'Atlantide",
+   "nom_de": "Atlantis",
+   "nom_es": "Atlántida",
+   "nom_it": "Atlantide",
+   "cout": "34.8M"
+ },
+ {
+   "Niveau": 11,
+   "nom_en": "Robot",
+   "nom_fr": "Robot",
+   "nom_de": "Roboter",
+   "nom_es": "Robot",
+   "nom_it": "Robot",
+   "cout": "35.8M"
+ },
+ {
+   "Niveau": 12,
+   "nom_en": "Woodstock",
+   "nom_fr": "Woodstock",
+   "nom_de": "Woodstock",
+   "nom_es": "Woodstock",
+   "nom_it": "Woodstock",
+   "cout": "37.4M"
+ },
+ {
+   "Niveau": 13,
+   "nom_en": "Arabian Nights",
+   "nom_fr": "Les Mille et Une Nuits",
+   "nom_de": "Tausendundeine Nacht",
+   "nom_es": "Las mil y una noches",
+   "nom_it": "Mille e una notte",
+   "cout": "41M"
+ },
+ {
+   "Niveau": 14,
+   "nom_en": "Moon Landing",
+   "nom_fr": "Atterrissage sur la Lune",
+   "nom_de": "Mondlandung",
+   "nom_es": "Aterrizaje en la Luna",
+   "nom_it": "Allunaggio",
+   "cout": "42.8M"
+ },
+ {
+   "Niveau": 15,
+   "nom_en": "Wild West",
+   "nom_fr": "Far West",
+   "nom_de": "Wilder Westen",
+   "nom_es": "Salvaje Oeste",
+   "nom_it": "Selvaggio West",
+   "cout": "58.3M"
+ },
+ {
+   "Niveau": 16,
+   "nom_en": "Netherlands",
+   "nom_fr": "Pays-Bas",
+   "nom_de": "Niederlande",
+   "nom_es": "Países Bajos",
+   "nom_it": "Paesi Bassi",
+   "cout": "60M"
+ },
+ {
+   "Niveau": 17,
+   "nom_en": "Jungle",
+   "nom_fr": "Jungle",
+   "nom_de": "Dschungel",
+   "nom_es": "Selva",
+   "nom_it": "Giungla",
+   "cout": "64M"
+ },
+ {
+   "Niveau": 18,
+   "nom_en": "Wonderland",
+   "nom_fr": "Pays des merveilles",
+   "nom_de": "Wunderland",
+   "nom_es": "Mundo maravilloso",
+   "nom_it": "Paese delle Meraviglie",
+   "cout": "67.2M"
+ },
+ {
+   "Niveau": 19,
+   "nom_en": "Miners",
+   "nom_fr": "Mineurs",
+   "nom_de": "Bergleute",
+   "nom_es": "mineros",
+   "nom_it": "Minatori",
+   "cout": "69.9M"
+ },
+ {
+   "Niveau": 20,
+   "nom_en": "The Arctic",
+   "nom_fr": "L'Arctique",
+   "nom_de": "Die Arktis",
+   "nom_es": "El Ártico",
+   "nom_it": "L'Artico",
+   "cout": "60M"
+ },
+ {
+   "Niveau": 21,
+   "nom_en": "Apocalypse",
+   "nom_fr": "Apocalypse",
+   "nom_de": "Apokalypse",
+   "nom_es": "Apocalipsis",
+   "nom_it": "Apocalisse",
+   "cout": "61M"
+ },
+ {
+   "Niveau": 22,
+   "nom_en": "Candy Land",
+   "nom_fr": "Le pays des bonbons",
+   "nom_de": "Süßigkeitenland",
+   "nom_es": "Candy Land",
+   "nom_it": "Candy Land",
+   "cout": "63.4M"
+ },
+ {
+   "Niveau": 23,
+   "nom_en": "Army Camp",
+   "nom_fr": "Camp militaire",
+   "nom_de": "Armeelager",
+   "nom_es": "Campamento del ejército",
+   "nom_it": "Campo militare",
+   "cout": "64.2M"
+ },
+ {
+   "Niveau": 24,
+   "nom_en": "Halloween",
+   "nom_fr": "Halloween",
+   "nom_de": "Halloween",
+   "nom_es": "Halloween",
+   "nom_it": "Halloween",
+   "cout": "67.3M"
+ },
+ {
+   "Niveau": 25,
+   "nom_en": "The Tribe",
+   "nom_fr": "La tribu",
+   "nom_de": "Der Stamm",
+   "nom_es": "La tribu",
+   "nom_it": "La tribů",
+   "cout": "66.6M"
+ },
+ {
+   "Niveau": 26,
+   "nom_en": "Australia",
+   "nom_fr": "Australie",
+   "nom_de": "Australien",
+   "nom_es": "Australia",
+   "nom_it": "Australia",
+   "cout": "71M"
+ },
+ {
+   "Niveau": 27,
+   "nom_en": "Columbus",
+   "nom_fr": "Colomb",
+   "nom_de": "Kolumbus",
+   "nom_es": "Colón",
+   "nom_it": "Colombo",
+   "cout": "69.7M"
+ },
+ {
+   "Niveau": 28,
+   "nom_en": "Mexico",
+   "nom_fr": "Mexique",
+   "nom_de": "Mexiko",
+   "nom_es": "México",
+   "nom_it": "Messico",
+   "cout": "75.8M"
+ },
+ {
+   "Niveau": 29,
+   "nom_en": "Magical Forest",
+   "nom_fr": "Foręt magique",
+   "nom_de": "Zauberwald",
+   "nom_es": "Bosque Mágico",
+   "nom_it": "Foresta Magica",
+   "cout": "81M"
+ },
+ {
+   "Niveau": 30,
+   "nom_en": "India",
+   "nom_fr": "Inde",
+   "nom_de": "Indien",
+   "nom_es": "India",
+   "nom_it": "India",
+   "cout": "85.7M"
+ },
+ {
+   "Niveau": 31,
+   "nom_en": "The 50’s",
+   "nom_fr": "Les années 50",
+   "nom_de": "Die 50er Jahre",
+   "nom_es": "Los ańos 50",
+   "nom_it": "Gli anni '50",
+   "cout": "91.7M"
+ },
+ {
+   "Niveau": 32,
+   "nom_en": "Thailand",
+   "nom_fr": "Thaďlande",
+   "nom_de": "Thailand",
+   "nom_es": "Tailandia",
+   "nom_it": "Thailandia",
+   "cout": "97.2M"
+ },
+ {
+   "Niveau": 33,
+   "nom_en": "Coin Manor",
+   "nom_fr": "Manoir des pičces",
+   "nom_de": "Coin Manor",
+   "nom_es": "Mansión Coin",
+   "nom_it": "Coin Manor",
+   "cout": "108.9M"
+ },
+ {
+   "Niveau": 34,
+   "nom_en": "Dragon Lair",
+   "nom_fr": "Repaire du Dragon",
+   "nom_de": "Drachenhöhle",
+   "nom_es": "Guarida del dragón",
+   "nom_it": "Tana del Drago",
+   "cout": "115.2M"
+ },
+ {
+   "Niveau": 35,
+   "nom_en": "Greek Island",
+   "nom_fr": "Île grecque",
+   "nom_de": "Griechische Insel",
+   "nom_es": "Isla griega",
+   "nom_it": "Isola greca",
+   "cout": "120.1M"
+ },
+ {
+   "Niveau": 36,
+   "nom_en": "LA Dreams",
+   "nom_fr": "Ręves de Los Angeles",
+   "nom_de": "LA-Träume",
+   "nom_es": "Sueńos de Los Ángeles",
+   "nom_it": "LA Dreams",
+   "cout": "126.3M"
+ },
+ {
+   "Niveau": 37,
+   "nom_en": "Wizard",
+   "nom_fr": "Magicien",
+   "nom_de": "Zauberer",
+   "nom_es": "Mago",
+   "nom_it": "Mago",
+   "cout": "134M"
+ },
+ {
+   "Niveau": 38,
+   "nom_en": "Oil Tyrant",
+   "nom_fr": "Tyran du pétrole",
+   "nom_de": "Öl-Tyrann",
+   "nom_es": "Tirano del petróleo",
+   "nom_it": "Tiranno del petrolio",
+   "cout": "141.5M"
+ },
+ {
+   "Niveau": 39,
+   "nom_en": "La Familia",
+   "nom_fr": "La Familia",
+   "nom_de": "La Familia",
+   "nom_es": "La Familia",
+   "nom_it": "La Familia",
+   "cout": "153.6M"
+ },
+ {
+   "Niveau": 40,
+   "nom_en": "Area 51",
+   "nom_fr": "Zone 51",
+   "nom_de": "Area 51",
+   "nom_es": "Área 51",
+   "nom_it": "Area 51",
+   "cout": "163.8M"
+ },
+ {
+   "Niveau": 41,
+   "nom_en": "Night of the Dead",
+   "nom_fr": "La Nuit des Morts",
+   "nom_de": "Nacht der Toten",
+   "nom_es": "La noche de los muertos",
+   "nom_it": "La notte dei morti",
+   "cout": "165.1M"
+ },
+ {
+   "Niveau": 42,
+   "nom_en": "Steampunk",
+   "nom_fr": "Steampunk",
+   "nom_de": "Steampunk",
+   "nom_es": "Steampunk",
+   "nom_it": "Magicopunk",
+   "cout": "174.6M"
+ },
+ {
+   "Niveau": 43,
+   "nom_en": "The Zoo",
+   "nom_fr": "Le zoo",
+   "nom_de": "Der Zoo",
+   "nom_es": "El zoológico",
+   "nom_it": "Lo zoo",
+   "cout": "180.5M"
+ },
+ {
+   "Niveau": 44,
+   "nom_en": "Russia",
+   "nom_fr": "Russie",
+   "nom_de": "Russland",
+   "nom_es": "Rusia",
+   "nom_it": "Russia",
+   "cout": "192.3M"
+ },
+ {
+   "Niveau": 45,
+   "nom_en": "Musketeers",
+   "nom_fr": "Mousquetaires",
+   "nom_de": "Musketiere",
+   "nom_es": "Mosqueteros",
+   "nom_it": "Moschettieri",
+   "cout": "205M"
+ },
+ {
+   "Niveau": 46,
+   "nom_en": "Lady Bug",
+   "nom_fr": "Coccinelle",
+   "nom_de": "Marienkäfer",
+   "nom_es": "Mariquita",
+   "nom_it": "Coccinella",
+   "cout": "216.2M"
+ },
+ {
+   "Niveau": 47,
+   "nom_en": "Theme Park",
+   "nom_fr": "Parc d'attractions",
+   "nom_de": "Themenpark",
+   "nom_es": "Parque temático",
+   "nom_it": "Parco a tema",
+   "cout": "229M"
+ },
+ {
+   "Niveau": 48,
+   "nom_en": "Tibet",
+   "nom_fr": "Tibet",
+   "nom_de": "Tibet",
+   "nom_es": "Tíbet",
+   "nom_it": "Tibet",
+   "cout": "251.5M"
+ },
+ {
+   "Niveau": 49,
+   "nom_en": "Hell",
+   "nom_fr": "Enfer",
+   "nom_de": "Hölle",
+   "nom_es": "Infierno",
+   "nom_it": "Inferno",
+   "cout": "272.8M"
+ },
+ {
+   "Niveau": 50,
+   "nom_en": "Easter",
+   "nom_fr": "Pâques",
+   "nom_de": "Ostern",
+   "nom_es": "Pascua de Resurrección",
+   "nom_it": "Pasqua",
+   "cout": "279M"
+ },
+ {
+   "Niveau": 51,
+   "nom_en": "Japan",
+   "nom_fr": "Japon",
+   "nom_de": "Japan",
+   "nom_es": "Japón",
+   "nom_it": "Giappone",
+   "cout": "282.9M"
+ },
+ {
+   "Niveau": 52,
+   "nom_en": "Swamp",
+   "nom_fr": "Marais",
+   "nom_de": "Sumpf",
+   "nom_es": "Pantano",
+   "nom_it": "Pantano",
+   "cout": "291M"
+ },
+ {
+   "Niveau": 53,
+   "nom_en": "Oz",
+   "nom_fr": "Oz",
+   "nom_de": "Oz",
+   "nom_es": "Oz",
+   "nom_it": "Oz",
+   "cout": "304M"
+ },
+ {
+   "Niveau": 54,
+   "nom_en": "Timbuktu",
+   "nom_fr": "Tombouctou",
+   "nom_de": "Timbuktu",
+   "nom_es": "Tombuctú",
+   "nom_it": "Timbuktu",
+   "cout": "320.7M"
+ },
+ {
+   "Niveau": 55,
+   "nom_en": "Jurassic Ville",
+   "nom_fr": "Ville jurassique",
+   "nom_de": "Jurassic Ville",
+   "nom_es": "Ciudad Jurásica",
+   "nom_it": "Jurassic Ville",
+   "cout": "345.3M"
+ },
+ {
+   "Niveau": 56,
+   "nom_en": "Canada",
+   "nom_fr": "Canada",
+   "nom_de": "Kanada",
+   "nom_es": "Canadá",
+   "nom_it": "Canada",
+   "cout": "348.1M"
+ },
+ {
+   "Niveau": 57,
+   "nom_en": "Mongolia",
+   "nom_fr": "Mongolie",
+   "nom_de": "Mongolei",
+   "nom_es": "Mongolia",
+   "nom_it": "Mongolia",
+   "cout": "368.4M"
+ },
+ {
+   "Niveau": 58,
+   "nom_en": "Jacks Beanstalk",
+   "nom_fr": "Le haricot magique de Jack",
+   "nom_de": "Jacks Bohnenranke",
+   "nom_es": "El tallo de habichuelas de Jack",
+   "nom_it": "Il fagiolo magico di Jack",
+   "cout": "384.1M"
+ },
+ {
+   "Niveau": 59,
+   "nom_en": "Scotland",
+   "nom_fr": "Écosse",
+   "nom_de": "Schottland",
+   "nom_es": "Escocia",
+   "nom_it": "Scozia",
+   "cout": "409.9M"
+ },
+ {
+   "Niveau": 60,
+   "nom_en": "Robin Hood",
+   "nom_fr": "Robin des Bois",
+   "nom_de": "Robin Hood",
+   "nom_es": "Robin Hood",
+   "nom_it": "Robin Hood",
+   "cout": "433.1M"
+ },
+ {
+   "Niveau": 61,
+   "nom_en": "Deep Sea",
+   "nom_fr": "Les profondeurs marines",
+   "nom_de": "Tiefsee",
+   "nom_es": "aguas profundas",
+   "nom_it": "Abissi marini",
+   "cout": "453.3M"
+ },
+ {
+   "Niveau": 62,
+   "nom_en": "Don Quixote",
+   "nom_fr": "don Quichotte",
+   "nom_de": "Don Quijote",
+   "nom_es": "Don Quixote",
+   "nom_it": "Don Chisciotte",
+   "cout": "483.4M"
+ },
+ {
+   "Niveau": 63,
+   "nom_en": "Colosseum",
+   "nom_fr": "Colisée",
+   "nom_de": "Kolosseum",
+   "nom_es": "Coliseo",
+   "nom_it": "Colosseo",
+   "cout": "505.3M"
+ },
+ {
+   "Niveau": 64,
+   "nom_en": "Cat Castle",
+   "nom_fr": "Château des chats",
+   "nom_de": "Katzenschloss",
+   "nom_es": "Castillo de gatos",
+   "nom_it": "Castello dei gatti",
+   "cout": "523M"
+ },
+ {
+   "Niveau": 65,
+   "nom_en": "Olympus",
+   "nom_fr": "Olympe",
+   "nom_de": "Olymp",
+   "nom_es": "Olimpo",
+   "nom_it": "Olimpo",
+   "cout": "542.6M"
+ },
+ {
+   "Niveau": 66,
+   "nom_en": "Trolls",
+   "nom_fr": "Trolls",
+   "nom_de": "Trolle",
+   "nom_es": "trolls",
+   "nom_it": "Troll",
+   "cout": "565.8M"
+ },
+ {
+   "Niveau": 67,
+   "nom_en": "Aliens",
+   "nom_fr": "extraterrestres",
+   "nom_de": "Außerirdische",
+   "nom_es": "Extraterrestres",
+   "nom_it": "Alieni",
+   "cout": "591.4M"
+ },
+ {
+   "Niveau": 68,
+   "nom_en": "Da Vinci",
+   "nom_fr": "Léonard de Vinci",
+   "nom_de": "Da Vinci",
+   "nom_es": "Da Vinci",
+   "nom_it": "Da Vinci",
+   "cout": "630M"
+ },
+ {
+   "Niveau": 69,
+   "nom_en": "Sand Land",
+   "nom_fr": "Terre de sable",
+   "nom_de": "Sandland",
+   "nom_es": "Tierra de arena",
+   "nom_it": "Terra di sabbia",
+   "cout": "658.5M"
+ },
+ {
+   "Niveau": 70,
+   "nom_en": "Elves",
+   "nom_fr": "Elfes",
+   "nom_de": "Elfen",
+   "nom_es": "Elfos",
+   "nom_it": "Elfi",
+   "cout": "694.8M"
+ },
+ {
+   "Niveau": 71,
+   "nom_en": "Switzerland",
+   "nom_fr": "Suisse",
+   "nom_de": "Schweiz",
+   "nom_es": "Suiza",
+   "nom_it": "Svizzera",
+   "cout": "726.2M"
+ },
+ {
+   "Niveau": 72,
+   "nom_en": "Truckers",
+   "nom_fr": "camionneurs",
+   "nom_de": "LKW-Fahrer",
+   "nom_es": "Camioneros",
+   "nom_it": "Camionisti",
+   "cout": "773.7M"
+ },
+ {
+   "Niveau": 73,
+   "nom_en": "Spain",
+   "nom_fr": "Espagne",
+   "nom_de": "Spanien",
+   "nom_es": "Espańa",
+   "nom_it": "Spagna",
+   "cout": "900M"
+ },
+ {
+   "Niveau": 74,
+   "nom_en": "Little Red",
+   "nom_fr": "Le Petit Rouge",
+   "nom_de": "Rotkäppchen",
+   "nom_es": "Caperucita Roja",
+   "nom_it": "Piccola Rossa",
+   "cout": "900M"
+ },
+ {
+   "Niveau": 75,
+   "nom_en": "Unicorn",
+   "nom_fr": "Licorne",
+   "nom_de": "Einhorn",
+   "nom_es": "Unicornio",
+   "nom_it": "Unicorno",
+   "cout": "1B"
+ },
+ {
+   "Niveau": 76,
+   "nom_en": "Scientist",
+   "nom_fr": "Scientifique",
+   "nom_de": "Wissenschaftler",
+   "nom_es": "Científico",
+   "nom_it": "Scienziato",
+   "cout": "1B"
+ },
+ {
+   "Niveau": 77,
+   "nom_en": "Romania",
+   "nom_fr": "Roumanie",
+   "nom_de": "Rumänien",
+   "nom_es": "Rumania",
+   "nom_it": "Romania",
+   "cout": "1B"
+ },
+ {
+   "Niveau": 78,
+   "nom_en": "Courthouse",
+   "nom_fr": "Tribunal",
+   "nom_de": "Gerichtsgebäude",
+   "nom_es": "Palacio de justicia",
+   "nom_it": "Tribunale",
+   "cout": "1B"
+ },
+ {
+   "Niveau": 79,
+   "nom_en": "Tin Soldier",
+   "nom_fr": "Soldat de plomb",
+   "nom_de": "Zinnsoldat",
+   "nom_es": "Soldadito de plomo",
+   "nom_it": "Soldatino",
+   "cout": "1.1B"
+ },
+ {
+   "Niveau": 80,
+   "nom_en": "Crazy Bride",
+   "nom_fr": "Mariée folle",
+   "nom_de": "Verrückte Braut",
+   "nom_es": "Novia loca",
+   "nom_it": "Sposa pazza",
+   "cout": "1.1B"
+ },
+ {
+   "Niveau": 81,
+   "nom_en": "Pilot",
+   "nom_fr": "Pilote",
+   "nom_de": "Pilot",
+   "nom_es": "Piloto",
+   "nom_it": "Pilota",
+   "cout": "1.2B"
+ },
+ {
+   "Niveau": 82,
+   "nom_en": "Fairy Tale",
+   "nom_fr": "Conte de fées",
+   "nom_de": "Märchen",
+   "nom_es": "Cuento de hadas",
+   "nom_it": "Fiaba",
+   "cout": "1.3B"
+ },
+ {
+   "Niveau": 83,
+   "nom_en": "Car Racing",
+   "nom_fr": "Courses automobiles",
+   "nom_de": "Autorennen",
+   "nom_es": "carreras de coches",
+   "nom_it": "Corse automobilistiche",
+   "cout": "1.4B"
+ },
+ {
+   "Niveau": 84,
+   "nom_en": "Gnome",
+   "nom_fr": "Gnome",
+   "nom_de": "Gnom",
+   "nom_es": "Gnomo",
+   "nom_it": "Gnomo",
+   "cout": "1.4B"
+ },
+ {
+   "Niveau": 85,
+   "nom_en": "Desert Punk",
+   "nom_fr": "Punk du désert",
+   "nom_de": "Wüstenpunk",
+   "nom_es": "Punk del desierto",
+   "nom_it": "Punk del deserto",
+   "cout": "1.4B"
+ },
+ {
+   "Niveau": 86,
+   "nom_en": "Detective",
+   "nom_fr": "Détective",
+   "nom_de": "Detektiv",
+   "nom_es": "Detective",
+   "nom_it": "Detective",
+   "cout": "1.4B"
+ },
+ {
+   "Niveau": 87,
+   "nom_en": "Baba Yaga",
+   "nom_fr": "Baba Yaga",
+   "nom_de": "Baba Yaga",
+   "nom_es": "Baba Yaga",
+   "nom_it": "Baba Yaga",
+   "cout": "1.5B"
+ },
+ {
+   "Niveau": 88,
+   "nom_en": "Barbarian",
+   "nom_fr": "Barbare",
+   "nom_de": "Barbar",
+   "nom_es": "Bárbaro",
+   "nom_it": "Barbaro",
+   "cout": "1.7B"
+ },
+ {
+   "Niveau": 89,
+   "nom_en": "Restaurant",
+   "nom_fr": "Restaurant",
+   "nom_de": "Restaurant",
+   "nom_es": "Restaurante",
+   "nom_it": "Ristorante",
+   "cout": "1.7B"
+ },
+ {
+   "Niveau": 90,
+   "nom_en": "King Arthur",
+   "nom_fr": "Le roi Arthur",
+   "nom_de": "König Artus",
+   "nom_es": "Rey Arturo",
+   "nom_it": "Re Artů",
+   "cout": "1.8B"
+ },
+ {
+   "Niveau": 91,
+   "nom_en": "Sinbad",
+   "nom_fr": "Sinbad",
+   "nom_de": "Sindbad",
+   "nom_es": "Simbad",
+   "nom_it": "Sinbad",
+   "cout": "1.8B"
+ },
+ {
+   "Niveau": 92,
+   "nom_en": "Biker’s Bar",
+   "nom_fr": "Bar des motards",
+   "nom_de": "Biker-Bar",
+   "nom_es": "Bar de moteros",
+   "nom_it": "Bar per motociclisti",
+   "cout": "2B"
+ },
+ {
+   "Niveau": 93,
+   "nom_en": "Caribbean Resort",
+   "nom_fr": "Complexe hôtelier des Caraďbes",
+   "nom_de": "Karibik-Resort",
+   "nom_es": "Resort caribeńo",
+   "nom_it": "Resort caraibico",
+   "cout": "2.1B"
+ },
+ {
+   "Niveau": 94,
+   "nom_en": "Super Heroes",
+   "nom_fr": "Super-héros",
+   "nom_de": "Superhelden",
+   "nom_es": "Superhéroes",
+   "nom_it": "Supereroi",
+   "cout": "2.2B"
+ },
+ {
+   "Niveau": 95,
+   "nom_en": "Egyptian Pyramids",
+   "nom_fr": "Pyramides égyptiennes",
+   "nom_de": "Ägyptische Pyramiden",
+   "nom_es": "Pirámides egipcias",
+   "nom_it": "Piramidi egizie",
+   "cout": "2.2B"
+ },
+ {
+   "Niveau": 96,
+   "nom_en": "Olympic Games",
+   "nom_fr": "Jeux olympiques",
+   "nom_de": "Olympische Spiele",
+   "nom_es": "Juegos Olímpicos",
+   "nom_it": "Giochi olimpici",
+   "cout": "2.3B"
+ },
+ {
+   "Niveau": 97,
+   "nom_en": "Mountain Climbers",
+   "nom_fr": "Alpinistes",
+   "nom_de": "Bergsteiger",
+   "nom_es": "Alpinistas",
+   "nom_it": "Alpinisti",
+   "cout": "2.4B"
+ },
+ {
+   "Niveau": 98,
+   "nom_en": "Milky Way",
+   "nom_fr": "Voie lactée",
+   "nom_de": "Milchstraße",
+   "nom_es": "vía Láctea",
+   "nom_it": "via Lattea",
+   "cout": "2.6B"
+ },
+ {
+   "Niveau": 99,
+   "nom_en": "Ski Slopes",
+   "nom_fr": "Pistes de ski",
+   "nom_de": "Skipisten",
+   "nom_es": "Pistas de esquí",
+   "nom_it": "Piste da sci",
+   "cout": "2.7B"
+ },
+ {
+   "Niveau": 100,
+   "nom_en": "Royal Monkey",
+   "nom_fr": "Singe royal",
+   "nom_de": "Königlicher Affe",
+   "nom_es": "Mono real",
+   "nom_it": "Scimmia Reale",
+   "cout": "2.8B"
+ },
+ {
+   "Niveau": 101,
+   "nom_en": "Snow White",
+   "nom_fr": "Blanc comme neige",
+   "nom_de": "Schneewittchen",
+   "nom_es": "Blanco como la nieve",
+   "nom_it": "Bianco come la neve",
+   "cout": "2.8B"
+ },
+ {
+   "Niveau": 102,
+   "nom_en": "Goblin Ghetto",
+   "nom_fr": "Ghetto des Gobelins",
+   "nom_de": "Kobold-Ghetto",
+   "nom_es": "Gueto de duendes",
+   "nom_it": "Ghetto dei Goblin",
+   "cout": "3.1B"
+ },
+ {
+   "Niveau": 103,
+   "nom_en": "Yemen",
+   "nom_fr": "Yémen",
+   "nom_de": "Jemen",
+   "nom_es": "Yemen",
+   "nom_it": "Yemen",
+   "cout": "3.4B"
+ },
+ {
+   "Niveau": 104,
+   "nom_en": "Wu Xing",
+   "nom_fr": "Wu Xing",
+   "nom_de": "Wu Xing",
+   "nom_es": "Wu Xing",
+   "nom_it": "Wu Xing",
+   "cout": "3.4B"
+ },
+ {
+   "Niveau": 105,
+   "nom_en": "Circus",
+   "nom_fr": "Cirque",
+   "nom_de": "Zirkus",
+   "nom_es": "Circo",
+   "nom_it": "Circo",
+   "cout": "3.6B"
+ },
+ {
+   "Niveau": 106,
+   "nom_en": "Yokai",
+   "nom_fr": "Yokai",
+   "nom_de": "Yokai",
+   "nom_es": "Yokai",
+   "nom_it": "Yokai",
+   "cout": "3.7B"
+ },
+ {
+   "Niveau": 107,
+   "nom_en": "Golf Course",
+   "nom_fr": "Terrain de golf",
+   "nom_de": "Golfplatz",
+   "nom_es": "Campo de golf",
+   "nom_it": "Campo da golf",
+   "cout": "3.8B"
+ },
+ {
+   "Niveau": 108,
+   "nom_en": "Lucha Libre",
+   "nom_fr": "Lucha Libre",
+   "nom_de": "Lucha Libre",
+   "nom_es": "Lucha Libre",
+   "nom_it": "Lucha Libre",
+   "cout": "4.1B"
+ },
+ {
+   "Niveau": 109,
+   "nom_en": "Cyber Cowboys",
+   "nom_fr": "Cyber ??Cowboys",
+   "nom_de": "Cyber ??Cowboys",
+   "nom_es": "Vaqueros cibernéticos",
+   "nom_it": "Cowboy cibernetici",
+   "cout": "4.2B"
+ },
+ {
+   "Niveau": 110,
+   "nom_en": "Rice Farmer",
+   "nom_fr": "Riziculteur",
+   "nom_de": "Reisbauer",
+   "nom_es": "agricultor de arroz",
+   "nom_it": "Coltivatore di riso",
+   "cout": "4.6B"
+ },
+ {
+   "Niveau": 111,
+   "nom_en": "Captain Shipyard",
+   "nom_fr": "Chantier naval du capitaine",
+   "nom_de": "Captain Shipyard",
+   "nom_es": "Astillero Capitán",
+   "nom_it": "Cantiere navale del capitano",
+   "cout": "4.7B"
+ },
+ {
+   "Niveau": 112,
+   "nom_en": "Irish Craic",
+   "nom_fr": "Ambiance irlandaise",
+   "nom_de": "Irischer Spaß",
+   "nom_es": "Diversión irlandesa",
+   "nom_it": "Irish Craic",
+   "cout": "5B"
+ },
+ {
+   "Niveau": 113,
+   "nom_en": "Oktoberfest",
+   "nom_fr": "Oktoberfest",
+   "nom_de": "Oktoberfest",
+   "nom_es": "Oktoberfest",
+   "nom_it": "Oktoberfest",
+   "cout": "5.3B"
+ },
+ {
+   "Niveau": 114,
+   "nom_en": "Amazon",
+   "nom_fr": "Amazone",
+   "nom_de": "Amazonas",
+   "nom_es": "Amazonas",
+   "nom_it": "Amazon",
+   "cout": "5.6B"
+ },
+ {
+   "Niveau": 115,
+   "nom_en": "Aztec",
+   "nom_fr": "Aztčque",
+   "nom_de": "aztekisch",
+   "nom_es": "azteca",
+   "nom_it": "Aztechi",
+   "cout": "5.7B"
+ },
+ {
+   "Niveau": 116,
+   "nom_en": "Forbidden City",
+   "nom_fr": "La Cité interdite",
+   "nom_de": "Verbotene Stadt",
+   "nom_es": "Ciudad Prohibida",
+   "nom_it": "Cittŕ Proibita",
+   "cout": "5.8B"
+ },
+ {
+   "Niveau": 117,
+   "nom_en": "Ice Queen",
+   "nom_fr": "Reine des glaces",
+   "nom_de": "Eiskönigin",
+   "nom_es": "Reina de hielo",
+   "nom_it": "Regina di ghiaccio",
+   "cout": "6B"
+ },
+ {
+   "Niveau": 118,
+   "nom_en": "Samurai",
+   "nom_fr": "Samouraď",
+   "nom_de": "Samurai",
+   "nom_es": "Samurai",
+   "nom_it": "Samurai",
+   "cout": "6.4B"
+ },
+ {
+   "Niveau": 119,
+   "nom_en": "Santa’s Factory",
+   "nom_fr": "L'usine du Pčre Noël",
+   "nom_de": "Weihnachtsmannfabrik",
+   "nom_es": "La fábrica de Santa",
+   "nom_it": "La fabbrica di Babbo Natale",
+   "cout": "6.7B"
+ },
+ {
+   "Niveau": 120,
+   "nom_en": "Soccer/Football",
+   "nom_fr": "Football",
+   "nom_de": "Fußball",
+   "nom_es": "Fútbol",
+   "nom_it": "Calcio/Football",
+   "cout": "7B"
+ },
+ {
+   "Niveau": 121,
+   "nom_en": "Tennis",
+   "nom_fr": "Tennis",
+   "nom_de": "Tennis",
+   "nom_es": "Tenis",
+   "nom_it": "Tennis",
+   "cout": "7.4B"
+ },
+ {
+   "Niveau": 122,
+   "nom_en": "Thanksgiving",
+   "nom_fr": "Action de grâces",
+   "nom_de": "Danksagung",
+   "nom_es": "Acción de gracias",
+   "nom_it": "Ringraziamento",
+   "cout": "7.8B"
+ },
+ {
+   "Niveau": 123,
+   "nom_en": "Toys",
+   "nom_fr": "Jouets",
+   "nom_de": "Spielzeug",
+   "nom_es": "Juguetes",
+   "nom_it": "Giocattoli",
+   "cout": "8.2B"
+ },
+ {
+   "Niveau": 124,
+   "nom_en": "Venice",
+   "nom_fr": "Venise",
+   "nom_de": "Venedig",
+   "nom_es": "Venecia",
+   "nom_it": "Venezia",
+   "cout": "8.5B"
+ },
+ {
+   "Niveau": 125,
+   "nom_en": "Witches",
+   "nom_fr": "Sorcičres",
+   "nom_de": "Hexen",
+   "nom_es": "Brujas",
+   "nom_it": "Streghe",
+   "cout": "9B"
+ },
+ {
+   "Niveau": 126,
+   "nom_en": "Yankee",
+   "nom_fr": "Yankee",
+   "nom_de": "Yankee",
+   "nom_es": "yanqui",
+   "nom_it": "yankee",
+   "cout": "9.2B"
+ },
+ {
+   "Niveau": 127,
+   "nom_en": "Zanzibar",
+   "nom_fr": "Zanzibar",
+   "nom_de": "Sansibar",
+   "nom_es": "Zanzíbar",
+   "nom_it": "Zanzibar",
+   "cout": "9.6B"
+ },
+ {
+   "Niveau": 128,
+   "nom_en": "Moby Dick",
+   "nom_fr": "Moby Dick",
+   "nom_de": "Moby Dick",
+   "nom_es": "Moby Dick",
+   "nom_it": "Moby Dick",
+   "cout": "10.2B"
+ },
+ {
+   "Niveau": 129,
+   "nom_en": "Turkey",
+   "nom_fr": "Turquie",
+   "nom_de": "Truthahn",
+   "nom_es": "Pavo",
+   "nom_it": "Tacchino",
+   "cout": "10.6B"
+ },
+ {
+   "Niveau": 130,
+   "nom_en": "Argentina",
+   "nom_fr": "Argentine",
+   "nom_de": "Argentinien",
+   "nom_es": "Argentina",
+   "nom_it": "Argentina",
+   "cout": "11.3B"
+ },
+ {
+   "Niveau": 131,
+   "nom_en": "Boxing Club",
+   "nom_fr": "Club de boxe",
+   "nom_de": "Boxclub",
+   "nom_es": "Club de boxeo",
+   "nom_it": "Club di pugilato",
+   "cout": "11.8B"
+ },
+ {
+   "Niveau": 132,
+   "nom_en": "Carnival",
+   "nom_fr": "Carnaval",
+   "nom_de": "Karneval",
+   "nom_es": "Carnaval",
+   "nom_it": "Carnevale",
+   "cout": "12.6B"
+ },
+ {
+   "Niveau": 133,
+   "nom_en": "Dracula",
+   "nom_fr": "Dracula",
+   "nom_de": "Dracula",
+   "nom_es": "Drácula",
+   "nom_it": "Dracula",
+   "cout": "13.1B"
+ },
+ {
+   "Niveau": 134,
+   "nom_en": "The Future",
+   "nom_fr": "L'avenir",
+   "nom_de": "Die Zukunft",
+   "nom_es": "El futuro",
+   "nom_it": "Il futuro",
+   "cout": "13.5B"
+ },
+ {
+   "Niveau": 135,
+   "nom_en": "Gymnastics",
+   "nom_fr": "Gymnastique",
+   "nom_de": "Gymnastik",
+   "nom_es": "Gimnasia",
+   "nom_it": "Ginnastica",
+   "cout": "14.3B"
+ },
+ {
+   "Niveau": 136,
+   "nom_en": "New York",
+   "nom_fr": "New York",
+   "nom_de": "New York",
+   "nom_es": "Nueva York",
+   "nom_it": "New York",
+   "cout": "14.5B"
+ },
+ {
+   "Niveau": 137,
+   "nom_en": "Swamp Princess",
+   "nom_fr": "Princesse des marais",
+   "nom_de": "Sumpfprinzessin",
+   "nom_es": "Princesa del pantano",
+   "nom_it": "Principessa della palude",
+   "cout": "15.1B"
+ },
+ {
+   "Niveau": 138,
+   "nom_en": "Punk Rock",
+   "nom_fr": "Punk rock",
+   "nom_de": "Punkrock",
+   "nom_es": "Punk Rock",
+   "nom_it": "Punk Rock",
+   "cout": "15.2B"
+ },
+ {
+   "Niveau": 139,
+   "nom_en": "Railroad",
+   "nom_fr": "Chemin de fer",
+   "nom_de": "Eisenbahn",
+   "nom_es": "Ferrocarril",
+   "nom_it": "Ferrovia",
+   "cout": "16.2B"
+ },
+ {
+   "Niveau": 140,
+   "nom_en": "Rio",
+   "nom_fr": "Rio",
+   "nom_de": "Rio",
+   "nom_es": "Río",
+   "nom_it": "Rio",
+   "cout": "17.8B"
+ },
+ {
+   "Niveau": 141,
+   "nom_en": "Space Pirate",
+   "nom_fr": "Pirate de l'espace",
+   "nom_de": "Weltraumpirat",
+   "nom_es": "Pirata espacial",
+   "nom_it": "Pirata spaziale",
+   "cout": "18.6B"
+ },
+ {
+   "Niveau": 142,
+   "nom_en": "Mech Workshop",
+   "nom_fr": "Atelier mécanique",
+   "nom_de": "Mechanische Werkstatt",
+   "nom_es": "Taller mecánico",
+   "nom_it": "Officina meccanica",
+   "cout": "19.8B"
+ },
+ {
+   "Niveau": 143,
+   "nom_en": "Space Shuttle",
+   "nom_fr": "Navette spatiale",
+   "nom_de": "Raumfähre",
+   "nom_es": "Transbordador espacial",
+   "nom_it": "Navetta spaziale",
+   "cout": "20.7B"
+ },
+ {
+   "Niveau": 144,
+   "nom_en": "Colombia",
+   "nom_fr": "Colombie",
+   "nom_de": "Kolumbien",
+   "nom_es": "Colombia",
+   "nom_it": "Colombia",
+   "cout": "21.1B"
+ },
+ {
+   "Niveau": 145,
+   "nom_en": "Petra",
+   "nom_fr": "Petra",
+   "nom_de": "Petra",
+   "nom_es": "Petra",
+   "nom_it": "Petra",
+   "cout": "21.6B"
+ },
+ {
+   "Niveau": 146,
+   "nom_en": "Monkey Kingdom",
+   "nom_fr": "Royaume des singes",
+   "nom_de": "Affenkönigreich",
+   "nom_es": "Reino de los Monos",
+   "nom_it": "Regno delle scimmie",
+   "cout": "22B"
+ },
+ {
+   "Niveau": 147,
+   "nom_en": "Persian Sultan",
+   "nom_fr": "Sultan persan",
+   "nom_de": "Persischer Sultan",
+   "nom_es": "Sultán persa",
+   "nom_it": "Sultano persiano",
+   "cout": "22.6B"
+ },
+ {
+   "Niveau": 148,
+   "nom_en": "Desert Party",
+   "nom_fr": "Fęte du désert",
+   "nom_de": "Wüstenparty",
+   "nom_es": "Fiesta en el desierto",
+   "nom_it": "Festa nel deserto",
+   "cout": "22.9B"
+ },
+ {
+   "Niveau": 149,
+   "nom_en": "Hercules",
+   "nom_fr": "Hercule",
+   "nom_de": "Herkules",
+   "nom_es": "Hércules",
+   "nom_it": "Ercole",
+   "cout": "23.4B"
+ },
+ {
+   "Niveau": 150,
+   "nom_en": "Shaolin",
+   "nom_fr": "Shaolin",
+   "nom_de": "Shaolin",
+   "nom_es": "Shaolin",
+   "nom_it": "Shaolin",
+   "cout": "23.8B"
+ },
+ {
+   "Niveau": 151,
+   "nom_en": "Baker Shop",
+   "nom_fr": "Boulangerie",
+   "nom_de": "Bäckerei",
+   "nom_es": "Panadería",
+   "nom_it": "Negozio di panetteria",
+   "cout": "24.6B"
+ },
+ {
+   "Niveau": 152,
+   "nom_en": "Billiard",
+   "nom_fr": "Billard",
+   "nom_de": "Billard",
+   "nom_es": "De billar",
+   "nom_it": "Biliardo",
+   "cout": "24.8B"
+ },
+ {
+   "Niveau": 153,
+   "nom_en": "Noah Ark",
+   "nom_fr": "Arche de Noé",
+   "nom_de": "Arche Noah",
+   "nom_es": "Arca de Noé",
+   "nom_it": "Arca di Noč",
+   "cout": "25.8B"
+ },
+ {
+   "Niveau": 154,
+   "nom_en": "Doomsday",
+   "nom_fr": "jour du Jugement dernier",
+   "nom_de": "Weltuntergang",
+   "nom_es": "Día del Juicio Final",
+   "nom_it": "Giorno del giudizio",
+   "cout": "26.8B"
+ },
+ {
+   "Niveau": 155,
+   "nom_en": "Orc",
+   "nom_fr": "Orc",
+   "nom_de": "Ork",
+   "nom_es": "Orco",
+   "nom_it": "Orco",
+   "cout": "28.2B"
+ },
+ {
+   "Niveau": 156,
+   "nom_en": "Fairy",
+   "nom_fr": "Fée",
+   "nom_de": "Fee",
+   "nom_es": "Hada",
+   "nom_it": "Fata",
+   "cout": "29B"
+ },
+ {
+   "Niveau": 157,
+   "nom_en": "Ice Age",
+   "nom_fr": "Période glaciaire",
+   "nom_de": "Eiszeit",
+   "nom_es": "Edad de Hielo",
+   "nom_it": "Era glaciale",
+   "cout": "30.2B"
+ },
+ {
+   "Niveau": 158,
+   "nom_en": "Cleopatra",
+   "nom_fr": "Cléopâtre",
+   "nom_de": "Kleopatra",
+   "nom_es": "Cleopatra",
+   "nom_it": "Cleopatra",
+   "cout": "30.5B"
+ },
+ {
+   "Niveau": 159,
+   "nom_en": "Valhalla",
+   "nom_fr": "Valhalla",
+   "nom_de": "Walhalla",
+   "nom_es": "Valhalla",
+   "nom_it": "Valhalla",
+   "cout": "31.3B"
+ },
+ {
+   "Niveau": 160,
+   "nom_en": "Supervillain",
+   "nom_fr": "Super-vilain",
+   "nom_de": "Superschurke",
+   "nom_es": "supervillano",
+   "nom_it": "Supercriminale",
+   "cout": "32B"
+ },
+ {
+   "Niveau": 161,
+   "nom_en": "Horse Racing",
+   "nom_fr": "Course de chevaux",
+   "nom_de": "Pferderennen",
+   "nom_es": "carreras de caballos",
+   "nom_it": "Corse di cavalli",
+   "cout": "33.6B"
+ },
+ {
+   "Niveau": 162,
+   "nom_en": "Jazz Club",
+   "nom_fr": "Club de jazz",
+   "nom_de": "Jazzclub",
+   "nom_es": "Club de jazz",
+   "nom_it": "Jazz Club",
+   "cout": "34.2B"
+ },
+ {
+   "Niveau": 163,
+   "nom_en": "Fashion",
+   "nom_fr": "Mode",
+   "nom_de": "Mode",
+   "nom_es": "Moda",
+   "nom_it": "Moda",
+   "cout": "34.5B"
+ },
+ {
+   "Niveau": 164,
+   "nom_en": "Barbershop",
+   "nom_fr": "Salon de coiffure",
+   "nom_de": "Friseurladen",
+   "nom_es": "Peluquería",
+   "nom_it": "Barbiere",
+   "cout": "36B"
+ },
+ {
+   "Niveau": 165,
+   "nom_en": "Mermaid City",
+   "nom_fr": "La Cité des Sirčnes",
+   "nom_de": "Meerjungfrauenstadt",
+   "nom_es": "Ciudad de las Sirenas",
+   "nom_it": "Cittŕ della Sirena",
+   "cout": "37.1B"
+ },
+ {
+   "Niveau": 166,
+   "nom_en": "Street Dance",
+   "nom_fr": "Danse de rue",
+   "nom_de": "Straßentanz",
+   "nom_es": "Baile callejero",
+   "nom_it": "Street Dance",
+   "cout": "37.9B"
+ },
+ {
+   "Niveau": 167,
+   "nom_en": "Saloon Slickers",
+   "nom_fr": "Saloon Slickers",
+   "nom_de": "Saloon-Schleimer",
+   "nom_es": "Los elegantes de salón",
+   "nom_it": "Uomini di saloon",
+   "cout": "38.8B"
+ },
+ {
+   "Niveau": 168,
+   "nom_en": "Centaure",
+   "nom_fr": "Centaure",
+   "nom_de": "Zentaur",
+   "nom_es": "Centauro",
+   "nom_it": "Centaure",
+   "cout": "40.6B"
+ },
+ {
+   "Niveau": 169,
+   "nom_en": "Dungeon Lair",
+   "nom_fr": "Repaire du donjon",
+   "nom_de": "Kerker",
+   "nom_es": "Guarida de la mazmorra",
+   "nom_it": "Tana sotterranea",
+   "cout": "41.8B"
+ },
+ {
+   "Niveau": 170,
+   "nom_en": "Brazil Amazon",
+   "nom_fr": "Amazonie brésilienne",
+   "nom_de": "Brasilianisches Amazonasgebiet",
+   "nom_es": "Amazonia brasileńa",
+   "nom_it": "Amazzonia brasiliana",
+   "cout": "43.8B"
+ },
+ {
+   "Niveau": 171,
+   "nom_en": "Morocco",
+   "nom_fr": "Maroc",
+   "nom_de": "Marokko",
+   "nom_es": "Marruecos",
+   "nom_it": "Marocco",
+   "cout": "45B"
+ },
+ {
+   "Niveau": 172,
+   "nom_en": "Firefighters",
+   "nom_fr": "pompiers",
+   "nom_de": "Feuerwehrleute",
+   "nom_es": "bomberos",
+   "nom_it": "Vigili del fuoco",
+   "cout": "45.7B"
+ },
+ {
+   "Niveau": 173,
+   "nom_en": "Jousting",
+   "nom_fr": "joutes",
+   "nom_de": "Ritterturnier",
+   "nom_es": "Justas",
+   "nom_it": "Giostre",
+   "cout": "46.6B"
+ },
+ {
+   "Niveau": 174,
+   "nom_en": "Sculpture Workshop",
+   "nom_fr": "Atelier de sculpture",
+   "nom_de": "Skulpturenwerkstatt",
+   "nom_es": "Taller de escultura",
+   "nom_it": "Laboratorio di scultura",
+   "cout": "48.4B"
+ },
+ {
+   "Niveau": 175,
+   "nom_en": "Babylon",
+   "nom_fr": "Babylone",
+   "nom_de": "Babylon",
+   "nom_es": "Babilonia",
+   "nom_it": "Babilonia",
+   "cout": "49B"
+ },
+ {
+   "Niveau": 176,
+   "nom_en": "Boarding School",
+   "nom_fr": "Pensionnat",
+   "nom_de": "Internat",
+   "nom_es": "Internado",
+   "nom_it": "Collegio",
+   "cout": "51.3B"
+ },
+ {
+   "Niveau": 177,
+   "nom_en": "Movie Set",
+   "nom_fr": "Plateau de tournage",
+   "nom_de": "Filmset",
+   "nom_es": "Set de rodaje",
+   "nom_it": "Set cinematografico",
+   "cout": "52.8B"
+ },
+ {
+   "Niveau": 178,
+   "nom_en": "Dino Ranch",
+   "nom_fr": "Ranch des dinosaures",
+   "nom_de": "Dino Ranch",
+   "nom_es": "Rancho de dinosaurios",
+   "nom_it": "Dino Ranch",
+   "cout": "52.4B"
+ },
+ {
+   "Niveau": 179,
+   "nom_en": "American Football",
+   "nom_fr": "Football américain",
+   "nom_de": "American Football",
+   "nom_es": "Fútbol americano",
+   "nom_it": "football americano",
+   "cout": "56B"
+ },
+ {
+   "Niveau": 180,
+   "nom_en": "Beauty and the Beast",
+   "nom_fr": "La belle et la Bęte",
+   "nom_de": "Die Schöne und das Biest",
+   "nom_es": "La bella y la bestia",
+   "nom_it": "La bella e la bestia",
+   "cout": "57.7B"
+ },
+ {
+   "Niveau": 181,
+   "nom_en": "Galapagos",
+   "nom_fr": "Galapagos",
+   "nom_de": "Galapagos",
+   "nom_es": "Galápagos",
+   "nom_it": "Galapagos",
+   "cout": "59.6B"
+ },
+ {
+   "Niveau": 182,
+   "nom_en": "Robo Tech Girl",
+   "nom_fr": "Fille robotique",
+   "nom_de": "Robo Tech Girl",
+   "nom_es": "Chica Robótica Tecnológica",
+   "nom_it": "Ragazza Robo Tech",
+   "cout": "61.4B"
+ },
+ {
+   "Niveau": 183,
+   "nom_en": "Darwin",
+   "nom_fr": "Darwin",
+   "nom_de": "Darwin",
+   "nom_es": "Darwin",
+   "nom_it": "Darwin",
+   "cout": "64.1B"
+ },
+ {
+   "Niveau": 184,
+   "nom_en": "Diner",
+   "nom_fr": "Restaurant",
+   "nom_de": "Diner",
+   "nom_es": "Comedor",
+   "nom_it": "Ristorante",
+   "cout": "64.9B"
+ },
+ {
+   "Niveau": 185,
+   "nom_en": "Mad Hatter",
+   "nom_fr": "Le Chapelier fou",
+   "nom_de": "Verrückter Hutmacher",
+   "nom_es": "El Sombrerero Loco",
+   "nom_it": "Cappellaio Matto",
+   "cout": "67B"
+ },
+ {
+   "Niveau": 186,
+   "nom_en": "San Fransisco",
+   "nom_fr": "San Francisco",
+   "nom_de": "San Francisco",
+   "nom_es": "San Francisco",
+   "nom_it": "San Francisco",
+   "cout": "68.6B"
+ },
+ {
+   "Niveau": 187,
+   "nom_en": "Rally Racing",
+   "nom_fr": "Rallye",
+   "nom_de": "Rallye-Rennen",
+   "nom_es": "Carreras de rally",
+   "nom_it": "Rally Repub",
+   "cout": "70.5B"
+ },
+ {
+   "Niveau": 188,
+   "nom_en": "Madagascar",
+   "nom_fr": "Madagascar",
+   "nom_de": "Madagaskar",
+   "nom_es": "Madagascar",
+   "nom_it": "Madagascar",
+   "cout": "72.9B"
+ },
+ {
+   "Niveau": 189,
+   "nom_en": "Police Station",
+   "nom_fr": "Poste de police",
+   "nom_de": "Polizeistation",
+   "nom_es": "Comisaría de policía",
+   "nom_it": "Stazione di polizia",
+   "cout": "75.4B"
+ },
+ {
+   "Niveau": 190,
+   "nom_en": "Bee Hive",
+   "nom_fr": "Ruche",
+   "nom_de": "Bienenstock",
+   "nom_es": "Colmena de abejas",
+   "nom_it": "Alveare",
+   "cout": "76.8B"
+ },
+ {
+   "Niveau": 191,
+   "nom_en": "Napoleon",
+   "nom_fr": "Napoléon",
+   "nom_de": "Napoleon",
+   "nom_es": "Napoleón",
+   "nom_it": "Napoleone",
+   "cout": "79.1B"
+ },
+ {
+   "Niveau": 192,
+   "nom_en": "Basketball",
+   "nom_fr": "Basket-ball",
+   "nom_de": "Basketball",
+   "nom_es": "Baloncesto",
+   "nom_it": "Pallacanestro",
+   "cout": "82.2B"
+ },
+ {
+   "Niveau": 193,
+   "nom_en": "Film Noir",
+   "nom_fr": "Film noir",
+   "nom_de": "Film Noir",
+   "nom_es": "Cine negro",
+   "nom_it": "Film Noir",
+   "cout": "84.8B"
+ },
+ {
+   "Niveau": 194,
+   "nom_en": "Baseball",
+   "nom_fr": "Base-ball",
+   "nom_de": "Baseball",
+   "nom_es": "Béisbol",
+   "nom_it": "Baseball",
+   "cout": "87.3B"
+ },
+ {
+   "Niveau": 195,
+   "nom_en": "Pet Saloon",
+   "nom_fr": "Salon pour animaux",
+   "nom_de": "Haustiersalon",
+   "nom_es": "Salón de mascotas",
+   "nom_it": "Salone per animali domestici",
+   "cout": "89.7B"
+ },
+ {
+   "Niveau": 196,
+   "nom_en": "Scouts Camp",
+   "nom_fr": "Camp des scouts",
+   "nom_de": "Pfadfinderlager",
+   "nom_es": "Campamento Scout",
+   "nom_it": "Campo scout",
+   "cout": "92.6B"
+ },
+ {
+   "Niveau": 197,
+   "nom_en": "Leprechaun",
+   "nom_fr": "Lutin",
+   "nom_de": "Kobold",
+   "nom_es": "Duende",
+   "nom_it": "Leprecauno",
+   "cout": "95.4B"
+ },
+ {
+   "Niveau": 198,
+   "nom_en": "Athletics",
+   "nom_fr": "Athlétisme",
+   "nom_de": "Leichtathletik",
+   "nom_es": "Atletismo",
+   "nom_it": "Atletica",
+   "cout": "98.2B"
+ },
+ {
+   "Niveau": 199,
+   "nom_en": "Burglar",
+   "nom_fr": "Cambrioleur",
+   "nom_de": "Einbrecher",
+   "nom_es": "Ladrón",
+   "nom_it": "Ladro",
+   "cout": "101.1B"
+ },
+ {
+   "Niveau": 200,
+   "nom_en": "Ice Hockey",
+   "nom_fr": "Hockey sur glace",
+   "nom_de": "Eishockey",
+   "nom_es": "Hockey sobre hielo",
+   "nom_it": "Hockey su ghiaccio",
+   "cout": "104.2B"
+ },
+ {
+   "Niveau": 201,
+   "nom_en": "Talk Show",
+   "nom_fr": "Talk-show",
+   "nom_de": "Talkshow",
+   "nom_es": "Talk show",
+   "nom_it": "Talk show",
+   "cout": "106.9B"
+ },
+ {
+   "Niveau": 202,
+   "nom_en": "Havana",
+   "nom_fr": "La Havane",
+   "nom_de": "Havanna",
+   "nom_es": "la Habana",
+   "nom_it": "L'Avana",
+   "cout": "110.6B"
+ },
+ {
+   "Niveau": 203,
+   "nom_en": "Cyber Future",
+   "nom_fr": "Cyber ??Future",
+   "nom_de": "Cyberzukunft",
+   "nom_es": "Futuro cibernético",
+   "nom_it": "Futuro cibernetico",
+   "cout": "113.8B"
+ },
+ {
+   "Niveau": 204,
+   "nom_en": "Magic Show",
+   "nom_fr": "Spectacle de magie",
+   "nom_de": "Zaubershow",
+   "nom_es": "Espectáculo de magia",
+   "nom_it": "Spettacolo di magia",
+   "cout": "117.6B"
+ },
+ {
+   "Niveau": 205,
+   "nom_en": "Arcade",
+   "nom_fr": "Arcade",
+   "nom_de": "Arkade",
+   "nom_es": "Arcada",
+   "nom_it": "Arcade",
+   "cout": "120.8B"
+ },
+ {
+   "Niveau": 206,
+   "nom_en": "Jamaica",
+   "nom_fr": "Jamaďque",
+   "nom_de": "Jamaika",
+   "nom_es": "Jamaica",
+   "nom_it": "Giamaica",
+   "cout": "124.4B"
+ },
+ {
+   "Niveau": 207,
+   "nom_en": "Louise The 16th",
+   "nom_fr": "Louise XVI",
+   "nom_de": "Louise, die 16.",
+   "nom_es": "Luisa la XVI",
+   "nom_it": "Louise Il 16",
+   "cout": "127.2B"
+ },
+ {
+   "Niveau": 208,
+   "nom_en": "Sea Master Park",
+   "nom_fr": "Parc marin Master",
+   "nom_de": "Sea Master Park",
+   "nom_es": "Parque Sea Master",
+   "nom_it": "Parco Sea Master",
+   "cout": "132B"
+ },
+ {
+   "Niveau": 209,
+   "nom_en": "Zombie Boogie",
+   "nom_fr": "Zombie Boogie",
+   "nom_de": "Zombie Boogie",
+   "nom_es": "Boogie zombi",
+   "nom_it": "Zombie Boogie",
+   "cout": "135.9B"
+ },
+ {
+   "Niveau": 210,
+   "nom_en": "Motorbike",
+   "nom_fr": "Moto",
+   "nom_de": "Motorrad",
+   "nom_es": "Moto",
+   "nom_it": "Motocicletta",
+   "cout": "140B"
+ },
+ {
+   "Niveau": 211,
+   "nom_en": "County Folk Band",
+   "nom_fr": "Groupe folklorique du comté",
+   "nom_de": "County Folk Band",
+   "nom_es": "Banda de música folclórica del condado",
+   "nom_it": "Gruppo folk della contea",
+   "cout": "144B"
+ },
+ {
+   "Niveau": 212,
+   "nom_en": "Trainer of Dragons",
+   "nom_fr": "Dresseur de dragons",
+   "nom_de": "Zähmer der Drachen",
+   "nom_es": "Entrenador de dragones",
+   "nom_it": "Il Portatore di Draghi",
+   "cout": "148.8B"
+ },
+ {
+   "Niveau": 213,
+   "nom_en": "China Wall",
+   "nom_fr": "Mur de Chine",
+   "nom_de": "Chinesische Mauer",
+   "nom_es": "Muralla China",
+   "nom_it": "Muro cinese",
+   "cout": "153B"
+ },
+ {
+   "Niveau": 214,
+   "nom_en": "Mail Man",
+   "nom_fr": "facteur",
+   "nom_de": "Briefträger",
+   "nom_es": "cartero",
+   "nom_it": "Postino",
+   "cout": "157.6B"
+ },
+ {
+   "Niveau": 215,
+   "nom_en": "Theatre",
+   "nom_fr": "Théâtre",
+   "nom_de": "Theater",
+   "nom_es": "Teatro",
+   "nom_it": "Teatro",
+   "cout": "162B"
+ },
+ {
+   "Niveau": 216,
+   "nom_en": "Grand Biking Tour",
+   "nom_fr": "Grand Tour ŕ vélo",
+   "nom_de": "Große Radtour",
+   "nom_es": "Gran Tour en Bicicleta",
+   "nom_it": "Gran Tour in Bicicletta",
+   "cout": "167B"
+ },
+ {
+   "Niveau": 217,
+   "nom_en": "Space Cleaners",
+   "nom_fr": "Nettoyeurs d'espace",
+   "nom_de": "Raumreiniger",
+   "nom_es": "Limpiadores de espacios",
+   "nom_it": "Pulitori d'ambiente",
+   "cout": "172B"
+ },
+ {
+   "Niveau": 218,
+   "nom_en": "Dwarf Workshop",
+   "nom_fr": "Atelier des nains",
+   "nom_de": "Zwergenwerkstatt",
+   "nom_es": "Taller de enanos",
+   "nom_it": "Laboratorio dei nani",
+   "cout": "177B"
+ },
+ {
+   "Niveau": 219,
+   "nom_en": "Swimming Pool",
+   "nom_fr": "Piscine",
+   "nom_de": "Schwimmbad",
+   "nom_es": "Piscina",
+   "nom_it": "Piscina",
+   "cout": "182.4B"
+ },
+ {
+   "Niveau": 220,
+   "nom_en": "Odysseus",
+   "nom_fr": "Ulysse",
+   "nom_de": "Odysseus",
+   "nom_es": "Odiseo",
+   "nom_it": "Odisseo",
+   "cout": "188.4B"
+ },
+ {
+   "Niveau": 221,
+   "nom_en": "Haunted House",
+   "nom_fr": "maison hantée",
+   "nom_de": "Spukhaus",
+   "nom_es": "Casa embrujada",
+   "nom_it": "Casa infestata",
+   "cout": "194.1B"
+ },
+ {
+   "Niveau": 222,
+   "nom_en": "Jungle Explorers",
+   "nom_fr": "Explorateurs de la jungle",
+   "nom_de": "Dschungelforscher",
+   "nom_es": "Exploradores de la jungla",
+   "nom_it": "Esploratori della giungla",
+   "cout": "200B"
+ },
+ {
+   "Niveau": 223,
+   "nom_en": "Stranded Island",
+   "nom_fr": "Île naufragée",
+   "nom_de": "Gestrandete Insel",
+   "nom_es": "Isla varada",
+   "nom_it": "Isola di sabbia",
+   "cout": "206.1B"
+ },
+ {
+   "Niveau": 224,
+   "nom_en": "Construction Site",
+   "nom_fr": "Chantier de construction",
+   "nom_de": "Baustelle",
+   "nom_es": "Obra en construcción",
+   "nom_it": "Cantiere edile",
+   "cout": "212.4B"
+ },
+ {
+   "Niveau": 225,
+   "nom_en": "Thai Boxing",
+   "nom_fr": "Boxe thaďlandaise",
+   "nom_de": "Thai-Boxen",
+   "nom_es": "Boxeo tailandés",
+   "nom_it": "Boxe thailandese",
+   "cout": "218.9B"
+ },
+ {
+   "Niveau": 226,
+   "nom_en": "Museum Life",
+   "nom_fr": "La vie au musée",
+   "nom_de": "Museumsleben",
+   "nom_es": "Vida en el museo",
+   "nom_it": "Vita da museo",
+   "cout": "225.6B"
+ },
+ {
+   "Niveau": 227,
+   "nom_en": "Roman Square",
+   "nom_fr": "Place romaine",
+   "nom_de": "Römischer Platz",
+   "nom_es": "Plaza Romana",
+   "nom_it": "Scala romana",
+   "cout": "232.5B"
+ },
+ {
+   "Niveau": 228,
+   "nom_en": "Cricket",
+   "nom_fr": "Cricket",
+   "nom_de": "Kricket",
+   "nom_es": "Cricket",
+   "nom_it": "Cricket",
+   "cout": "239.6B"
+ },
+ {
+   "Niveau": 229,
+   "nom_en": "Nordic Fisherman",
+   "nom_fr": "Pęcheur nordique",
+   "nom_de": "Nordischer Fischer",
+   "nom_es": "Pescador nórdico",
+   "nom_it": "Pescatore nordico",
+   "cout": "246.9B"
+ },
+ {
+   "Niveau": 230,
+   "nom_en": "Georgia",
+   "nom_fr": "Géorgie",
+   "nom_de": "Georgia",
+   "nom_es": "Georgia",
+   "nom_it": "Georgia",
+   "cout": "245.6B"
+ },
+ {
+   "Niveau": 231,
+   "nom_en": "Tesla’s Lab",
+   "nom_fr": "Laboratoire de Tesla",
+   "nom_de": "Teslas Labor",
+   "nom_es": "El laboratorio de Tesla",
+   "nom_it": "Laboratorio di Tesla",
+   "cout": "262.2B"
+ },
+ {
+   "Niveau": 232,
+   "nom_en": "Iceland",
+   "nom_fr": "Islande",
+   "nom_de": "Island",
+   "nom_es": "Islandia",
+   "nom_it": "Islanda",
+   "cout": "270.2B"
+ },
+ {
+   "Niveau": 233,
+   "nom_en": "Portugal Vasco da Gama",
+   "nom_fr": "Portugal Vasco de Gama",
+   "nom_de": "Portugal Vasco da Gama",
+   "nom_es": "Portugal Vasco da Gama",
+   "nom_it": "Portogallo Vasco da Gama",
+   "cout": "278.5B"
+ },
+ {
+   "Niveau": 234,
+   "nom_en": "Templar Order",
+   "nom_fr": "Ordre des Templiers",
+   "nom_de": "Templerorden",
+   "nom_es": "Orden Templaria",
+   "nom_it": "Ordine Templare",
+   "cout": "287B"
+ },
+ {
+   "Niveau": 235,
+   "nom_en": "Aircraft Carrier",
+   "nom_fr": "Porte-avions",
+   "nom_de": "Flugzeugträger",
+   "nom_es": "Portaaviones",
+   "nom_it": "Portaerei",
+   "cout": "295.8B"
+ },
+ {
+   "Niveau": 236,
+   "nom_en": "Alien Museum",
+   "nom_fr": "Musée des extraterrestres",
+   "nom_de": "Alien-Museum",
+   "nom_es": "Museo alienígena",
+   "nom_it": "Museo degli alieni",
+   "cout": "304.8B"
+ },
+ {
+   "Niveau": 237,
+   "nom_en": "Prisoner Escape",
+   "nom_fr": "Évasion de prisonnier",
+   "nom_de": "Gefangenenausbruch",
+   "nom_es": "Fuga de prisioneros",
+   "nom_it": "Evasione del prigioniero",
+   "cout": "314.1B"
+ },
+ {
+   "Niveau": 238,
+   "nom_en": "Maharaja",
+   "nom_fr": "Maharaja",
+   "nom_de": "Maharaja",
+   "nom_es": "Maharajá",
+   "nom_it": "Maharaja",
+   "cout": "323.7B"
+ },
+ {
+   "Niveau": 239,
+   "nom_en": "Alien Invasion",
+   "nom_fr": "Invasion extraterrestre",
+   "nom_de": "Alien-Invasion",
+   "nom_es": "Invasión alienígena",
+   "nom_it": "Invasione aliena",
+   "cout": "333.6B"
+ },
+ {
+   "Niveau": 240,
+   "nom_en": "Royal Heaven",
+   "nom_fr": "Ciel royal",
+   "nom_de": "Königlicher Himmel",
+   "nom_es": "Cielo real",
+   "nom_it": "Mistero Reale",
+   "cout": "343.8B"
+ },
+ {
+   "Niveau": 241,
+   "nom_en": "Submarine",
+   "nom_fr": "Sous-marin",
+   "nom_de": "U-Boot",
+   "nom_es": "Submarino",
+   "nom_it": "Sottomarino",
+   "cout": "354.3B"
+ },
+ {
+   "Niveau": 242,
+   "nom_en": "Princess Pack",
+   "nom_fr": "Pack Princesse",
+   "nom_de": "Prinzessinnen-Paket",
+   "nom_es": "Paquete de princesa",
+   "nom_it": "Pacchetto Principessa",
+   "cout": "365.1B"
+ },
+ {
+   "Niveau": 243,
+   "nom_en": "Chocolate Factory",
+   "nom_fr": "Chocolaterie",
+   "nom_de": "Schokoladenfabrik",
+   "nom_es": "Fábrica de chocolate",
+   "nom_it": "Fabbrica di cioccolato",
+   "cout": "376.2B"
+ },
+ {
+   "Niveau": 244,
+   "nom_en": "Hansel and Gretel",
+   "nom_fr": "Hansel et Gretel",
+   "nom_de": "Hänsel und Gretel",
+   "nom_es": "Hansel y Gretel",
+   "nom_it": "Hansel e Gretel",
+   "cout": "387.7B"
+ },
+ {
+   "Niveau": 245,
+   "nom_en": "Mage Room",
+   "nom_fr": "Salle des mages",
+   "nom_de": "Magierzimmer",
+   "nom_es": "Sala de magos",
+   "nom_it": "Stanza del Mago",
+   "cout": "399.6B"
+ },
+ {
+   "Niveau": 246,
+   "nom_en": "Gardener",
+   "nom_fr": "Jardinier",
+   "nom_de": "Gärtner",
+   "nom_es": "Jardinero",
+   "nom_it": "Giardiniere",
+   "cout": "411.8B"
+ },
+ {
+   "Niveau": 247,
+   "nom_en": "Venice Beach",
+   "nom_fr": "Venice Beach",
+   "nom_de": "Venice Beach",
+   "nom_es": "Playa de Venecia",
+   "nom_it": "Spiaggia di Venezia",
+   "cout": "424.3B"
+ },
+ {
+   "Niveau": 248,
+   "nom_en": "Biker’s Gang",
+   "nom_fr": "Gang de motards",
+   "nom_de": "Motorradgang",
+   "nom_es": "Banda de motociclistas",
+   "nom_it": "Banda di motociclisti",
+   "cout": "437.3B"
+ },
+ {
+   "Niveau": 249,
+   "nom_en": "Ice Skating",
+   "nom_fr": "patinage sur glace",
+   "nom_de": "Eislaufen",
+   "nom_es": "Patinaje sobre hielo",
+   "nom_it": "Pattinaggio sul ghiaccio",
+   "cout": "450.7B"
+ },
+ {
+   "Niveau": 250,
+   "nom_en": "Pastry Shop",
+   "nom_fr": "Pâtisserie",
+   "nom_de": "Konditorei",
+   "nom_es": "Pastelería",
+   "nom_it": "Pasticceria",
+   "cout": "464.4B"
+ },
+ {
+   "Niveau": 251,
+   "nom_en": "Mauri",
+   "nom_fr": "Mauri",
+   "nom_de": "Mauri",
+   "nom_es": "Mauri",
+   "nom_it": "Mauri",
+   "cout": "478.6B"
+ },
+ {
+   "Niveau": 252,
+   "nom_en": "Archery",
+   "nom_fr": "Tir ŕ l'arc",
+   "nom_de": "Bogenschießen",
+   "nom_es": "Tiro al arco",
+   "nom_it": "Tiro con l'arco",
+   "cout": "493.2B"
+ },
+ {
+   "Niveau": 253,
+   "nom_en": "Doughnut Shop",
+   "nom_fr": "Boutique de beignets",
+   "nom_de": "Donut-Laden",
+   "nom_es": "Tienda de donuts",
+   "nom_it": "Negozio di ciambelle",
+   "cout": "499B"
+ },
+ {
+   "Niveau": 254,
+   "nom_en": "Wagon Train",
+   "nom_fr": "convoi de chariots",
+   "nom_de": "Planwagenzug",
+   "nom_es": "caravana de carretas",
+   "nom_it": "Carrozza",
+   "cout": "514B"
+ },
+ {
+   "Niveau": 255,
+   "nom_en": "Sumo",
+   "nom_fr": "Sumo",
+   "nom_de": "Sumo",
+   "nom_es": "Sumo",
+   "nom_it": "Sumo",
+   "cout": "530B"
+ },
+ {
+   "Niveau": 256,
+   "nom_en": "Bowling",
+   "nom_fr": "Bowling",
+   "nom_de": "Bowling",
+   "nom_es": "Bolos",
+   "nom_it": "Bowling",
+   "cout": "546B"
+ },
+ {
+   "Niveau": 257,
+   "nom_en": "Cyborg",
+   "nom_fr": "Cyborg",
+   "nom_de": "Cyborg",
+   "nom_es": "Cyborg",
+   "nom_it": "Cyborg",
+   "cout": "562B"
+ },
+ {
+   "Niveau": 258,
+   "nom_en": "Momotaro",
+   "nom_fr": "Momotaro",
+   "nom_de": "Momotaro",
+   "nom_es": "Momotaro",
+   "nom_it": "Momotaro",
+   "cout": "579B"
+ },
+ {
+   "Niveau": 259,
+   "nom_en": "Green Earth",
+   "nom_fr": "Terre verte",
+   "nom_de": "Grüne Erde",
+   "nom_es": "Tierra Verde",
+   "nom_it": "Terra Verde",
+   "cout": "597B"
+ },
+ {
+   "Niveau": 260,
+   "nom_en": "Leonardo’s Workshop",
+   "nom_fr": "L'atelier de Léonard",
+   "nom_de": "Leonardos Werkstatt",
+   "nom_es": "El taller de Leonardo",
+   "nom_it": "L'officina di Leonardo",
+   "cout": "614B"
+ },
+ {
+   "Niveau": 261,
+   "nom_en": "Voodoo Shop",
+   "nom_fr": "Boutique vaudou",
+   "nom_de": "Voodoo-Shop",
+   "nom_es": "Tienda de vudú",
+   "nom_it": "Negozio Voodoo",
+   "cout": "633B"
+ },
+ {
+   "Niveau": 262,
+   "nom_en": "Clock Master",
+   "nom_fr": "Maître horloger",
+   "nom_de": "Uhrmacher",
+   "nom_es": "Maestro del reloj",
+   "nom_it": "Maestro dell'orologio",
+   "cout": "652B"
+ },
+ {
+   "Niveau": 263,
+   "nom_en": "River Beast",
+   "nom_fr": "Bęte de la rivičre",
+   "nom_de": "Flussbestie",
+   "nom_es": "La bestia del río",
+   "nom_it": "Bestia del fiume",
+   "cout": "671B"
+ },
+ {
+   "Niveau": 264,
+   "nom_en": "Bollywood",
+   "nom_fr": "Bollywood",
+   "nom_de": "Bollywood",
+   "nom_es": "Bollywood",
+   "nom_it": "Bollywood",
+   "cout": "691B"
+ },
+ {
+   "Niveau": 265,
+   "nom_en": "Wedding",
+   "nom_fr": "Mariage",
+   "nom_de": "Hochzeit",
+   "nom_es": "Boda",
+   "nom_it": "Nozze",
+   "cout": "712B"
+ },
+ {
+   "Niveau": 266,
+   "nom_en": "Crab Fishing",
+   "nom_fr": "Pęche au crabe",
+   "nom_de": "Krabbenfischen",
+   "nom_es": "Pesca de cangrejos",
+   "nom_it": "Pesca dei granchi",
+   "cout": "733B"
+ },
+ {
+   "Niveau": 267,
+   "nom_en": "Surfing Beach",
+   "nom_fr": "Plage de surf",
+   "nom_de": "Surfstrand",
+   "nom_es": "Playa para surfistas",
+   "nom_it": "Spiaggia per surfisti",
+   "cout": "755B"
+ },
+ {
+   "Niveau": 268,
+   "nom_en": "Bangkok Market",
+   "nom_fr": "Marché de Bangkok",
+   "nom_de": "Markt von Bangkok",
+   "nom_es": "Mercado de Bangkok",
+   "nom_it": "Mercato di Bangkok",
+   "cout": "778B"
+ },
+ {
+   "Niveau": 269,
+   "nom_en": "Panda Reservoir",
+   "nom_fr": "Réservoir Panda",
+   "nom_de": "Panda-Stausee",
+   "nom_es": "Embalse Panda",
+   "nom_it": "Bacino idrico di Panda",
+   "cout": "801B"
+ },
+ {
+   "Niveau": 270,
+   "nom_en": "Ninja Village",
+   "nom_fr": "Village Ninja",
+   "nom_de": "Ninja-Dorf",
+   "nom_es": "Aldea Ninja",
+   "nom_it": "Villaggio Ninja",
+   "cout": "825B"
+ },
+ {
+   "Niveau": 271,
+   "nom_en": "Art Gallery",
+   "nom_fr": "Galerie d'art",
+   "nom_de": "Kunstgalerie",
+   "nom_es": "Galería de arte",
+   "nom_it": "Galleria d'arte",
+   "cout": "850B"
+ },
+ {
+   "Niveau": 272,
+   "nom_en": "Japan Hot Springs",
+   "nom_fr": "Sources thermales du Japon",
+   "nom_de": "Japanische heiße Quellen",
+   "nom_es": "Aguas termales de Japón",
+   "nom_it": "Sorgenti termali giapponesi",
+   "cout": "876B"
+ },
+ {
+   "Niveau": 273,
+   "nom_en": "Food Festival",
+   "nom_fr": "Festival gastronomique",
+   "nom_de": "Food Festival",
+   "nom_es": "Festival gastronómico",
+   "nom_it": "Festival gastronomico",
+   "cout": "902B"
+ },
+ {
+   "Niveau": 274,
+   "nom_en": "Snow Playground",
+   "nom_fr": "Aire de jeux enneigée",
+   "nom_de": "Schneespielplatz",
+   "nom_es": "Parque infantil de nieve",
+   "nom_it": "Parco giochi sulla neve",
+   "cout": "929B"
+ },
+ {
+   "Niveau": 275,
+   "nom_en": "Subway",
+   "nom_fr": "Métro",
+   "nom_de": "U-Bahn",
+   "nom_es": "Metro",
+   "nom_it": "Metropolitana",
+   "cout": "957B"
+ },
+ {
+   "Niveau": 276,
+   "nom_en": "Camel Fair",
+   "nom_fr": "Foire aux chameaux",
+   "nom_de": "Kamelmarkt",
+   "nom_es": "Feria de camellos",
+   "nom_it": "Fiera dei cammelli",
+   "cout": "985B"
+ },
+ {
+   "Niveau": 277,
+   "nom_en": "Monkey Brewery",
+   "nom_fr": "Brasserie Monkey",
+   "nom_de": "Monkey Brewery",
+   "nom_es": "Cervecería Mono",
+   "nom_it": "Birrificio Monkey",
+   "cout": "1T"
+ },
+ {
+   "Niveau": 278,
+   "nom_en": "Space Post",
+   "nom_fr": "Poste spatial",
+   "nom_de": "Weltraumposten",
+   "nom_es": "Correo espacial",
+   "nom_it": "Post spaziale",
+   "cout": "1T"
+ },
+ {
+   "Niveau": 279,
+   "nom_en": "Sakura",
+   "nom_fr": "Sakura",
+   "nom_de": "Sakura",
+   "nom_es": "Sakura",
+   "nom_it": "Sakura",
+   "cout": "1.1T"
+ },
+ {
+   "Niveau": 280,
+   "nom_en": "Astronaut Space Station",
+   "nom_fr": "Station spatiale des astronautes",
+   "nom_de": "Astronauten-Raumstation",
+   "nom_es": "Estación Espacial Internacional de Astronautas",
+   "nom_it": "Stazione Spaziale Astronauta",
+   "cout": "1.1T"
+ },
+ {
+   "Niveau": 281,
+   "nom_en": "Pool Party",
+   "nom_fr": "Fęte ŕ la piscine",
+   "nom_de": "Poolparty",
+   "nom_es": "Fiesta en la piscina",
+   "nom_it": "Festa in piscina",
+   "cout": "1.1T"
+ },
+ {
+   "Niveau": 282,
+   "nom_en": "Valentine",
+   "nom_fr": "Valentin",
+   "nom_de": "Valentinstag",
+   "nom_es": "Enamorado",
+   "nom_it": "San Valentino",
+   "cout": "1.2T"
+ },
+ {
+   "Niveau": 283,
+   "nom_en": "Chinatown",
+   "nom_fr": "quartier chinois",
+   "nom_de": "Chinatown",
+   "nom_es": "barrio chino",
+   "nom_it": "Chinatown",
+   "cout": "1.2T"
+ },
+ {
+   "Niveau": 284,
+   "nom_en": "Mech Dino Lab",
+   "nom_fr": "Laboratoire des dinosaures mécaniques",
+   "nom_de": "Mech Dino Lab",
+   "nom_es": "Laboratorio de dinosaurios mecánicos",
+   "nom_it": "Laboratorio Mech Dino",
+   "cout": "1.2T"
+ },
+ {
+   "Niveau": 285,
+   "nom_en": "Stone Beasts",
+   "nom_fr": "Bętes de pierre",
+   "nom_de": "Steinbestien",
+   "nom_es": "Bestias de piedra",
+   "nom_it": "Bestie di pietra",
+   "cout": "1.3T"
+ },
+ {
+   "Niveau": 286,
+   "nom_en": "Scary Theme Park",
+   "nom_fr": "Parc d'attractions effrayant",
+   "nom_de": "Grusel-Themenpark",
+   "nom_es": "Parque temático de terror",
+   "nom_it": "Parco divertimenti spaventoso",
+   "cout": "1.3T"
+ },
+ {
+   "Niveau": 287,
+   "nom_en": "Human and Orc War",
+   "nom_fr": "Guerre entre les humains et les orcs",
+   "nom_de": "Krieg zwischen Menschen und Orks",
+   "nom_es": "Guerra entre humanos y orcos",
+   "nom_it": "Guerra tra umani e orchi",
+   "cout": "1.4T"
+ },
+ {
+   "Niveau": 288,
+   "nom_en": "Witch Hunter",
+   "nom_fr": "Chasseur de sorcičres",
+   "nom_de": "Hexenjäger",
+   "nom_es": "Cazador de brujas",
+   "nom_it": "Cacciatore di streghe",
+   "cout": "1.4T"
+ },
+ {
+   "Niveau": 289,
+   "nom_en": "Parliament",
+   "nom_fr": "Parlement",
+   "nom_de": "Parlament",
+   "nom_es": "Parlamento",
+   "nom_it": "Parlamento",
+   "cout": "1.4T"
+ },
+ {
+   "Niveau": 290,
+   "nom_en": "Science Fair",
+   "nom_fr": "Exposition scientifique",
+   "nom_de": "Wissenschaftsmesse",
+   "nom_es": "Feria de Ciencias",
+   "nom_it": "Fiera della scienza",
+   "cout": "1.5T"
+ },
+ {
+   "Niveau": 291,
+   "nom_en": "Library",
+   "nom_fr": "Bibliothčque",
+   "nom_de": "Bibliothek",
+   "nom_es": "Biblioteca",
+   "nom_it": "Biblioteca",
+   "cout": "1.5T"
+ },
+ {
+   "Niveau": 292,
+   "nom_en": "Vintage Market",
+   "nom_fr": "Marché vintage",
+   "nom_de": "Vintage-Markt",
+   "nom_es": "Mercado de artículos vintage",
+   "nom_it": "Mercato Vintage",
+   "cout": "1.6T"
+ },
+ {
+   "Niveau": 293,
+   "nom_en": "Hollywood Premier",
+   "nom_fr": "Premičre hollywoodienne",
+   "nom_de": "Hollywood-Premiere",
+   "nom_es": "Estreno en Hollywood",
+   "nom_it": "Prima a Hollywood",
+   "cout": "1.6T"
+ },
+ {
+   "Niveau": 294,
+   "nom_en": "Drive-in",
+   "nom_fr": "Cinéma en plein air",
+   "nom_de": "Autokino",
+   "nom_es": "Autocine",
+   "nom_it": "Drive-in",
+   "cout": "1.7T"
+ },
+ {
+   "Niveau": 295,
+   "nom_en": "Indian Festival",
+   "nom_fr": "Festival indien",
+   "nom_de": "Indisches Festival",
+   "nom_es": "Festival indio",
+   "nom_it": "Festa indiana",
+   "cout": "1.7T"
+ },
+ {
+   "Niveau": 296,
+   "nom_en": "CSI Lab",
+   "nom_fr": "Laboratoire CSI",
+   "nom_de": "CSI-Labor",
+   "nom_es": "Laboratorio CSI",
+   "nom_it": "Laboratorio CSI",
+   "cout": "1.8T"
+ },
+ {
+   "Niveau": 297,
+   "nom_en": "Tango",
+   "nom_fr": "Tango",
+   "nom_de": "Tango",
+   "nom_es": "Tango",
+   "nom_it": "Tango",
+   "cout": "1.8T"
+ },
+ {
+   "Niveau": 298,
+   "nom_en": "Thai Festival",
+   "nom_fr": "Festival thaďlandais",
+   "nom_de": "Thailändisches Festival",
+   "nom_es": "Festival tailandés",
+   "nom_it": "Festival thailandese",
+   "cout": "1.9T"
+ },
+ {
+   "Niveau": 299,
+   "nom_en": "Cyberpunk Japan",
+   "nom_fr": "Japon cyberpunk",
+   "nom_de": "Cyberpunk Japan",
+   "nom_es": "Japón ciberpunk",
+   "nom_it": "Giappone cyberpunk",
+   "cout": "1.9T"
+ },
+ {
+   "Niveau": 300,
+   "nom_en": "Victorian Sci-Fi",
+   "nom_fr": "Science-fiction victorienne",
+   "nom_de": "Viktorianische Science-Fiction",
+   "nom_es": "Ciencia ficción victoriana",
+   "nom_it": "Fantascienza vittoriana",
+   "cout": "2T"
+ },
+ {
+   "Niveau": 301,
+   "nom_en": "Christmas Market",
+   "nom_fr": "Marché de Noël",
+   "nom_de": "Weihnachtsmarkt",
+   "nom_es": "Mercado navideńo",
+   "nom_it": "Mercatino di Natale",
+   "cout": "2.1T"
+ },
+ {
+   "Niveau": 302,
+   "nom_en": "Skydive",
+   "nom_fr": "saut en parachute",
+   "nom_de": "Fallschirmspringen",
+   "nom_es": "Paracaidismo",
+   "nom_it": "Paracadutismo",
+   "cout": "2.2T"
+ },
+ {
+   "Niveau": 303,
+   "nom_en": "Gran Hotel",
+   "nom_fr": "Gran Hotel",
+   "nom_de": "Gran Hotel",
+   "nom_es": "Gran Hotel",
+   "nom_it": "Gran Hotel",
+   "cout": "2.2T"
+ },
+ {
+   "Niveau": 304,
+   "nom_en": "Apocalypse City Survival",
+   "nom_fr": "Survie en ville aprčs l'apocalypse",
+   "nom_de": "Apokalypse-Stadt-Überleben",
+   "nom_es": "Supervivencia en la ciudad del Apocalipsis",
+   "nom_it": "Sopravvivenza in una cittŕ apocalittica",
+   "cout": "2.3T"
+ },
+ {
+   "Niveau": 305,
+   "nom_en": "Comic Convention",
+   "nom_fr": "Convention de la BD",
+   "nom_de": "Comic-Convention",
+   "nom_es": "Convención de cómics",
+   "nom_it": "Comic Convention",
+   "cout": "2.3T"
+ },
+ {
+   "Niveau": 306,
+   "nom_en": "Deep-Sea Civilization",
+   "nom_fr": "Civilisation des profondeurs",
+   "nom_de": "Tiefseezivilisation",
+   "nom_es": "Civilización de las profundidades marinas",
+   "nom_it": "Civiltŕ degli abissi",
+   "cout": "2.4T"
+ },
+ {
+   "Niveau": 307,
+   "nom_en": "Karaoke Room",
+   "nom_fr": "Salle de karaoké",
+   "nom_de": "Karaoke-Raum",
+   "nom_es": "Sala de karaoke",
+   "nom_it": "Sala karaoke",
+   "cout": "2.5T"
+ },
+ {
+   "Niveau": 308,
+   "nom_en": "Magic Lana",
+   "nom_fr": "Lana magique",
+   "nom_de": "Magic Lana",
+   "nom_es": "Lana mágica",
+   "nom_it": "Lana Magica",
+   "cout": "2.5T"
+ },
+ {
+   "Niveau": 309,
+   "nom_en": "Crocodile Farm",
+   "nom_fr": "Ferme aux crocodiles",
+   "nom_de": "Krokodilfarm",
+   "nom_es": "Granja de cocodrilos",
+   "nom_it": "Allevamento di coccodrilli",
+   "cout": "2.6T"
+ },
+ {
+   "Niveau": 310,
+   "nom_en": "Radio Station",
+   "nom_fr": "Station de radio",
+   "nom_de": "Radiosender",
+   "nom_es": "emisora ??de radio",
+   "nom_it": "Stazione radio",
+   "cout": "2.7T"
+ },
+ {
+   "Niveau": 311,
+   "nom_en": "Road Trip",
+   "nom_fr": "Voyage en voiture",
+   "nom_de": "Roadtrip",
+   "nom_es": "Viaje por carretera",
+   "nom_it": "Viaggio in auto",
+   "cout": "2.8T"
+ },
+ {
+   "Niveau": 312,
+   "nom_en": "Mexican Restaurant",
+   "nom_fr": "Restaurant mexicain",
+   "nom_de": "Mexikanisches Restaurant",
+   "nom_es": "Restaurante mexicano",
+   "nom_it": "Ristorante messicano",
+   "cout": "2.9T"
+ },
+ {
+   "Niveau": 313,
+   "nom_en": "Full Moon Party",
+   "nom_fr": "Fęte de la pleine lune",
+   "nom_de": "Vollmondparty",
+   "nom_es": "Fiesta de Luna Llena",
+   "nom_it": "Festa della luna piena",
+   "cout": "2.9T"
+ },
+ {
+   "Niveau": 314,
+   "nom_en": "Magic Academy",
+   "nom_fr": "Académie de magie",
+   "nom_de": "Magische Akademie",
+   "nom_es": "Academia de Magia",
+   "nom_it": "Accademia di Magia",
+   "cout": "3T"
+ },
+ {
+   "Niveau": 315,
+   "nom_en": "Bag Shop",
+   "nom_fr": "Boutique de sacs",
+   "nom_de": "Taschenladen",
+   "nom_es": "Tienda de bolsos",
+   "nom_it": "Negozio di borse",
+   "cout": "3.1T"
+ },
+ {
+   "Niveau": 316,
+   "nom_en": "Vintage Toy Shop",
+   "nom_fr": "Boutique de jouets vintage",
+   "nom_de": "Vintage-Spielzeugladen",
+   "nom_es": "Tienda de juguetes antiguos",
+   "nom_it": "Negozio di giocattoli vintage",
+   "cout": "3.2T"
+ },
+ {
+   "Niveau": 317,
+   "nom_en": "Aquarium Inside",
+   "nom_fr": "Aquarium intérieur",
+   "nom_de": "Aquarium innen",
+   "nom_es": "Acuario en el interior",
+   "nom_it": "Acquario all'interno",
+   "cout": "3.3T"
+ },
+ {
+   "Niveau": 318,
+   "nom_en": "Chinese Tavern",
+   "nom_fr": "Taverne chinoise",
+   "nom_de": "Chinesische Taverne",
+   "nom_es": "Taberna china",
+   "nom_it": "Taverna cinese",
+   "cout": "3.4T"
+ },
+ {
+   "Niveau": 319,
+   "nom_en": "Noodle Shop",
+   "nom_fr": "Restaurant de nouilles",
+   "nom_de": "Nudelladen",
+   "nom_es": "Tienda de fideos",
+   "nom_it": "Negozio di noodle",
+   "cout": "3.5T"
+ },
+ {
+   "Niveau": 320,
+   "nom_en": "Music Store",
+   "nom_fr": "Magasin de musique",
+   "nom_de": "Musikgeschäft",
+   "nom_es": "Tienda de música",
+   "nom_it": "Negozio di musica",
+   "cout": "3.6T"
+ },
+ {
+   "Niveau": 321,
+   "nom_en": "K-Pop",
+   "nom_fr": "K-Pop",
+   "nom_de": "K-Pop",
+   "nom_es": "K-Pop",
+   "nom_it": "K-Pop",
+   "cout": "3.7T"
+ },
+ {
+   "Niveau": 322,
+   "nom_en": "Herb Class Room",
+   "nom_fr": "Salle de classe sur les herbes",
+   "nom_de": "Kräuterklassenzimmer",
+   "nom_es": "Aula de hierbas",
+   "nom_it": "Aula di erbe",
+   "cout": "3.8T"
+ },
+ {
+   "Niveau": 323,
+   "nom_en": "Cosmetic Shop",
+   "nom_fr": "Boutique de cosmétiques",
+   "nom_de": "Kosmetikgeschäft",
+   "nom_es": "Tienda de cosméticos",
+   "nom_it": "Negozio di cosmetici",
+   "cout": "3.9T"
+ },
+ {
+   "Niveau": 324,
+   "nom_en": "Carnival Fortune",
+   "nom_fr": "Fortune du Carnaval",
+   "nom_de": "Karnevalsglück",
+   "nom_es": "Carnaval Fortuna",
+   "nom_it": "Carnevale Fortuna",
+   "cout": "3.4T"
+ },
+ {
+   "Niveau": 325,
+   "nom_en": "Airport",
+   "nom_fr": "Aéroport",
+   "nom_de": "Flughafen",
+   "nom_es": "Aeropuerto",
+   "nom_it": "Aeroporto",
+   "cout": "3.5T"
+ },
+ {
+   "Niveau": 326,
+   "nom_en": "Hospital",
+   "nom_fr": "Hôpital",
+   "nom_de": "Krankenhaus",
+   "nom_es": "Hospital",
+   "nom_it": "Ospedale",
+   "cout": "3.6T"
+ },
+ {
+   "Niveau": 327,
+   "nom_en": "Dog Trainer",
+   "nom_fr": "Dresseur de chiens",
+   "nom_de": "Hundetrainer",
+   "nom_es": "Entrenador de perros",
+   "nom_it": "Addestratore di cani",
+   "cout": "3.7T"
+ },
+ {
+   "Niveau": 328,
+   "nom_en": "Cosplay Party",
+   "nom_fr": "Soirée Cosplay",
+   "nom_de": "Cosplay-Party",
+   "nom_es": "Fiesta de cosplay",
+   "nom_it": "Festa in cosplay",
+   "cout": "3.8T"
+ },
+ {
+   "Niveau": 329,
+   "nom_en": "Unicorn Cafe",
+   "nom_fr": "Café Licorne",
+   "nom_de": "Einhorn-Café",
+   "nom_es": "Café Unicornio",
+   "nom_it": "Caffč Unicorno",
+   "cout": "4T"
+ },
+ {
+   "Niveau": 330,
+   "nom_en": "Ice Cream Shop",
+   "nom_fr": "Glacier",
+   "nom_de": "Eisdiele",
+   "nom_es": "Heladería",
+   "nom_it": "Gelateria",
+   "cout": "4.1T"
+ },
+ {
+   "Niveau": 331,
+   "nom_en": "Cheese Factory",
+   "nom_fr": "Fromagerie",
+   "nom_de": "Käsefabrik",
+   "nom_es": "Fábrica de queso",
+   "nom_it": "Caseificio",
+   "cout": "4.2T"
+ },
+ {
+   "Niveau": 332,
+   "nom_en": "Safari",
+   "nom_fr": "Safari",
+   "nom_de": "Safari",
+   "nom_es": "Safari",
+   "nom_it": "Safari",
+   "cout": "4.3T"
+ },
+ {
+   "Niveau": 333,
+   "nom_en": "Bus House",
+   "nom_fr": "Maison de bus",
+   "nom_de": "Bus House",
+   "nom_es": "Casa de autobuses",
+   "nom_it": "Bus House",
+   "cout": "4.5T"
+ },
+ {
+   "Niveau": 334,
+   "nom_en": "Corgi Marathon",
+   "nom_fr": "Marathon Corgi",
+   "nom_de": "Corgi-Marathon",
+   "nom_es": "Maratón Corgi",
+   "nom_it": "Maratona Corgi",
+   "cout": "4.6T"
+ },
+ {
+   "Niveau": 335,
+   "nom_en": "Street Performance",
+   "nom_fr": "Spectacles de rue",
+   "nom_de": "Straßenperformance",
+   "nom_es": "Espectáculo callejero",
+   "nom_it": "Esibizioni di strada",
+   "cout": "4.7T"
+ },
+ {
+   "Niveau": 336,
+   "nom_en": "Fish Market",
+   "nom_fr": "Marché aux poissons",
+   "nom_de": "Fischmarkt",
+   "nom_es": "Mercado de pescado",
+   "nom_it": "Mercato del pesce",
+   "cout": "4.9T"
+ },
+ {
+   "Niveau": 337,
+   "nom_en": "Koi Fish Pond",
+   "nom_fr": "bassin ŕ carpes koď",
+   "nom_de": "Koi-Teich",
+   "nom_es": "Estanque de peces koi",
+   "nom_it": "Laghetto con pesci koi",
+   "cout": "5T"
+ },
+ {
+   "Niveau": 338,
+   "nom_en": "Pet Photo Studio",
+   "nom_fr": "Studio photo pour animaux de compagnie",
+   "nom_de": "Fotostudio für Haustiere",
+   "nom_es": "Estudio fotográfico de mascotas",
+   "nom_it": "Studio fotografico per animali domestici",
+   "cout": "5.2T"
+ },
+ {
+   "Niveau": 339,
+   "nom_en": "Gnome Forest",
+   "nom_fr": "Foręt des Gnomes",
+   "nom_de": "Zwergenwald",
+   "nom_es": "Bosque de gnomos",
+   "nom_it": "Foresta degli gnomi",
+   "cout": "5.3T"
+ },
+ {
+   "Niveau": 340,
+   "nom_en": "Tea Field",
+   "nom_fr": "Champ de thé",
+   "nom_de": "Teefeld",
+   "nom_es": "Campo de té",
+   "nom_it": "Piantagione di tč",
+   "cout": "5.5T"
+ },
+ {
+   "Niveau": 341,
+   "nom_en": "Garden Barbecue",
+   "nom_fr": "Barbecue de jardin",
+   "nom_de": "Gartengrill",
+   "nom_es": "Barbacoa en el jardín",
+   "nom_it": "Barbecue in giardino",
+   "cout": "5.6T"
+ },
+ {
+   "Niveau": 342,
+   "nom_en": "Game Show",
+   "nom_fr": "Jeu télévisé",
+   "nom_de": "Spielshow",
+   "nom_es": "Programa de juegos",
+   "nom_it": "Game Show",
+   "cout": "5.8T"
+ },
+ {
+   "Niveau": 343,
+   "nom_en": "Barn Life",
+   "nom_fr": "La vie ŕ la grange",
+   "nom_de": "Scheunenleben",
+   "nom_es": "Vida en el granero",
+   "nom_it": "Vita in fattoria",
+   "cout": "6T"
+ },
+ {
+   "Niveau": 344,
+   "nom_en": "Monster Lounge",
+   "nom_fr": "Monster Lounge",
+   "nom_de": "Monster Lounge",
+   "nom_es": "Salón Monstruoso",
+   "nom_it": "Sala Mostro",
+   "cout": "6.1T"
+ },
+ {
+   "Niveau": 345,
+   "nom_en": "Taekwondo Match",
+   "nom_fr": "Match de taekwondo",
+   "nom_de": "Taekwondo-Kampf",
+   "nom_es": "Combate de Taekwondo",
+   "nom_it": "Incontro di Taekwondo",
+   "cout": "6.2T"
+ },
+ {
+   "Niveau": 346,
+   "nom_en": "Fitness Center",
+   "nom_fr": "Centre de remise en forme",
+   "nom_de": "Fitnesscenter",
+   "nom_es": "Gimnasio",
+   "nom_it": "Centro fitness",
+   "cout": "6.4T"
+ },
+ {
+   "Niveau": 347,
+   "nom_en": "Ethiopian Eats",
+   "nom_fr": "Cuisine éthiopienne",
+   "nom_de": "Äthiopische Gerichte",
+   "nom_es": "Comida etíope",
+   "nom_it": "Cibo etiope",
+   "cout": "6.6T"
+ },
+ {
+   "Niveau": 348,
+   "nom_en": "Curry Cafe",
+   "nom_fr": "Curry Cafe",
+   "nom_de": "Curry Café",
+   "nom_es": "Café Curry",
+   "nom_it": "Caffč del curry",
+   "cout": "6.8T"
+ },
+ {
+   "Niveau": 349,
+   "nom_en": "Textile Bazaar",
+   "nom_fr": "Bazar textile",
+   "nom_de": "Textilbasar",
+   "nom_es": "Bazar textil",
+   "nom_it": "Mercato tessile",
+   "cout": "7T"
+ },
+ {
+   "Niveau": 350,
+   "nom_en": "Basketball Park",
+   "nom_fr": "Parc de basketball",
+   "nom_de": "Basketballpark",
+   "nom_es": "Parque de baloncesto",
+   "nom_it": "Parco di basket",
+   "cout": "7.3T"
+ },
+ {
+   "Niveau": 351,
+   "nom_en": "Balloon Ride",
+   "nom_fr": "vol en montgolfičre",
+   "nom_de": "Ballonfahrt",
+   "nom_es": "Paseo en globo",
+   "nom_it": "Giro in mongolfiera",
+   "cout": "7.5T"
+ },
+ {
+   "Niveau": 352,
+   "nom_en": "Art Class",
+   "nom_fr": "Cours d'art",
+   "nom_de": "Kunstunterricht",
+   "nom_es": "Clase de arte",
+   "nom_it": "Lezione d'arte",
+   "cout": "7.7T"
+ },
+ {
+   "Niveau": 353,
+   "nom_en": "Gamer Cafe",
+   "nom_fr": "Café des joueurs",
+   "nom_de": "Gamer Café",
+   "nom_es": "Café para gamers",
+   "nom_it": "Caffč dei giocatori",
+   "cout": "7.9T"
+ },
+ {
+   "Niveau": 354,
+   "nom_en": "Gnome Home",
+   "nom_fr": "Gnome Home",
+   "nom_de": "Zwergenhaus",
+   "nom_es": "Hogar de gnomos",
+   "nom_it": "Casa degli gnomi",
+   "cout": "8.2T"
+ },
+ {
+   "Niveau": 355,
+   "nom_en": "Arctic Campers",
+   "nom_fr": "Campeurs arctiques",
+   "nom_de": "Arktis-Camper",
+   "nom_es": "Campistas del Ártico",
+   "nom_it": "Camper artici",
+   "cout": "8.4T"
+ },
+ {
+   "Niveau": 356,
+   "nom_en": "Spa Treatment",
+   "nom_fr": "Soins spa",
+   "nom_de": "Spa-Behandlung",
+   "nom_es": "Tratamiento de spa",
+   "nom_it": "Trattamento benessere",
+   "cout": "8.7T"
+ },
+ {
+   "Niveau": 357,
+   "nom_en": "Sand Contest",
+   "nom_fr": "Concours de sable",
+   "nom_de": "Sandwettbewerb",
+   "nom_es": "Concurso de arena",
+   "nom_it": "Gara di sabbia",
+   "cout": "8.9T"
+ },
+ {
+   "Niveau": 358,
+   "nom_en": "Orange Grove",
+   "nom_fr": "Orangeraie",
+   "nom_de": "Orangenhain",
+   "nom_es": "Orange Grove",
+   "nom_it": "Arancio",
+   "cout": "9.2T"
+ },
+ {
+   "Niveau": 359,
+   "nom_en": "Ninja Mission",
+   "nom_fr": "Mission Ninja",
+   "nom_de": "Ninja-Mission",
+   "nom_es": "Misión Ninja",
+   "nom_it": "Missione Ninja",
+   "cout": "9.5T"
+ },
+ {
+   "Niveau": 360,
+   "nom_en": "Monkey Feast",
+   "nom_fr": "Festin des singes",
+   "nom_de": "Affenfest",
+   "nom_es": "Fiesta de monos",
+   "nom_it": "Festa delle scimmie",
+   "cout": "9.8T"
+ },
+ {
+   "Niveau": 361,
+   "nom_en": "Garden Maze",
+   "nom_fr": "Labyrinthe de jardin",
+   "nom_de": "Gartenlabyrinth",
+   "nom_es": "Laberinto de jardín",
+   "nom_it": "Labirinto del giardino",
+   "cout": "10T"
+ },
+ {
+   "Niveau": 362,
+   "nom_en": "Nepal Trek",
+   "nom_fr": "Trek au Népal",
+   "nom_de": "Nepal-Trekking",
+   "nom_es": "Trekking en Nepal",
+   "nom_it": "Trekking in Nepal",
+   "cout": "10.3T"
+ },
+ {
+   "Niveau": 363,
+   "nom_en": "Horror Movie",
+   "nom_fr": "Film d'horreur",
+   "nom_de": "Horrorfilm",
+   "nom_es": "Película de horror",
+   "nom_it": "Film horror",
+   "cout": "10.6T"
+ },
+ {
+   "Niveau": 364,
+   "nom_en": "Marathon Track",
+   "nom_fr": "Piste de marathon",
+   "nom_de": "Marathonstrecke",
+   "nom_es": "Pista de maratón",
+   "nom_it": "Pista da maratona",
+   "cout": "10.9T"
+ },
+ {
+   "Niveau": 365,
+   "nom_en": "Tokyo Road",
+   "nom_fr": "Route de Tokyo",
+   "nom_de": "Tokyo Road",
+   "nom_es": "Carretera de Tokio",
+   "nom_it": "Strada di Tokyo",
+   "cout": "11.3T"
+ },
+ {
+   "Niveau": 366,
+   "nom_en": "Hi-tech Hackers",
+   "nom_fr": "Hackers de haute technologie",
+   "nom_de": "Hightech-Hacker",
+   "nom_es": "Hackers de alta tecnología",
+   "nom_it": "Hacker high-tech",
+   "cout": "11.6T"
+ },
+ {
+   "Niveau": 367,
+   "nom_en": "Music Studio",
+   "nom_fr": "Studio de musique",
+   "nom_de": "Musikstudio",
+   "nom_es": "Estudio de música",
+   "nom_it": "Studio di musica",
+   "cout": "12T"
+ },
+ {
+   "Niveau": 368,
+   "nom_en": "Reggae Band",
+   "nom_fr": "Groupe de reggae",
+   "nom_de": "Reggae-Band",
+   "nom_es": "Banda de reggae",
+   "nom_it": "Gruppo reggae",
+   "cout": "12.4T"
+ },
+ {
+   "Niveau": 369,
+   "nom_en": "Tomato Festival",
+   "nom_fr": "Festival de la tomate",
+   "nom_de": "Tomatenfest",
+   "nom_es": "Festival del Tomate",
+   "nom_it": "Festa del pomodoro",
+   "cout": "12.7T"
+ },
+ {
+   "Niveau": 370,
+   "nom_en": "Train Market",
+   "nom_fr": "Marché ferroviaire",
+   "nom_de": "Zugmarkt",
+   "nom_es": "Mercado de trenes",
+   "nom_it": "Mercato dei treni",
+   "cout": "13.1T"
+ },
+ {
+   "Niveau": 371,
+   "nom_en": "Roller Coaster",
+   "nom_fr": "Montagnes russes",
+   "nom_de": "Achterbahn",
+   "nom_es": "Montańa rusa",
+   "nom_it": "Montagne russe",
+   "cout": "13.5T"
+ },
+ {
+   "Niveau": 372,
+   "nom_en": "Fossil Site",
+   "nom_fr": "Site fossilifčre",
+   "nom_de": "Fossilienfundstätte",
+   "nom_es": "Yacimiento de fósiles",
+   "nom_it": "Sito fossilifero",
+   "cout": "13.9T"
+ },
+ {
+   "Niveau": 373,
+   "nom_en": "Future Lab",
+   "nom_fr": "Laboratoire du futur",
+   "nom_de": "Zukunftslabor",
+   "nom_es": "Laboratorio del futuro",
+   "nom_it": "Laboratorio del futuro",
+   "cout": "14.4T"
+ },
+ {
+   "Niveau": 374,
+   "nom_en": "Ice Festival",
+   "nom_fr": "Festival de glace",
+   "nom_de": "Eisfestival",
+   "nom_es": "Festival de hielo",
+   "nom_it": "Festival del ghiaccio",
+   "cout": "14.8T"
+ },
+ {
+   "Niveau": 375,
+   "nom_en": "Vintage Hotel",
+   "nom_fr": "Hôtel Vintage",
+   "nom_de": "Vintage Hotel",
+   "nom_es": "Hotel Vintage",
+   "nom_it": "Hotel d'epoca",
+   "cout": "15.3T"
+ },
+ {
+   "Niveau": 376,
+   "nom_en": "Parkour Pros",
+   "nom_fr": "Les pros du parkour",
+   "nom_de": "Parkour-Profis",
+   "nom_es": "Profesionales del parkour",
+   "nom_it": "Professionisti del Parkour",
+   "cout": "15.7T"
+ },
+ {
+   "Niveau": 377,
+   "nom_en": "Bird Garden",
+   "nom_fr": "Jardin des oiseaux",
+   "nom_de": "Vogelgarten",
+   "nom_es": "Jardín de pájaros",
+   "nom_it": "Giardino degli uccelli",
+   "cout": "16.2T"
+ },
+ {
+   "Niveau": 378,
+   "nom_en": "Hot Dog Contest",
+   "nom_fr": "Concours de hot-dogs",
+   "nom_de": "Hot-Dog-Wettbewerb",
+   "nom_es": "Concurso de perritos calientes",
+   "nom_it": "Gara di hot dog",
+   "cout": "16.7T"
+ },
+ {
+   "Niveau": 379,
+   "nom_en": "Robot Battle",
+   "nom_fr": "Bataille de robots",
+   "nom_de": "Roboterkampf",
+   "nom_es": "Batalla de robots",
+   "nom_it": "Battaglia tra robot",
+   "cout": "17.2T"
+ },
+ {
+   "Niveau": 380,
+   "nom_en": "Insect Exhibit",
+   "nom_fr": "Exposition d'insectes",
+   "nom_de": "Insektenausstellung",
+   "nom_es": "Exposición de insectos",
+   "nom_it": "Mostra di insetti",
+   "cout": "17.7T"
+ },
+ {
+   "Niveau": 381,
+   "nom_en": "Birthday Dinner",
+   "nom_fr": "Dîner d'anniversaire",
+   "nom_de": "Geburtstagsessen",
+   "nom_es": "Cena de cumpleańos",
+   "nom_it": "Cena di compleanno",
+   "cout": "18.3T"
+ },
+ {
+   "Niveau": 382,
+   "nom_en": "Cave Family",
+   "nom_fr": "Famille Cave",
+   "nom_de": "Höhlenfamilie",
+   "nom_es": "Familia de las cavernas",
+   "nom_it": "Famiglia delle caverne",
+   "cout": "18.9T"
+ },
+ {
+   "Niveau": 383,
+   "nom_en": "Shark Diving",
+   "nom_fr": "Plongée avec les requins",
+   "nom_de": "Haifischtauchen",
+   "nom_es": "Buceo con tiburones",
+   "nom_it": "Immersioni con gli squali",
+   "cout": "19.4T"
+ },
+ {
+   "Niveau": 384,
+   "nom_en": "Boss Office",
+   "nom_fr": "Bureau du patron",
+   "nom_de": "Chefbüro",
+   "nom_es": "Oficina del jefe",
+   "nom_it": "Ufficio del capo",
+   "cout": "20T"
+ },
+ {
+   "Niveau": 385,
+   "nom_en": "Arts Fair",
+   "nom_fr": "Foire aux arts",
+   "nom_de": "Kunstmesse",
+   "nom_es": "Feria de Arte",
+   "nom_it": "Fiera delle Arti",
+   "cout": "20.7T"
+ },
+ {
+   "Niveau": 386,
+   "nom_en": "Rock Concert",
+   "nom_fr": "Concert rock",
+   "nom_de": "Rockkonzert",
+   "nom_es": "Concierto de rock",
+   "nom_it": "Concerto rock",
+   "cout": "21.5T"
+ },
+ {
+   "Niveau": 387,
+   "nom_en": "Ship Deck",
+   "nom_fr": "Pont du navire",
+   "nom_de": "Schiffsdeck",
+   "nom_es": "Cubierta del barco",
+   "nom_it": "Ponte della nave",
+   "cout": "21.9T"
+ },
+ {
+   "Niveau": 388,
+   "nom_en": "Pet Hospital",
+   "nom_fr": "Hôpital pour animaux de compagnie",
+   "nom_de": "Tierklinik",
+   "nom_es": "Hospital de mascotas",
+   "nom_it": "Ospedale veterinario",
+   "cout": "22.6T"
+ },
+ {
+   "Niveau": 389,
+   "nom_en": "Future Car Show",
+   "nom_fr": "Salon de l'auto du futur",
+   "nom_de": "Zukünftige Autoausstellung",
+   "nom_es": "Salón del automóvil del futuro",
+   "nom_it": "Salone dell'auto del futuro",
+   "cout": "23.3T"
+ },
+ {
+   "Niveau": 390,
+   "nom_en": "Hacker Heaven",
+   "nom_fr": "Le paradis des hackers",
+   "nom_de": "Hackerparadies",
+   "nom_es": "El paraíso de los hackers",
+   "nom_it": "Hacker Heaven",
+   "cout": "24T"
+ },
+ {
+   "Niveau": 391,
+   "nom_en": "Chess Match",
+   "nom_fr": "Match d'échecs",
+   "nom_de": "Schachspiel",
+   "nom_es": "Partida de ajedrez",
+   "nom_it": "Partita di scacchi",
+   "cout": "24.7T"
+ },
+ {
+   "Niveau": 392,
+   "nom_en": "Animal Cafe",
+   "nom_fr": "Café des animaux",
+   "nom_de": "Tiercafé",
+   "nom_es": "Café de animales",
+   "nom_it": "Caffč degli animali",
+   "cout": "25.4T"
+ },
+ {
+   "Niveau": 393,
+   "nom_en": "Polar Plaza",
+   "nom_fr": "Place polaire",
+   "nom_de": "Polar Plaza",
+   "nom_es": "Plaza Polar",
+   "nom_it": "Piazza Polare",
+   "cout": "26.2T"
+ },
+ {
+   "Niveau": 394,
+   "nom_en": "Mongolia Winter",
+   "nom_fr": "Hiver en Mongolie",
+   "nom_de": "Mongolei Winter",
+   "nom_es": "Invierno en Mongolia",
+   "nom_it": "Inverno in Mongolia",
+   "cout": "27T"
+ },
+ {
+   "Niveau": 395,
+   "nom_en": "Mathematician",
+   "nom_fr": "Mathématicien",
+   "nom_de": "Mathematiker",
+   "nom_es": "Matemático",
+   "nom_it": "Matematico",
+   "cout": "27.8T"
+ },
+ {
+   "Niveau": 396,
+   "nom_en": "Gorilla Gardens",
+   "nom_fr": "Jardins des gorilles",
+   "nom_de": "Gorillagärten",
+   "nom_es": "Jardines de gorilas",
+   "nom_it": "Giardini dei gorilla",
+   "cout": "28.6T"
+ },
+ {
+   "Niveau": 397,
+   "nom_en": "Sushi Bar",
+   "nom_fr": "Bar ŕ sushis",
+   "nom_de": "Sushi-Bar",
+   "nom_es": "Barra de sushi",
+   "nom_it": "Sushi Bar",
+   "cout": "29.5T"
+ },
+ {
+   "Niveau": 398,
+   "nom_en": "Veggie Contest",
+   "nom_fr": "Concours de légumes",
+   "nom_de": "Gemüsewettbewerb",
+   "nom_es": "Concurso de verduras",
+   "nom_it": "Concorso vegetariano",
+   "cout": "30.4T"
+ },
+ {
+   "Niveau": 399,
+   "nom_en": "Water Bungalow",
+   "nom_fr": "Bungalow sur pilotis",
+   "nom_de": "Wasserbungalow",
+   "nom_es": "Bungalow sobre el agua",
+   "nom_it": "Bungalow sull'acqua",
+   "cout": "31.3T"
+ },
+ {
+   "Niveau": 400,
+   "nom_en": "Postman Patch",
+   "nom_fr": "Patch du facteur",
+   "nom_de": "Postbote-Patch",
+   "nom_es": "Parche del cartero",
+   "nom_it": "Targhetta del postino",
+   "cout": "32.6T"
+ },
+ {
+   "Niveau": 401,
+   "nom_en": "Turkish Rooftop",
+   "nom_fr": "Toit turc",
+   "nom_de": "Türkisches Dach",
+   "nom_es": "Azotea turca",
+   "nom_it": "Tetto turco",
+   "cout": "33.3T"
+ },
+ {
+   "Niveau": 402,
+   "nom_en": "Bonsai Display",
+   "nom_fr": "Présentation de bonsaďs",
+   "nom_de": "Bonsai-Ausstellung",
+   "nom_es": "Exhibición de bonsáis",
+   "nom_it": "Esposizione di bonsai",
+   "cout": "34.2T"
+ },
+ {
+   "Niveau": 403,
+   "nom_en": "Midsummer Festival",
+   "nom_fr": "Festival de la Saint-Jean",
+   "nom_de": "Mittsommerfest",
+   "nom_es": "Festival de solsticio de verano",
+   "nom_it": "Festa di mezza estate",
+   "cout": "35.2T"
+ },
+ {
+   "Niveau": 404,
+   "nom_en": "Clock Shop",
+   "nom_fr": "Horlogerie",
+   "nom_de": "Uhrengeschäft",
+   "nom_es": "Relojería",
+   "nom_it": "Negozio di orologi",
+   "cout": "36.3T"
+ },
+ {
+   "Niveau": 405,
+   "nom_en": "Lotus Pond",
+   "nom_fr": "Étang aux lotus",
+   "nom_de": "Lotus-Teich",
+   "nom_es": "Estanque de lotos",
+   "nom_it": "Lo stagno del loto",
+   "cout": "37.5T"
+ },
+ {
+   "Niveau": 406,
+   "nom_en": "Dynasty Drama",
+   "nom_fr": "Drame dynastique",
+   "nom_de": "Dynastiedrama",
+   "nom_es": "Drama Dinastía",
+   "nom_it": "Dramma dinastico",
+   "cout": "38.5T"
+ },
+ {
+   "Niveau": 407,
+   "nom_en": "Drive Thru",
+   "nom_fr": "Drive-thru",
+   "nom_de": "Autorestaurant",
+   "nom_es": "Auto-servicio",
+   "nom_it": "Percorribile in auto",
+   "cout": "36.9T"
+ },
+ {
+   "Niveau": 408,
+   "nom_en": "Miss Coin Show",
+   "nom_fr": "Miss Coin Show",
+   "nom_de": "Miss Coin Show",
+   "nom_es": "Miss Coin Show",
+   "nom_it": "Miss Coin Show",
+   "cout": "41T"
+ },
+ {
+   "Niveau": 409,
+   "nom_en": "Tiger Sanctuary",
+   "nom_fr": "Sanctuaire des tigres",
+   "nom_de": "Tigerrefugium",
+   "nom_es": "Santuario de tigres",
+   "nom_it": "Santuario delle tigri",
+   "cout": "42.1T"
+ },
+ {
+   "Niveau": 410,
+   "nom_en": "Taiwan Travel",
+   "nom_fr": "Voyages ŕ Taďwan",
+   "nom_de": "Taiwan-Reise",
+   "nom_es": "Viajes a Taiwán",
+   "nom_it": "Viaggi a Taiwan",
+   "cout": "43.3T"
+ },
+ {
+   "Niveau": 411,
+   "nom_en": "Mardi Gras",
+   "nom_fr": "Mardi Gras",
+   "nom_de": "Karneval",
+   "nom_es": "Mardi Gras",
+   "nom_it": "Martedě Grasso",
+   "cout": "44.6T"
+ },
+ {
+   "Niveau": 412,
+   "nom_en": "Traffic Patrol",
+   "nom_fr": "patrouille routičre",
+   "nom_de": "Verkehrspolizei",
+   "nom_es": "Patrulla de Tráfico",
+   "nom_it": "Pattuglia del traffico",
+   "cout": "46.3T"
+ },
+ {
+   "Niveau": 413,
+   "nom_en": "College Dorm",
+   "nom_fr": "Résidence universitaire",
+   "nom_de": "Studentenwohnheim",
+   "nom_es": "Residencia universitaria",
+   "nom_it": "Dormitorio universitario",
+   "cout": "47.4T"
+ },
+ {
+   "Niveau": 414,
+   "nom_en": "Aqua Float Park",
+   "nom_fr": "Parc aquatique flottant",
+   "nom_de": "Aqua Float Park",
+   "nom_es": "Parque acuático flotante",
+   "nom_it": "Parco acquatico galleggiante",
+   "cout": "48.8T"
+ },
+ {
+   "Niveau": 415,
+   "nom_en": "Night Safari",
+   "nom_fr": "Safari nocturne",
+   "nom_de": "Nachtsafari",
+   "nom_es": "Safari nocturno",
+   "nom_it": "Safari notturno",
+   "cout": "50.3T"
+ },
+ {
+   "Niveau": 416,
+   "nom_en": "Cheese Boutique",
+   "nom_fr": "Fromagerie",
+   "nom_de": "Käseboutique",
+   "nom_es": "Tienda de quesos",
+   "nom_it": "Cheese Boutique",
+   "cout": "51.8T"
+ },
+ {
+   "Niveau": 417,
+   "nom_en": "Coffee Shop",
+   "nom_fr": "Café",
+   "nom_de": "Café",
+   "nom_es": "Cafetería",
+   "nom_it": "Caffetteria",
+   "cout": "53.4T"
+ },
+ {
+   "Niveau": 418,
+   "nom_en": "Foam Party",
+   "nom_fr": "Soirée mousse",
+   "nom_de": "Schaumparty",
+   "nom_es": "Fiesta de espuma",
+   "nom_it": "Festa della schiuma",
+   "cout": "55T"
+ },
+ {
+   "Niveau": 419,
+   "nom_en": "Mochi Ceremony",
+   "nom_fr": "Cérémonie du Mochi",
+   "nom_de": "Mochi-Zeremonie",
+   "nom_es": "Ceremonia del Mochi",
+   "nom_it": "Cerimonia del Mochi",
+   "cout": "56.6T"
+ },
+ {
+   "Niveau": 420,
+   "nom_en": "Magical Studio",
+   "nom_fr": "Studio Magique",
+   "nom_de": "Magisches Studio",
+   "nom_es": "Estudio mágico",
+   "nom_it": "Studio Magico",
+   "cout": "58.3T"
+ },
+ {
+   "Niveau": 421,
+   "nom_en": "Psychic Crew",
+   "nom_fr": "Équipe psychique",
+   "nom_de": "Hellseher-Crew",
+   "nom_es": "Equipo psíquico",
+   "nom_it": "Equipaggio psichico",
+   "cout": "60T"
+ },
+ {
+   "Niveau": 422,
+   "nom_en": "Turtle World",
+   "nom_fr": "Le monde des tortues",
+   "nom_de": "Schildkrötenwelt",
+   "nom_es": "Mundo Tortuga",
+   "nom_it": "Il mondo delle tartarughe",
+   "cout": "61.9T"
+ },
+ {
+   "Niveau": 423,
+   "nom_en": "Fishing Pier",
+   "nom_fr": "Quai de pęche",
+   "nom_de": "Angelpier",
+   "nom_es": "Muelle de pesca",
+   "nom_it": "Molo cinese",
+   "cout": "63.8T"
+ },
+ {
+   "Niveau": 424,
+   "nom_en": "Laundromat",
+   "nom_fr": "Laverie",
+   "nom_de": "Waschsalon",
+   "nom_es": "Lavandería",
+   "nom_it": "Lavanderia a gettoni",
+   "cout": "65.7T"
+ },
+ {
+   "Niveau": 425,
+   "nom_en": "Cactus House",
+   "nom_fr": "Maison Cactus",
+   "nom_de": "Kaktushaus",
+   "nom_es": "Casa de los cactus",
+   "nom_it": "Casa dei cactus",
+   "cout": "67.7T"
+ },
+ {
+   "Niveau": 426,
+   "nom_en": "Stock Exchange",
+   "nom_fr": "Bourse",
+   "nom_de": "Börse",
+   "nom_es": "Bolsa",
+   "nom_it": "Borsa valori",
+   "cout": "69.7T"
+ },
+ {
+   "Niveau": 427,
+   "nom_en": "Horse Ranch",
+   "nom_fr": "Ranch équestre",
+   "nom_de": "Pferderanch",
+   "nom_es": "Rancho de caballos",
+   "nom_it": "Ranch dei cavalli",
+   "cout": "71.8T"
+ },
+ {
+   "Niveau": 428,
+   "nom_en": "Powerlift Match",
+   "nom_fr": "Match de force athlétique",
+   "nom_de": "Powerlifting-Wettkampf",
+   "nom_es": "Partido de levantamiento de pesas",
+   "nom_it": "Gara di powerlifting",
+   "cout": "73.9T"
+ },
+ {
+   "Niveau": 429,
+   "nom_en": "Honeycomb Hike",
+   "nom_fr": "Randonnée en nid d'abeille",
+   "nom_de": "Wabenwanderung",
+   "nom_es": "Excursión al panal de abejas",
+   "nom_it": "Escursione al nido d'ape",
+   "cout": "76.1T"
+ },
+ {
+   "Niveau": 430,
+   "nom_en": "Dino Exhibit",
+   "nom_fr": "Exposition de dinosaures",
+   "nom_de": "Dino-Ausstellung",
+   "nom_es": "Exhibición de dinosaurios",
+   "nom_it": "Mostra dei dinosauri",
+   "cout": "78.4T"
+ },
+ {
+   "Niveau": 431,
+   "nom_en": "Blacksmith Mill",
+   "nom_fr": "Moulin du forgeron",
+   "nom_de": "Schmiede",
+   "nom_es": "Molino del herrero",
+   "nom_it": "Mulino del fabbro",
+   "cout": "80.8T"
+ },
+ {
+   "Niveau": 432,
+   "nom_en": "Sweet Shop",
+   "nom_fr": "Confiserie",
+   "nom_de": "Süßwarenladen",
+   "nom_es": "Tienda de dulces",
+   "nom_it": "Negozio di dolciumi",
+   "cout": "83.2T"
+ },
+ {
+   "Niveau": 433,
+   "nom_en": "Air Freight",
+   "nom_fr": "Fret aérien",
+   "nom_de": "Luftfracht",
+   "nom_es": "Transporte aéreo de mercancías",
+   "nom_it": "Trasporto aereo",
+   "cout": "85.8T"
+ },
+ {
+   "Niveau": 434,
+   "nom_en": "Cookie Factory",
+   "nom_fr": "Usine ŕ biscuits",
+   "nom_de": "Cookie Factory",
+   "nom_es": "Fábrica de galletas",
+   "nom_it": "Fabbrica di biscotti",
+   "cout": "88.3T"
+ },
+ {
+   "Niveau": 435,
+   "nom_en": "Bamboo Business",
+   "nom_fr": "Entreprise de bambou",
+   "nom_de": "Bambusgeschäft",
+   "nom_es": "Negocio de bambú",
+   "nom_it": "Attivitŕ commerciale del bambů",
+   "cout": "90.9T"
+ },
+ {
+   "Niveau": 436,
+   "nom_en": "Butterfly Bench",
+   "nom_fr": "Banc papillon",
+   "nom_de": "Schmetterlingsbank",
+   "nom_es": "Banco mariposa",
+   "nom_it": "Panca a farfalla",
+   "cout": "93.7T"
+ },
+ {
+   "Niveau": 437,
+   "nom_en": "Kitty Kitchen",
+   "nom_fr": "La cuisine du chat",
+   "nom_de": "Katzenküche",
+   "nom_es": "Cocina de gatitos",
+   "nom_it": "Cucina per gatti",
+   "cout": "96.5T"
+ },
+ {
+   "Niveau": 438,
+   "nom_en": "Super Showers",
+   "nom_fr": "Super douches",
+   "nom_de": "Super Showers",
+   "nom_es": "Súper duchas",
+   "nom_it": "Super docce",
+   "cout": "99.4T"
+ },
+ {
+   "Niveau": 439,
+   "nom_en": "Road Repair",
+   "nom_fr": "Réparation des routes",
+   "nom_de": "Straßenreparatur",
+   "nom_es": "Reparación de carreteras",
+   "nom_it": "Riparazione stradale",
+   "cout": "101.3T"
+ },
+ {
+   "Niveau": 440,
+   "nom_en": "India Pitshop",
+   "nom_fr": "India Pitshop",
+   "nom_de": "India Pitshop",
+   "nom_es": "Taller de boxes de la India",
+   "nom_it": "India Pitshop",
+   "cout": "104.2T"
+ },
+ {
+   "Niveau": 441,
+   "nom_en": "Robot Factory",
+   "nom_fr": "Usine de robots",
+   "nom_de": "Roboterfabrik",
+   "nom_es": "Fábrica de robots",
+   "nom_it": "Fabbrica di robot",
+   "cout": "107.4T"
+ },
+ {
+   "Niveau": 442,
+   "nom_en": "Juggling Junction",
+   "nom_fr": "Jonglerie Junction",
+   "nom_de": "Jonglier-Kreuzung",
+   "nom_es": "Cruce de malabares",
+   "nom_it": "Juggling Junction",
+   "cout": "110.9T"
+ },
+ {
+   "Niveau": 443,
+   "nom_en": "Grape Stomping",
+   "nom_fr": "Foulage du raisin",
+   "nom_de": "Traubenstampfen",
+   "nom_es": "Pisado de uvas",
+   "nom_it": "Pigiatura dell'uva",
+   "cout": "114.2T"
+ },
+ {
+   "Niveau": 444,
+   "nom_en": "Bumper Cars",
+   "nom_fr": "Autos tamponneuses",
+   "nom_de": "Autoscooter",
+   "nom_es": "Coches que chocan",
+   "nom_it": "Autoscontri",
+   "cout": "117.8T"
+ },
+ {
+   "Niveau": 445,
+   "nom_en": "Pizza Place",
+   "nom_fr": "Pizzeria",
+   "nom_de": "Pizzeria",
+   "nom_es": "Pizzería",
+   "nom_it": "Pizzeria",
+   "cout": "121.1T"
+ },
+ {
+   "Niveau": 446,
+   "nom_en": "Running Race",
+   "nom_fr": "Course ŕ pied",
+   "nom_de": "Laufwettbewerb",
+   "nom_es": "carrera",
+   "nom_it": "gara di corsa",
+   "cout": "124.9T"
+ },
+ {
+   "Niveau": 447,
+   "nom_en": "Crystal Cavern",
+   "nom_fr": "Caverne de cristal",
+   "nom_de": "Kristallhöhle",
+   "nom_es": "Cueva de Cristal",
+   "nom_it": "Grotta di cristallo",
+   "cout": "128.6T"
+ },
+ {
+   "Niveau": 448,
+   "nom_en": "Biohazard Zone",
+   "nom_fr": "Zone de risque biologique",
+   "nom_de": "Biogefährdungszone",
+   "nom_es": "Zona de riesgo biológico",
+   "nom_it": "Zona a rischio biologico",
+   "cout": "135.5T"
+ },
+ {
+   "Niveau": 449,
+   "nom_en": "Lantern Fest",
+   "nom_fr": "Fęte des lanternes",
+   "nom_de": "Laternenfest",
+   "nom_es": "Festival de las Linternas",
+   "nom_it": "Festa delle lanterne",
+   "cout": "136.4T"
+ },
+ {
+   "Niveau": 450,
+   "nom_en": "Duck Crosswalk",
+   "nom_fr": "Passage piétonnier avec canard",
+   "nom_de": "Enten-Fußgängerüberweg",
+   "nom_es": "Paso de peatones con forma de pato",
+   "nom_it": "Attraversamento pedonale a forma di anatra",
+   "cout": "140.5T"
+ },
+ {
+   "Niveau": 451,
+   "nom_en": "Waterfall Walk",
+   "nom_fr": "Promenade de la cascade",
+   "nom_de": "Wasserfallweg",
+   "nom_es": "Paseo de la cascada",
+   "nom_it": "Passeggiata alla cascata",
+   "cout": "144.7T"
+ },
+ {
+   "Niveau": 452,
+   "nom_en": "Vintage Barber",
+   "nom_fr": "Barbier vintage",
+   "nom_de": "Vintage-Friseur",
+   "nom_es": "Barbero de estilo vintage",
+   "nom_it": "Barbiere d'epoca",
+   "cout": "149.2T"
+ },
+ {
+   "Niveau": 453,
+   "nom_en": "Space Voyage",
+   "nom_fr": "Voyage spatial",
+   "nom_de": "Weltraumreise",
+   "nom_es": "Viaje espacial",
+   "nom_it": "Viaggio spaziale",
+   "cout": "153.8T"
+ },
+ {
+   "Niveau": 454,
+   "nom_en": "Subway Station",
+   "nom_fr": "Station de métro",
+   "nom_de": "U-Bahn-Station",
+   "nom_es": "Estación de metro",
+   "nom_it": "Stazione della metropolitana",
+   "cout": "158.5T"
+ },
+ {
+   "Niveau": 455,
+   "nom_en": "Climbing Gym",
+   "nom_fr": "Salle d'escalade",
+   "nom_de": "Kletterhalle",
+   "nom_es": "Gimnasio de escalada",
+   "nom_it": "Palestra di arrampicata",
+   "cout": "163.3T"
+ },
+ {
+   "Niveau": 456,
+   "nom_en": "Remote Runway",
+   "nom_fr": "Piste d'atterrissage ŕ distance",
+   "nom_de": "Fernstartbahn",
+   "nom_es": "Pista de aterrizaje remota",
+   "nom_it": "Pista remota",
+   "cout": "168T"
+ },
+ {
+   "Niveau": 457,
+   "nom_en": "Princess Palace",
+   "nom_fr": "Palais de la Princesse",
+   "nom_de": "Prinzessinnenpalast",
+   "nom_es": "Palacio de la Princesa",
+   "nom_it": "Palazzo della Principessa",
+   "cout": "173.5T"
+ },
+ {
+   "Niveau": 458,
+   "nom_en": "Illusion Show",
+   "nom_fr": "Spectacle d'illusions",
+   "nom_de": "Illusionsshow",
+   "nom_es": "Espectáculo de ilusionismo",
+   "nom_it": "Spettacolo di illusioni",
+   "cout": "178.5T"
+ },
+ {
+   "Niveau": 459,
+   "nom_en": "Little Village",
+   "nom_fr": "Petit village",
+   "nom_de": "Kleines Dorf",
+   "nom_es": "Pequeńo pueblo",
+   "nom_it": "Piccolo villaggio",
+   "cout": "184.5T"
+ },
+ {
+   "Niveau": 460,
+   "nom_en": "Hippo Home",
+   "nom_fr": "Hippo Home",
+   "nom_de": "Hippo Home",
+   "nom_es": "Hogar del Hipopótamo",
+   "nom_it": "Casa dell'ippopotamo",
+   "cout": "189.5T"
+ },
+ {
+   "Niveau": 461,
+   "nom_en": "Dinosaur Dash",
+   "nom_fr": "Course de dinosaures",
+   "nom_de": "Dinosaurier-Rennen",
+   "nom_es": "Carrera de dinosaurios",
+   "nom_it": "Corsa dei dinosauri",
+   "cout": "195.5T"
+ },
+ {
+   "Niveau": 462,
+   "nom_en": "Holiday House",
+   "nom_fr": "Maison de vacances",
+   "nom_de": "Ferienhaus",
+   "nom_es": "Casa de vacaciones",
+   "nom_it": "Casa vacanze",
+   "cout": "201.5T"
+ },
+ {
+   "Niveau": 463,
+   "nom_en": "Alien Arrival",
+   "nom_fr": "Arrivée extraterrestre",
+   "nom_de": "Ankunft von Außerirdischen",
+   "nom_es": "Llegada de extraterrestres",
+   "nom_it": "Arrivo alieno",
+   "cout": "207.5T"
+ },
+ {
+   "Niveau": 464,
+   "nom_en": "Coffee Mill",
+   "nom_fr": "Moulin ŕ café",
+   "nom_de": "Kaffeemühle",
+   "nom_es": "Molino de café",
+   "nom_it": "Macinacaffč",
+   "cout": "213.5T"
+ },
+ {
+   "Niveau": 465,
+   "nom_en": "Saloon Standoff",
+   "nom_fr": "Impasse au saloon",
+   "nom_de": "Saloon-Konfrontation",
+   "nom_es": "Enfrentamiento en el salón",
+   "nom_it": "Stallo nel saloon",
+   "cout": "220T"
+ },
+ {
+   "Niveau": 466,
+   "nom_en": "Tomato Lab",
+   "nom_fr": "Laboratoire de la tomate",
+   "nom_de": "Tomatenlabor",
+   "nom_es": "Laboratorio de tomates",
+   "nom_it": "Laboratorio del Pomodoro",
+   "cout": "227T"
+ },
+ {
+   "Niveau": 467,
+   "nom_en": "Kung Fu Ring",
+   "nom_fr": "Anneau de Kung Fu",
+   "nom_de": "Kung-Fu-Ring",
+   "nom_es": "Anillo de Kung Fu",
+   "nom_it": "Anello Kung Fu",
+   "cout": "233.5T"
+ },
+ {
+   "Niveau": 468,
+   "nom_en": "Pirate Party",
+   "nom_fr": "Fęte des pirates",
+   "nom_de": "Piratenparty",
+   "nom_es": "Fiesta pirata",
+   "nom_it": "Partito dei pirati",
+   "cout": "240.5T"
+ },
+ {
+   "Niveau": 469,
+   "nom_en": "Wizard’s Wagon",
+   "nom_fr": "Le chariot du magicien",
+   "nom_de": "Zaubererwagen",
+   "nom_es": "El carro del mago",
+   "nom_it": "Il carro del mago",
+   "cout": "248T"
+ },
+ {
+   "Niveau": 470,
+   "nom_en": "Waterfall Cave",
+   "nom_fr": "Grotte de la cascade",
+   "nom_de": "Wasserfallhöhle",
+   "nom_es": "Cueva de la cascada",
+   "nom_it": "Grotta della cascata",
+   "cout": "255.5T"
+ },
+ {
+   "Niveau": 471,
+   "nom_en": "Haunted Hall",
+   "nom_fr": "Salle hantée",
+   "nom_de": "Spukhalle",
+   "nom_es": "Salón embrujado",
+   "nom_it": "Sala infestata",
+   "cout": "263T"
+ },
+ {
+   "Niveau": 472,
+   "nom_en": "Troll Treasury",
+   "nom_fr": "Trésor des trolls",
+   "nom_de": "Troll-Schatzkammer",
+   "nom_es": "Tesoro de los trolls",
+   "nom_it": "Tesoro dei Troll",
+   "cout": "271T"
+ },
+ {
+   "Niveau": 473,
+   "nom_en": "Ramp Race",
+   "nom_fr": "Course sur rampe",
+   "nom_de": "Rampenrennen",
+   "nom_es": "Carrera de rampas",
+   "nom_it": "Corsa sulla rampa",
+   "cout": "278.7T"
+ },
+ {
+   "Niveau": 474,
+   "nom_en": "Shoemaker Shop",
+   "nom_fr": "atelier de cordonnerie",
+   "nom_de": "Schuhmacherwerkstatt",
+   "nom_es": "Zapatería",
+   "nom_it": "Negozio di calzolaio",
+   "cout": "287T"
+ },
+ {
+   "Niveau": 475,
+   "nom_en": "Mystery Boxes",
+   "nom_fr": "Boîtes mystčres",
+   "nom_de": "Überraschungsboxen",
+   "nom_es": "Cajas misteriosas",
+   "nom_it": "Scatole misteriose",
+   "cout": "296T"
+ },
+ {
+   "Niveau": 476,
+   "nom_en": "Mermaid Musical",
+   "nom_fr": "La comédie musicale Sirčne",
+   "nom_de": "Meerjungfrauen-Musical",
+   "nom_es": "Musical de sirenas",
+   "nom_it": "Sirena Musical",
+   "cout": "305T"
+ },
+ {
+   "Niveau": 477,
+   "nom_en": "Air Train",
+   "nom_fr": "Train aérien",
+   "nom_de": "Luftzug",
+   "nom_es": "Tren aéreo",
+   "nom_it": "Treno aereo",
+   "cout": "313.8T"
+ },
+ {
+   "Niveau": 478,
+   "nom_en": "Beach Day",
+   "nom_fr": "Journée ŕ la plage",
+   "nom_de": "Strandtag",
+   "nom_es": "Día de playa",
+   "nom_it": "Giornata in spiaggia",
+   "cout": "323.4T"
+ },
+ {
+   "Niveau": 479,
+   "nom_en": "Car Pit",
+   "nom_fr": "Parc ŕ voitures",
+   "nom_de": "Autobox",
+   "nom_es": "Foso de coches",
+   "nom_it": "Pit auto",
+   "cout": "333T"
+ },
+ {
+   "Niveau": 480,
+   "nom_en": "Ballet Room",
+   "nom_fr": "Salle de ballet",
+   "nom_de": "Ballettsaal",
+   "nom_es": "Sala de ballet",
+   "nom_it": "Sala del balletto",
+   "cout": "343T"
+ },
+ {
+   "Niveau": 481,
+   "nom_en": "Excalibur Cave",
+   "nom_fr": "Grotte d'Excalibur",
+   "nom_de": "Excalibur-Höhle",
+   "nom_es": "Cueva de Excalibur",
+   "nom_it": "Grotta di Excalibur",
+   "cout": "353.5T"
+ },
+ {
+   "Niveau": 482,
+   "nom_en": "Turkish Treat",
+   "nom_fr": "Délice turc",
+   "nom_de": "Türkische Leckereien",
+   "nom_es": "Dulce turco",
+   "nom_it": "Dolce turco",
+   "cout": "364T"
+ },
+ {
+   "Niveau": 483,
+   "nom_en": "Carpenter Cabin",
+   "nom_fr": "Cabane de charpentier",
+   "nom_de": "Zimmermannshütte",
+   "nom_es": "Cabańa del carpintero",
+   "nom_it": "Capanno da falegname",
+   "cout": "373.5T"
+ },
+ {
+   "Niveau": 484,
+   "nom_en": "Dental Clinic",
+   "nom_fr": "Clinique dentaire",
+   "nom_de": "Zahnklinik",
+   "nom_es": "Clínica dental",
+   "nom_it": "Clinica Odontoiatrica",
+   "cout": "383T"
+ },
+ {
+   "Niveau": 485,
+   "nom_en": "Freaky Forest",
+   "nom_fr": "Foręt étrange",
+   "nom_de": "Gruselwald",
+   "nom_es": "Bosque espeluznante",
+   "nom_it": "Foresta Freaky",
+   "cout": "392.6T"
+ },
+ {
+   "Niveau": 486,
+   "nom_en": "Movie Backlot",
+   "nom_fr": "Studio de cinéma",
+   "nom_de": "Film-Backlot",
+   "nom_es": "Trastienda de cine",
+   "nom_it": "Lotto cinematografico",
+   "cout": "402.3T"
+ },
+ {
+   "Niveau": 487,
+   "nom_en": "Lettuce Tower",
+   "nom_fr": "Tour de laitue",
+   "nom_de": "Salatturm",
+   "nom_es": "Torre de lechuga",
+   "nom_it": "Torre di lattuga",
+   "cout": "412.1T"
+ },
+ {
+   "Niveau": 488,
+   "nom_en": "Retro Kitchen",
+   "nom_fr": "Cuisine rétro",
+   "nom_de": "Retro-Küche",
+   "nom_es": "Cocina retro",
+   "nom_it": "Cucina in stile retrň",
+   "cout": "422T"
+ },
+ {
+   "Niveau": 489,
+   "nom_en": "Frozen Fishing",
+   "nom_fr": "Pęche sur glace",
+   "nom_de": "Gefrorenes Angeln",
+   "nom_es": "Pesca congelada",
+   "nom_it": "Pesca sul ghiaccio",
+   "cout": "432T"
+ },
+ {
+   "Niveau": 490,
+   "nom_en": "Pony Pathway",
+   "nom_fr": "Chemin des poneys",
+   "nom_de": "Ponyweg",
+   "nom_es": "Sendero para ponis",
+   "nom_it": "Sentiero dei Pony",
+   "cout": "442.1T"
+ },
+ {
+   "Niveau": 491,
+   "nom_en": "Tea Time",
+   "nom_fr": "L'heure du thé",
+   "nom_de": "Teezeit",
+   "nom_es": "La hora del té",
+   "nom_it": "L'ora del tč",
+   "cout": "452.3T"
+ },
+ {
+   "Niveau": 492,
+   "nom_en": "Panda Play Area",
+   "nom_fr": "Aire de jeux Panda",
+   "nom_de": "Panda-Spielbereich",
+   "nom_es": "Zona de juegos de pandas",
+   "nom_it": "Area giochi dei panda",
+   "cout": "462.6T"
+ },
+ {
+   "Niveau": 493,
+   "nom_en": "Wizard’s Ward",
+   "nom_fr": "Protection du sorcier",
+   "nom_de": "Zaubererschutz",
+   "nom_es": "Protección del mago",
+   "nom_it": "Quartiere del Mago",
+   "cout": "473T"
+ },
+ {
+   "Niveau": 494,
+   "nom_en": "Skater Site",
+   "nom_fr": "Site de skateurs",
+   "nom_de": "Skater-Website",
+   "nom_es": "Sitio para patinadores",
+   "nom_it": "Sito per pattinatori",
+   "cout": "483.5T"
+ },
+ {
+   "Niveau": 495,
+   "nom_en": "Hikers’ Haven",
+   "nom_fr": "Refuge des randonneurs",
+   "nom_de": "Wanderparadies",
+   "nom_es": "Refugio para excursionistas",
+   "nom_it": "Rifugio per escursionisti",
+   "cout": "494.1T"
+ },
+ {
+   "Niveau": 496,
+   "nom_en": "Carousel Ride",
+   "nom_fr": "Tour de mančge",
+   "nom_de": "Karussellfahrt",
+   "nom_es": "Paseo en carrusel",
+   "nom_it": "Giro sulla giostra",
+   "cout": "505T"
+ },
+ {
+   "Niveau": 497,
+   "nom_en": "Chicken Coop",
+   "nom_fr": "poulailler",
+   "nom_de": "Hühnerstall",
+   "nom_es": "Gallinero",
+   "nom_it": "Pollaio",
+   "cout": "516T"
+ },
+ {
+   "Niveau": 498,
+   "nom_en": "Desert Treasure",
+   "nom_fr": "Trésor du désert",
+   "nom_de": "Wüstenschatz",
+   "nom_es": "Tesoro del desierto",
+   "nom_it": "Tesoro del deserto",
+   "cout": "527.1T"
+ },
+ {
+   "Niveau": 499,
+   "nom_en": "Shepherd's Spot",
+   "nom_fr": "Le coin du berger",
+   "nom_de": "Shepherd's Spot",
+   "nom_es": "El lugar del pastor",
+   "nom_it": "Shepherd's Spot",
+   "cout": "538.3T"
+ },
+ {
+   "Niveau": 500,
+   "nom_en": "Unicorn Utopia",
+   "nom_fr": "Utopie des licornes",
+   "nom_de": "Einhorn-Utopie",
+   "nom_es": "Utopía del unicornio",
+   "nom_it": "Utopia dell'Unicorno",
+   "cout": "549.6T"
+ },
+ {
+   "Niveau": 501,
+   "nom_en": "Otter Oasis",
+   "nom_fr": "Oasis des Loutres",
+   "nom_de": "Otter-Oase",
+   "nom_es": "Oasis de nutrias",
+   "nom_it": "Oasi delle Lontre",
+   "cout": "561T"
+ },
+ {
+   "Niveau": 502,
+   "nom_en": "Giraffe's Grub",
+   "nom_fr": "Larve de girafe",
+   "nom_de": "Giraffenlarve",
+   "nom_es": "La larva de jirafa",
+   "nom_it": "Larva di giraffa",
+   "cout": "572.5T"
+ },
+ {
+   "Niveau": 503,
+   "nom_en": "Port Painters",
+   "nom_fr": "Peintres de port",
+   "nom_de": "Hafenmaler",
+   "nom_es": "Pintores del puerto",
+   "nom_it": "Pittori di porto",
+   "cout": "584.1T"
+ },
+ {
+   "Niveau": 504,
+   "nom_en": "Scene Stage",
+   "nom_fr": "Scčne",
+   "nom_de": "Bühne",
+   "nom_es": "Escenario",
+   "nom_it": "Scenario",
+   "cout": "595.8T"
+ },
+ {
+   "Niveau": 505,
+   "nom_en": "Husky Hills",
+   "nom_fr": "Husky Hills",
+   "nom_de": "Husky Hills",
+   "nom_es": "Colinas Husky",
+   "nom_it": "Husky Hills",
+   "cout": "607.6T"
+ },
+ {
+   "Niveau": 506,
+   "nom_en": "Glass Class",
+   "nom_fr": "Classe de verre",
+   "nom_de": "Glasklasse",
+   "nom_es": "Clase de cristal",
+   "nom_it": "Classe del vetro",
+   "cout": "619.5T"
+ },
+ {
+   "Niveau": 507,
+   "nom_en": "Italian Eatery",
+   "nom_fr": "Restaurant italien",
+   "nom_de": "Italienisches Restaurant",
+   "nom_es": "Restaurante italiano",
+   "nom_it": "Ristorante italiano",
+   "cout": "631.5T"
+ },
+ {
+   "Niveau": 508,
+   "nom_en": "Gold Panning",
+   "nom_fr": "orpaillage",
+   "nom_de": "Goldwaschen",
+   "nom_es": "Búsqueda de oro",
+   "nom_it": "Ricerca dell'oro",
+   "cout": "640.7T"
+ },
+ {
+   "Niveau": 509,
+   "nom_en": "Enchanted Woods",
+   "nom_fr": "Bois enchantés",
+   "nom_de": "Zauberwald",
+   "nom_es": "Bosque encantado",
+   "nom_it": "Bosco Incantato",
+   "cout": "650T"
+ },
+ {
+   "Niveau": 510,
+   "nom_en": "Post Office",
+   "nom_fr": "Bureau de poste",
+   "nom_de": "Postamt",
+   "nom_es": "Oficina de correos",
+   "nom_it": "Ufficio postale",
+   "cout": "659.4T"
+ },
+ {
+   "Niveau": 511,
+   "nom_en": "Mars Mission",
+   "nom_fr": "Mission sur Mars",
+   "nom_de": "Marsmission",
+   "nom_es": "Misión a Marte",
+   "nom_it": "Missione su Marte",
+   "cout": "669T"
+ },
+ {
+   "Niveau": 512,
+   "nom_en": "Kendo Masters",
+   "nom_fr": "Maîtres de Kendo",
+   "nom_de": "Kendo-Meister",
+   "nom_es": "Maestros de Kendo",
+   "nom_it": "Maestri di Kendo",
+   "cout": "678.6T"
+ },
+ {
+   "Niveau": 513,
+   "nom_en": "Wizard Manor",
+   "nom_fr": "Manoir du Magicien",
+   "nom_de": "Zauberer-Anwesen",
+   "nom_es": "Mansión del mago",
+   "nom_it": "Villa del Mago",
+   "cout": "688.4T"
+ },
+ {
+   "Niveau": 514,
+   "nom_en": "Street Market",
+   "nom_fr": "Marché de rue",
+   "nom_de": "Straßenmarkt",
+   "nom_es": "Mercado callejero",
+   "nom_it": "Mercato di strada",
+   "cout": "698.3T"
+ },
+ {
+   "Niveau": 515,
+   "nom_en": "Virtual Station",
+   "nom_fr": "Station virtuelle",
+   "nom_de": "Virtuelle Station",
+   "nom_es": "Estación virtual",
+   "nom_it": "Stazione virtuale",
+   "cout": "708.3T"
+ },
+ {
+   "Niveau": 516,
+   "nom_en": "Egypt Exhibit",
+   "nom_fr": "Exposition sur l'Égypte",
+   "nom_de": "Ägypten-Ausstellung",
+   "nom_es": "Exposición de Egipto",
+   "nom_it": "Mostra sull'Egitto",
+   "cout": "718.4T"
+ },
+ {
+   "Niveau": 517,
+   "nom_en": "Tower of Pisa",
+   "nom_fr": "Tour de Pise",
+   "nom_de": "Schiefer Turm von Pisa",
+   "nom_es": "Torre de Pisa",
+   "nom_it": "Torre di Pisa",
+   "cout": "728.7T"
+ },
+ {
+   "Niveau": 518,
+   "nom_en": "Waterfall Hike",
+   "nom_fr": "Randonnée vers une cascade",
+   "nom_de": "Wasserfallwanderung",
+   "nom_es": "Excursión a la cascada",
+   "nom_it": "Escursione alla cascata",
+   "cout": "739T"
+ },
+ {
+   "Niveau": 519,
+   "nom_en": "Wizard's Brew",
+   "nom_fr": "Brasserie du sorcier",
+   "nom_de": "Zaubererbräu",
+   "nom_es": "Brebaje de mago",
+   "nom_it": "Pozione del Mago",
+   "cout": "749.5T"
+ },
+ {
+   "Niveau": 520,
+   "nom_en": "Medieval Tavern",
+   "nom_fr": "Taverne médiévale",
+   "nom_de": "Mittelalterliche Taverne",
+   "nom_es": "Taberna medieval",
+   "nom_it": "Taverna medievale",
+   "cout": "760.1T"
+ },
+ {
+   "Niveau": 521,
+   "nom_en": "Sumo Sauna",
+   "nom_fr": "Sauna Sumo",
+   "nom_de": "Sumo-Sauna",
+   "nom_es": "Sauna de sumo",
+   "nom_it": "Sauna Sumo",
+   "cout": "770.8T"
+ },
+ {
+   "Niveau": 522,
+   "nom_en": "Fairy Pond",
+   "nom_fr": "Étang des fées",
+   "nom_de": "Feenteich",
+   "nom_es": "Estanque de hadas",
+   "nom_it": "Stagno delle Fate",
+   "cout": "781.7T"
+ },
+ {
+   "Niveau": 523,
+   "nom_en": "News Stand",
+   "nom_fr": "kiosque ŕ journaux",
+   "nom_de": "Zeitungskiosk",
+   "nom_es": "Quiosco de prensa",
+   "nom_it": "Edicola",
+   "cout": "792.7T"
+ },
+ {
+   "Niveau": 524,
+   "nom_en": "Arcade Archive",
+   "nom_fr": "Arcade Archive",
+   "nom_de": "Arcade-Archiv",
+   "nom_es": "Archivo de máquinas recreativas",
+   "nom_it": "Archivio Arcade",
+   "cout": "~ 803.3T"
+ },
+ {
+   "Niveau": 525,
+   "nom_en": "Tram Travel",
+   "nom_fr": "Voyage en tramway",
+   "nom_de": "Straßenbahnfahrt",
+   "nom_es": "Viaje en tranvía",
+   "nom_it": "Viaggio in tram",
+   "cout": "~ 813.9T"
+ },
+ {
+   "Niveau": 526,
+   "nom_en": "Hip-Hop Block",
+   "nom_fr": "Bloc Hip-Hop",
+   "nom_de": "Hip-Hop-Block",
+   "nom_es": "Barrio Hip-Hop",
+   "nom_it": "Blocco Hip-Hop",
+   "cout": "~ 824.6T"
+ },
+ {
+   "Niveau": 527,
+   "nom_en": "Turkish Bazaar",
+   "nom_fr": "Bazar turc",
+   "nom_de": "Türkischer Basar",
+   "nom_es": "Bazar turco",
+   "nom_it": "Bazar turco",
+   "cout": "~ 835.2T"
+ },
+ {
+   "Niveau": 528,
+   "nom_en": "Farm Flyover",
+   "nom_fr": "Survol de la ferme",
+   "nom_de": "Überführung zum Bauernhof",
+   "nom_es": "Paso elevado de la granja",
+   "nom_it": "Sorvolo della fattoria",
+   "cout": "~ 845.8T"
+ },
+ {
+   "Niveau": 529,
+   "nom_en": "Seaside Village",
+   "nom_fr": "Village balnéaire",
+   "nom_de": "Küstendorf",
+   "nom_es": "Pueblo costero",
+   "nom_it": "Villaggio sul mare",
+   "cout": "~ 856.4T"
+ },
+ {
+   "Niveau": 530,
+   "nom_en": "Trick or Treat",
+   "nom_fr": "La charité s'il-vous-plaît",
+   "nom_de": "Süßes oder Saures",
+   "nom_es": "Truco o trato",
+   "nom_it": "Dolcetto o scherzetto",
+   "cout": "~ 867.1T"
+ },
+ {
+   "Niveau": 531,
+   "nom_en": "Food Truck",
+   "nom_fr": "Food truck",
+   "nom_de": "Imbisswagen",
+   "nom_es": "Camión de comida",
+   "nom_it": "Food truck",
+   "cout": "~ 877.7T"
+ },
+ {
+   "Niveau": 532,
+   "nom_en": "Zombie Mart",
+   "nom_fr": "Zombie Mart",
+   "nom_de": "Zombie Mart",
+   "nom_es": "Mercado zombi",
+   "nom_it": "Zombie Mart",
+   "cout": "~ 888.3T"
+ },
+ {
+   "Niveau": 533,
+   "nom_en": "Werewolf Alley",
+   "nom_fr": "L'allée des loups-garous",
+   "nom_de": "Werwolfgasse",
+   "nom_es": "Callejón de los hombres lobo",
+   "nom_it": "Vicolo dei Lupi Mannari",
+   "cout": "~ 898.9T"
+ },
+ {
+   "Niveau": 534,
+   "nom_en": "Fish Store",
+   "nom_fr": "Poissonnerie",
+   "nom_de": "Fischladen",
+   "nom_es": "Tienda de pescado",
+   "nom_it": "Negozio di pesce",
+   "cout": "~ 909.6T"
+ },
+ {
+   "Niveau": 535,
+   "nom_en": "Camping Peak",
+   "nom_fr": "Camping Peak",
+   "nom_de": "Camping Peak",
+   "nom_es": "Pico de acampada",
+   "nom_it": "Camping Peak",
+   "cout": "~ 920.2T"
+ },
+ {
+   "Niveau": 536,
+   "nom_en": "Wild Forest",
+   "nom_fr": "Foręt sauvage",
+   "nom_de": "Wildwald",
+   "nom_es": "Bosque salvaje",
+   "nom_it": "Foresta selvaggia",
+   "cout": "~ 930.8T"
+ },
+ {
+   "Niveau": 537,
+   "nom_en": "Space Lounge",
+   "nom_fr": "Salon spatial",
+   "nom_de": "Space Lounge",
+   "nom_es": "Salón espacial",
+   "nom_it": "Space Lounge",
+   "cout": "~ 941.4T"
+ },
+ {
+   "Niveau": 538,
+   "nom_en": "Cheer Squad",
+   "nom_fr": "Équipe de cheerleading",
+   "nom_de": "Cheerleader-Truppe",
+   "nom_es": "Equipo de animadoras",
+   "nom_it": "Squadra di cheerleader",
+   "cout": "~ 952.1T"
+ },
+ {
+   "Niveau": 539,
+   "nom_en": "Chef Showdown",
+   "nom_fr": "Duel de chefs",
+   "nom_de": "Kochduell",
+   "nom_es": "Duelo de chefs",
+   "nom_it": "Sfida tra chef",
+   "cout": "~ 962.7T"
+ },
+ {
+   "Niveau": 540,
+   "nom_en": "Magical Catch",
+   "nom_fr": "Prise magique",
+   "nom_de": "Magischer Fang",
+   "nom_es": "Captura mágica",
+   "nom_it": "Cattura Magica",
+   "cout": "~ 973.3T"
+ },
+ {
+   "Niveau": 541,
+   "nom_en": "Tribal Exhibit",
+   "nom_fr": "Exposition tribale",
+   "nom_de": "Stammesausstellung",
+   "nom_es": "Exposición tribal",
+   "nom_it": "Mostra tribale",
+   "cout": "~ 983.9T"
+ },
+ {
+   "Niveau": 542,
+   "nom_en": "Sunken Fortune",
+   "nom_fr": "Fortune engloutie",
+   "nom_de": "Versunkenes Vermögen",
+   "nom_es": "Fortuna hundida",
+   "nom_it": "Fortuna sommersa",
+   "cout": "~ 994.6T"
+ },
+ {
+   "Niveau": 543,
+   "nom_en": "Monster Hollow",
+   "nom_fr": "Monster Hollow",
+   "nom_de": "Monsterhöhle",
+   "nom_es": "Monster Hollow",
+   "nom_it": "Monster Hollow",
+   "cout": "~ 1005.2T"
+ },
+ {
+   "Niveau": 544,
+   "nom_en": "Beach Cleanup",
+   "nom_fr": "Nettoyage de la plage",
+   "nom_de": "Strandreinigung",
+   "nom_es": "Limpieza de playas",
+   "nom_it": "Pulizia della spiaggia",
+   "cout": "~ 1015.8T"
+ },
+ {
+   "Niveau": 545,
+   "nom_en": "Elephant Stream",
+   "nom_fr": "Rivičre des Éléphants",
+   "nom_de": "Elefantenbach",
+   "nom_es": "Arroyo de elefantes",
+   "nom_it": "Torrente dell'Elefante",
+   "cout": "~ 1026.4T"
+ },
+ {
+   "Niveau": 546,
+   "nom_en": "Mine Mayhem",
+   "nom_fr": "Mine Mayhem",
+   "nom_de": "Minenchaos",
+   "nom_es": "Caos en la mina",
+   "nom_it": "Mine Mayhem",
+   "cout": "~ 1037.1T"
+ },
+ {
+   "Niveau": 547,
+   "nom_en": "Ping Pong Camp",
+   "nom_fr": "Camp de ping-pong",
+   "nom_de": "Tischtenniscamp",
+   "nom_es": "Campamento de ping pong",
+   "nom_it": "Campo estivo di ping pong",
+   "cout": "~ 1047.7T"
+ },
+ {
+   "Niveau": 548,
+   "nom_en": "Song of the Sea",
+   "nom_fr": "Le chant de la mer",
+   "nom_de": "Lied des Meeres",
+   "nom_es": "Canción del mar",
+   "nom_it": "Canto del mare",
+   "cout": "~ 1058.3T"
+ },
+ {
+   "Niveau": 549,
+   "nom_en": "Jungle Express",
+   "nom_fr": "Jungle Express",
+   "nom_de": "Dschungelexpress",
+   "nom_es": "Expreso de la jungla",
+   "nom_it": "Jungle Express",
+   "cout": "~ 1068.9T"
+ },
+ {
+   "Niveau": 550,
+   "nom_en": "Football Fans",
+   "nom_fr": "Les fans de football",
+   "nom_de": "Fußballfans",
+   "nom_es": "Aficionados al fútbol",
+   "nom_it": "Appassionati di calcio",
+   "cout": "~ 1079.5T"
+ },
+ {
+   "Niveau": 551,
+   "nom_en": "Soapbox Race",
+   "nom_fr": "Course de caisses ŕ savon",
+   "nom_de": "Seifenkistenrennen",
+   "nom_es": "Carrera de cajas de jabón",
+   "nom_it": "Corsa con le scatole di sapone",
+   "cout": "~ 1090.2T"
+ },
+ {
+   "Niveau": 552,
+   "nom_en": "Fire Station",
+   "nom_fr": "Caserne de pompiers",
+   "nom_de": "Feuerwache",
+   "nom_es": "Estación de bomberos",
+   "nom_it": "Caserma dei vigili del fuoco",
+   "cout": "~ 1100.8T"
+ },
+ {
+   "Niveau": 553,
+   "nom_en": "Park Puppy",
+   "nom_fr": "Chiots du parc",
+   "nom_de": "Parkwelpe",
+   "nom_es": "Cachorro del parque",
+   "nom_it": "Park Puppy",
+   "cout": "~ 1111.4T"
+ },
+ {
+   "Niveau": 554,
+   "nom_en": "Delivery Service",
+   "nom_fr": "Service de livraison",
+   "nom_de": "Zustelldienst",
+   "nom_es": "Servicio de entrega",
+   "nom_it": "Servizio di consegna",
+   "cout": "~ 1122T"
+ },
+ {
+   "Niveau": 555,
+   "nom_en": "Vampire Manor",
+   "nom_fr": "Manoir des vampires",
+   "nom_de": "Vampir-Herrenhaus",
+   "nom_es": "Mansión de vampiros",
+   "nom_it": "Villa dei Vampiri",
+   "cout": "~ 1132.7T"
+ },
+ {
+   "Niveau": 556,
+   "nom_en": "English Garden",
+   "nom_fr": "Jardin anglais",
+   "nom_de": "Englischer Garten",
+   "nom_es": "Jardín inglés",
+   "nom_it": "Giardino inglese",
+   "cout": "~ 1143.3T"
+ },
+ {
+   "Niveau": 557,
+   "nom_en": "Indigo Tribe",
+   "nom_fr": "Tribu Indigo",
+   "nom_de": "Indigo-Stamm",
+   "nom_es": "Tribu Índigo",
+   "nom_it": "Tribů Indaco",
+   "cout": "~ 1153.9T"
+ },
+ {
+   "Niveau": 558,
+   "nom_en": "Santa Photoshoot",
+   "nom_fr": "Séance photo avec le Pčre Noël",
+   "nom_de": "Weihnachtsmann-Fotoshooting",
+   "nom_es": "Sesión de fotos con Papá Noel",
+   "nom_it": "Servizio fotografico con Babbo Natale",
+   "cout": "~ 1164.5T"
+ },
+ {
+   "Niveau": 559,
+   "nom_en": "Plant Lab",
+   "nom_fr": "Laboratoire des plantes",
+   "nom_de": "Pflanzenlabor",
+   "nom_es": "Laboratorio de plantas",
+   "nom_it": "Laboratorio delle piante",
+   "cout": "~ 1175.2T"
+ },
+ {
+   "Niveau": 560,
+   "nom_en": "Monster Report",
+   "nom_fr": "Rapport sur les monstres",
+   "nom_de": "Monsterbericht",
+   "nom_es": "Informe de monstruos",
+   "nom_it": "Rapporto sui mostri",
+   "cout": "~ 1185.8T"
+ },
+ {
+   "Niveau": 561,
+   "nom_en": "Forest Friends",
+   "nom_fr": "Les amis de la foręt",
+   "nom_de": "Waldfreunde",
+   "nom_es": "Amigos del bosque",
+   "nom_it": "Amici della foresta",
+   "cout": "~ 1196.4T"
+ },
+ {
+   "Niveau": 562,
+   "nom_en": "Film Students",
+   "nom_fr": "Étudiants en cinéma",
+   "nom_de": "Filmstudenten",
+   "nom_es": "Estudiantes de cine",
+   "nom_it": "Studenti di cinema",
+   "cout": "~ 1207T"
+ },
+ {
+   "Niveau": 563,
+   "nom_en": "Barn Bliss",
+   "nom_fr": "Le bonheur de la grange",
+   "nom_de": "Scheunenglück",
+   "nom_es": "La dicha del granero",
+   "nom_it": "Fienile felicitŕ",
+   "cout": "~ 1217.7T"
+ },
+ {
+   "Niveau": 564,
+   "nom_en": "Lily Pad Pond",
+   "nom_fr": "Bassin ŕ nénuphars",
+   "nom_de": "Seerosenteich",
+   "nom_es": "Estanque de nenúfares",
+   "nom_it": "Laghetto delle ninfee",
+   "cout": "~ 1228.3T"
+ },
+ {
+   "Niveau": 565,
+   "nom_en": "Nummy Cafe",
+   "nom_fr": "Café Nummy",
+   "nom_de": "Leckeres Café",
+   "nom_es": "Café Nummy",
+   "nom_it": "Caffč Nummy",
+   "cout": "~ 1238.9T"
+ },
+ {
+   "Niveau": 566,
+   "nom_en": "Ship Graveyard",
+   "nom_fr": "Cimetičre de navires",
+   "nom_de": "Schiffsfriedhof",
+   "nom_es": "Cementerio de barcos",
+   "nom_it": "Cimitero delle navi",
+   "cout": "~ 1249.5T"
+ },
+ {
+   "Niveau": 567,
+   "nom_en": "Tea Ceremony",
+   "nom_fr": "Cérémonie du thé",
+   "nom_de": "Teezeremonie",
+   "nom_es": "Ceremonia del té",
+   "nom_it": "Cerimonia del tč",
+   "cout": "~ 1260.2T"
+ },
+ {
+   "Niveau": 568,
+   "nom_en": "Band Practice",
+   "nom_fr": "Répétition du groupe",
+   "nom_de": "Bandprobe",
+   "nom_es": "Ensayo de la banda",
+   "nom_it": "Prove di gruppo",
+   "cout": "~ 1270.8T"
+ },
+ {
+   "Niveau": 569,
+   "nom_en": "Nature Painting",
+   "nom_fr": "Peinture de la nature",
+   "nom_de": "Naturmalerei",
+   "nom_es": "Pintura de la naturaleza",
+   "nom_it": "Pittura naturalistica",
+   "cout": "~ 1281.4T"
+ },
+ {
+   "Niveau": 570,
+   "nom_en": "Bird Feeders",
+   "nom_fr": "mangeoires ŕ oiseaux",
+   "nom_de": "Vogelfutterhäuschen",
+   "nom_es": "Comederos para pájaros",
+   "nom_it": "Mangiatoie per uccelli",
+   "cout": "~ 1292T"
+ }
+]
