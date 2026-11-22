@@ -1,51 +1,72 @@
 [
-{
-"id": 1,
-"jeuxa": "🐷Coin Master🐷",
-"jeuxios": "🐷Coin Master🐷",
-"fr": "Ne gaspillez pas vos tours si vous n'avez pas assez de ressources pour finir un village. Économisez au moins 50 tours passifs avant de lancer une grosse session de jeu pour optimiser vos gains.",
-"en": "Don't waste your spins if you don't have enough resources to finish a village. Save at least 50 passive spins before launching a big gaming session to optimize your rewards."
-},
-{
-"id": 2,
-"jeuxa": "🐷Coin Master🐷",
-"jeuxios": "🐷Coin Master🐷",
-"fr": "La carte Joker est un atout puissant. Utilisez les cartes Joker pour compléter les sets de cartes les plus difficiles, en particulier les sets non saisonniers, car ces sets sont généralement plus difficiles à compléter.",
-"en": "The Joker card is a powerful asset. Use Joker cards to complete the most challenging card sets—especially non-seasonal sets, as these are generally harder to finish."
-},
-{
-"id": 3,
-"jeuxa": "🐷Coin Master🐷",
-"jeuxios": "🐷Coin Master🐷",
-"fr": "Envoyez vos cartes en double à vos amis. Cela les aidera et les encouragera à vous aider en retour. Cette stratégie sociale crée un cycle mutuellement bénéfique.",
-"en": "Send your duplicate cards to your friends. This will help them and encourage them to help you in return. This social strategy creates a mutually beneficial cycle."
-},
-{
-"id": 4,
-"jeuxa": "🐷Coin Master🐷",
-"jeuxios": "🐷Coin Master🐷",
-"fr": "Un multiplicateur plus élevé utilise plus de tours de votre solde à chaque fois que vous lancez, mais il peut aussi vous rapporter de meilleures récompenses.",
-"en": "A higher multiplier uses more spins from your balance each time you play, but it can also earn you better rewards."
-},
-{
-"id": 5,
-"jeuxa": "🐷Coin Master🐷",
-"jeuxios": "🐷Coin Master🐷",
-"fr": "Vos progrès ne comptent que si vous les conservez. Avant de vous déconnecter, accumulez vos boucliers, surtout si votre village n'est qu'à moitié construit.",
-"en": "Your progress only counts if you manage to keep it. Before logging off, stock up on Shields—especially if your Village is only half-built."
-}
-{
-"id": 6,
-"jeuxa": "🐷Coin Master🐷",
-"jeuxios": "🐷Coin Master🐷",
-"fr": "Lancez la Quête Viking avec un gros stock de pièces : Attendez d'avoir accumulé beaucoup de pièces avant de vous lancer dans la Quête Viking afin de maximiser vos gains de tours.",
-"en": "Start the Viking Quest with a large stash of coins: Wait until you have accumulated plenty of coins before embarking on the Viking Quest, so as to maximize your spin rewards."
-}
-{
-"id": 7,
-"jeuxa": "🐷Coin Master🐷",
-"jeuxios": "🐷Coin Master🐷",
-"fr": "Participez aux événements : Les événements temporaires (tournois, chasses au trésor, batailles) rapportent souvent bien plus de tours et de coffres que le jeu classique.",
-"en": "Take part in events: Temporary events (tournaments, treasure hunts, battles) often yield far more spins and chests than standard gameplay."
-}
+  {
+    "id": 1,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "Ne gaspillez pas vos tours si vous n'avez pas assez de ressources pour finir un village. Économisez au moins 50 tours passifs avant de lancer une grosse session de jeu pour optimiser vos gains.",
+    "en": "Don't waste your spins if you don't have enough resources to finish a village. Save at least 50 passive spins before launching a big gaming session to optimize your rewards.",
+    "de": "Verschwende deine Spins nicht, wenn du nicht genug Ressourcen hast, um ein Dorf abzuschließen. Spare mindestens 50 passive Spins an, bevor du eine große Spielsitzung startest, um deine Belohnungen zu optimieren.",
+    "es": "No desperdicies tus tiradas si no tienes suficientes recursos para terminar una aldea. Ahorra al menos 50 tiradas pasivas antes de iniciar una gran sesión de juego para optimizar tus recompensas.",
+    "it": "Non sprecare i tuoi giri se non hai abbastanza risorse per completare un villaggio. Risparmia almeno 50 giri passivi prima di iniziare una lunga sessione di gioco per ottimizzare le tue ricompense."
+  },
+  {
+    "id": 2,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "La carte Joker est un atout puissant. Utilisez les cartes Joker pour compléter les sets de cartes les plus difficiles, en particulier les sets non saisonniers, car ces sets sont généralement plus difficiles à compléter.",
+    "en": "The Joker card is a powerful asset. Use Joker cards to complete the most challenging card sets—especially non-seasonal sets, as these are generally harder to finish.",
+    "de": "Die Joker-Karte ist ein mächtiger Vorteil. Nutze Joker-Karten, um die schwierigsten Kartensets zu vervollständigen – insbesondere nicht-saisonale Sets, da diese in der Regel schwerer abzuschließen sind.",
+    "es": "La carta comodín es un recurso muy poderoso. Usa las cartas comodín para completar los sets de cartas más difíciles, especialmente los que no son de temporada, ya que suelen ser más complicados de terminar.",
+    "it": "La carta Jolly è una risorsa potente. Usa le carte Jolly per completare i set di carte più difficili, in particolare quelli non stagionali, poiché generalmente sono più complicati da finire."
+  },
+  {
+    "id": 3,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "Envoyez vos cartes en double à vos amis. Cela les aidera et les encouragera à vous aider en retour. Cette stratégie sociale crée un cycle mutuellement bénéfique.",
+    "en": "Send your duplicate cards to your friends. This will help them and encourage them to help you in return. This social strategy creates a mutually beneficial cycle.",
+    "de": "Sende deine doppelten Karten an deine Freunde. Das hilft ihnen und ermutigt sie, dir im Gegenzug zu helfen. Diese soziale Strategie schafft einen Kreislauf, von dem beide Seiten profitieren.",
+    "es": "Envía tus cartas repetidas a tus amigos. Esto les ayudará y les animará a ayudarte a ti también. Esta estrategia social crea un ciclo mutuamente beneficioso.",
+    "it": "Invia le tue carte doppie ai tuoi amici. Li aiuterà e li incoraggerà a ricambiare il favore. Questa strategia sociale crea un ciclo vantaggioso per entrambi."
+  },
+  {
+    "id": 4,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "Un multiplicateur plus élevé utilise plus de tours de votre solde à chaque fois que vous lancez, mais il peut aussi vous rapporter de meilleures récompenses.",
+    "en": "A higher multiplier uses more spins from your balance each time you play, but it can also earn you better rewards.",
+    "de": "Ein höherer Multiplikator verbraucht bei jedem Dreh mehr Spins von deinem Guthaben, kann dir aber auch deutlich bessere Belohnungen einbringen.",
+    "es": "Un multiplicador más alto consume más tiradas de tu saldo cada vez que juegas, pero también puede darte mejores recompensas.",
+    "it": "Un moltiplicatore più alto consuma più giri dal tuo saldo ogni volta che giochi, ma può anche farti ottenere ricompense migliori."
+  },
+  {
+    "id": 5,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "Vos progrès ne comptent que si vous les conservez. Avant de vous déconnecter, accumulez vos boucliers, surtout si votre village n'est qu'à moitié construit.",
+    "en": "Your progress only counts if you manage to keep it. Before logging off, stock up on Shields—especially if your Village is only half-built.",
+    "de": "Dein Fortschritt zählt nur, wenn du ihn auch behältst. Bevor du das Spiel verlässt, solltest du deine Schilde auffüllen – besonders wenn dein Dorf erst halb fertiggestellt ist.",
+    "es": "Tu progreso solo cuenta si logras conservarlo. Antes de desconectarte, acumula escudos, especialmente si tu aldea está construida solo a medias.",
+    "it": "I tuoi progressi contano solo se riesci a mantenerli. Prima di disconnetterti, fai scorta di scudi, soprattutto se il tuo villaggio è costruito solo a metà."
+  },
+  {
+    "id": 6,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "Lancez la Quête Viking avec un gros stock de pièces : Attendez d'avoir accumulé beaucoup de pièces avant de vous lancer dans la Quête Viking afin de maximiser vos gains de tours.",
+    "en": "Start the Viking Quest with a large stash of coins: Wait until you have accumulated plenty of coins before embarking on the Viking Quest, so as to maximize your spin rewards.",
+    "de": "Starte die Wikinger-Quest mit einem großen Münzvorrat: Warte, bis du viele Münzen angesammelt hast, bevor du die Wikinger-Quest beginnst, um deine Spin-Belohnungen zu maximieren.",
+    "es": "Inicia la Misión Vikinga con una gran reserva de monedas: Espera a haber acumulado muchas monedas antes de embarcarte en la Misión Vikinga para maximizar tus recompensas de tiradas.",
+    "it": "Inizia la Missione Vichinga con una grande scorta di monete: Aspetta di aver accumulato molte monete prima di iniziare la Missione Vichinga, così da massimizzare le ricompense in giri."
+  },
+  {
+    "id": 7,
+    "jeuxa": "🐷Coin Master🐷",
+    "jeuxios": "🐷Coin Master🐷",
+    "fr": "Participez aux événements : Les événements temporaires (tournois, chasses au trésor, batailles) rapportent souvent bien plus de tours et de coffres que le jeu classique.",
+    "en": "Take part in events: Temporary events (tournaments, treasure hunts, battles) often yield far more spins and chests than standard gameplay.",
+    "de": "Nimm an Events teil: Zeitlich begrenzte Events (Turniere, Schatzsuchen, Kämpfe) bringen oft viel mehr Spins und Truhen ein als das normale Spiel.",
+    "es": "Participa en los eventos: Los eventos temporales (torneos, búsquedas del tesoro, batallas) suelen otorgar muchas más tiradas y cofres que el juego normal.",
+    "it": "Partecipa agli eventi: Gli eventi temporanei (tornei, cacce al tesoro, battaglie) spesso fruttano molti più giri e forzieri rispetto al gioco normale."
+  }
 ]
