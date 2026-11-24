@@ -1,0 +1,509 @@
+[
+  {
+    "id": 1,
+    "name": "Firecracker",
+    "tier": "Bronze",
+    "rarity": { "fr": "Bronze", "en": "Bronze", "de": "Bronze", "es": "Bronce", "it": "Bronzo" },
+    "effect": {
+      "fr": "Déclenche plusieurs petites explosions aléatoires sur le plateau.",
+      "en": "Triggers several small random explosions across the board.",
+      "de": "Löst mehrere kleine zufällige Explosionen auf dem Spielfeld aus.",
+      "es": "Provoca varias explosiones pequeñas aleatorias en el tablero.",
+      "it": "Attiva diverse piccole esplosioni casuali sul tabellone."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Quack Attack",
+    "tier": "Bronze",
+    "rarity": { "fr": "Bronze", "en": "Bronze", "de": "Bronze", "es": "Bronce", "it": "Bronzo" },
+    "effect": {
+      "fr": "Fait apparaître des canards en plastique qui éliminent des pièces en rebondissant.",
+      "en": "Spawns rubber ducks that bounce and pop tiles on the board.",
+      "de": "Lässt Quietscheentchen erscheinen, die Steine auf dem Brett entfernen.",
+      "es": "Hace aparecer patitos de goma que eliminan fichas al rebotar.",
+      "it": "Fa apparire paperelle di gomma che eliminano le tessere rimbalzando."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Paint Bucket",
+    "tier": "Bronze",
+    "rarity": { "fr": "Bronze", "en": "Bronze", "de": "Bronze", "es": "Bronce", "it": "Bronzo" },
+    "effect": {
+      "fr": "Renverse de la peinture pour transformer plusieurs pièces en une même couleur.",
+      "en": "Spills paint to transform multiple tiles into the same color.",
+      "de": "Verschüttet Farbe, um mehrere Steine in dieselbe Farbe zu verwandeln.",
+      "es": "Derrama pintura para transformar varias fichas en un mismo color.",
+      "it": "Versa vernice per trasformare più tessere dello stesso colore."
+    }
+  },
+  {
+    "id": 4,
+    "name": "The Jelly",
+    "tier": "Silver",
+    "rarity": { "fr": "Argent", "en": "Silver", "de": "Silber", "es": "Plata", "it": "Argento" },
+    "effect": {
+      "fr": "Crée une gelée qui se propage aux pièces voisines pour former de grands combos.",
+      "en": "Creates jelly that spreads to adjacent tiles to build large combos.",
+      "de": "Erzeugt Gelee, das sich auf benachbarte Steine ausbreitet.",
+      "es": "Crea gelatina que se propaga a las fichas vecinas para hacer combos.",
+      "it": "Crea una gelatina che si diffonde alle tessere vicine per creare combo."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Crazy Rocket",
+    "tier": "Silver",
+    "rarity": { "fr": "Argent", "en": "Silver", "de": "Silber", "es": "Plata", "it": "Argento" },
+    "effect": {
+      "fr": "Lance une fusée qui détruit une ligne et une colonne entière en croix.",
+      "en": "Launches a rocket that clears an entire row and column in a cross.",
+      "de": "Startet eine Rakete, die eine ganze Reihe und Spalte kreuzweise zerstört.",
+      "es": "Lanza un cohete que destruye una fila y una columna entera en cruz.",
+      "it": "Lancia un razzo che distrugge un'intera riga e colonna a croce."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mystery Hat",
+    "tier": "Silver",
+    "rarity": { "fr": "Argent", "en": "Silver", "de": "Silber", "es": "Plata", "it": "Argento" },
+    "effect": {
+      "fr": "Fait apparaître des pièces spéciales aléatoires (bombes, éclairs) sur la grille.",
+      "en": "Spawns random special tiles (bombs, lightning) across the grid.",
+      "de": "Lässt zufällige Spezialsteine (Bomben, Blitze) auf dem Feld erscheinen.",
+      "es": "Hace aparecer fichas especiales aleatorias (bombas, rayos) en el tablero.",
+      "it": "Fa apparire tessere speciali casuali (bombe, fulmini) sulla griglia."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sweep It",
+    "tier": "Gold",
+    "rarity": { "fr": "Or", "en": "Gold", "de": "Gold", "es": "Oro", "it": "Oro" },
+    "effect": {
+      "fr": "Balaye plusieurs rangées horizontales pour vider le bas du plateau.",
+      "en": "Sweeps away multiple horizontal rows to clear the lower board.",
+      "de": "Fegt mehrere horizontale Reihen weg, um das Brett zu leeren.",
+      "es": "Barre varias filas horizontales para despejar el tablero.",
+      "it": "Spazza via più file orizzontali per liberare il tabellone."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mastermind",
+    "tier": "Gold",
+    "rarity": { "fr": "Or", "en": "Gold", "de": "Gold", "es": "Oro", "it": "Oro" },
+    "effect": {
+      "fr": "Cible et élimine automatiquement les pièces les plus rentables du plateau.",
+      "en": "Automatically targets and clears the highest-value tiles on the board.",
+      "de": "Zielt automatisch auf die wertvollsten Steine auf dem Brett und entfernt sie.",
+      "es": "Apunta y elimina automáticamente las fichas más valiosas del tablero.",
+      "it": "Mira ed elimina automaticamente le tessere più redditizie sul tabellone."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Balloon Blast",
+    "tier": "Gold",
+    "rarity": { "fr": "Or", "en": "Gold", "de": "Gold", "es": "Oro", "it": "Oro" },
+    "effect": {
+      "fr": "Gonfle des ballons qui explosent en chaîne sur une large zone.",
+      "en": "Inflates balloons that pop in a chain reaction over a wide area.",
+      "de": "Bläst Ballons auf, die in einer Kettenreaktion großflächig platzen.",
+      "es": "Infla globos que explotan en cadena sobre una amplia zona.",
+      "it": "Gonfia palloncini che scoppiano a catena su un'ampia area."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Laser Beam",
+    "tier": "Gold",
+    "rarity": { "fr": "Or", "en": "Gold", "de": "Gold", "es": "Oro", "it": "Oro" },
+    "effect": {
+      "fr": "Tire un rayon laser diagonal ou vertical qui désintègre toutes les pièces traversées.",
+      "en": "Fires a laser beam that disintegrates every tile in its path.",
+      "de": "Feuert einen Laserstrahl ab, der alle Steine auf seinem Weg zerstört.",
+      "es": "Dispara un rayo láser que desintegra todas las fichas a su paso.",
+      "it": "Spara un raggio laser che disintegra tutte le tessere sul suo percorso."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Lil' Dragon",
+    "tier": "Gold",
+    "rarity": { "fr": "Or", "en": "Gold", "de": "Gold", "es": "Oro", "it": "Oro" },
+    "effect": {
+      "fr": "Crache une boule de feu qui brûle une grande zone carrée au centre du jeu.",
+      "en": "Breathes a fireball that burns a large square area on the board.",
+      "de": "Speit einen Feuerball, der einen großen Bereich auf dem Brett verbrennt.",
+      "es": "Escupe una bola de fuego que quema una gran zona del tablero.",
+      "it": "Sputa una palla di fuoco che brucia un'ampia area del tabellone."
+    }
+  },
+  {
+    "id": 12,
+    "name": "Magic Wand",
+    "tier": "Gold",
+    "rarity": { "fr": "Or", "en": "Gold", "de": "Gold", "es": "Oro", "it": "Oro" },
+    "effect": {
+      "fr": "Permet de choisir une couleur et d'éliminer toutes les pièces de cette teinte.",
+      "en": "Lets you pick a color and clear all tiles matching that shade.",
+      "de": "Ermöglicht die Wahl einer Farbe und entfernt alle Steine dieser Farbe.",
+      "es": "Permite elegir un color y eliminar todas las fichas de ese tono.",
+      "it": "Permette di scegliere un colore ed eliminare tutte le tessere di quella tonalità."
+    }
+  },
+  {
+    "id": 13,
+    "name": "High Voltage",
+    "tier": "Diamond",
+    "rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+    "effect": {
+      "fr": "Envoie des arcs électriques qui détruisent et rechargent des pièces en série.",
+      "en": "Sends electric arcs that destroy and recharge tiles in a chain.",
+      "de": "Sendet Lichtbögen aus, die Steine in einer Kettenreaktion zerstören.",
+      "es": "Envía arcos eléctricos que destruyen fichas en serie.",
+      "it": "Invia archi elettrici che distruggono le tessere a catena."
+    }
+  },
+  {
+    "id": 14,
+    "name": "Crazy Clovers",
+    "tier": "Diamond",
+    "rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+    "effect": {
+      "fr": "Génère des trèfles porte-bonheur qui multiplient les points et créent des bonus.",
+      "en": "Spawns lucky clovers that multiply points and create bonus tiles.",
+      "de": "Erzeugt Glückskleeblätter, die Punkte vervielfachen und Boni schaffen.",
+      "es": "Genera tréboles de la suerte que multiplican puntos y crean bonificaciones.",
+      "it": "Genera quadrifogli portafortuna che moltiplicano i punti e creano bonus."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Mr. Appleberry",
+    "tier": "Diamond",
+    "rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+    "effect": {
+      "fr": "Récolte les fruits et nettoie des grappes entières de pièces colorées.",
+      "en": "Harvests fruits and clears entire clusters of colored tiles.",
+      "de": "Erntet Früchte und räumt ganze Gruppen farbiger Steine ab.",
+      "es": "Cosecha frutas y limpia grupos enteros de fichas de colores.",
+      "it": "Raccoglie frutti e ripulisce interi gruppi di tessere colorate."
+    }
+  },
+  {
+    "id": 16,
+    "name": "Colonel McQuack",
+    "tier": "Diamond",
+    "rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+    "effect": {
+      "fr": "Déploie une escadrille de canards qui bombardent plusieurs lignes du plateau.",
+      "en": "Deploys a duck squadron that bombards multiple lines on the board.",
+      "de": "Entsendet eine Entenstaffel, die mehrere Linien bombardiert.",
+      "es": "Despliega un escuadrón de patos que bombardea varias líneas del tablero.",
+      "it": "Schiera uno squadrone di paperi che bombarda più linee del tabellone."
+    }
+  },
+  {
+    "id": 17,
+    "name": "All Aboard",
+    "tier": "Diamond",
+    "rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+    "effect": {
+      "fr": "Fait traverser un train à grande vitesse qui détruit tout sur son passage.",
+"en": "Drives a high-speed train across the board, clearing everything in its path.",
+"de": "Lässt einen Hochgeschwindigkeitszug über das Brett fahren, der alles abräumt.",
+"es": "Hace pasar un tren de alta velocidad que destruye todo a su paso.",
+"it": "Fa passare un treno ad alta velocità che distrugge tutto sul suo percorso."
+}
+},
+{
+"id": 18,
+"name": "Foxy Roxy",
+"tier": "Diamond",
+"rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+"effect": {
+"fr": "Crée des combos en chaîne rapides en ciblant les pièces bleues.",
+"en": "Creates rapid chain combos while targeting blue star tiles.",
+"de": "Erzeugt schnelle Kettenkombos und zielt auf blaue Sternsteine.",
+"es": "Crea combos rápidos en cadena apuntando a las fichas azules.",
+"it": "Crea combo rapide a catena mirando alle tessere stella blu."
+}
+},
+{
+"id": 19,
+"name": "Butler Bot",
+"tier": "Diamond",
+"rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+"effect": {
+"fr": "Réorganise et nettoie méthodiquement le plateau avec des explosions ciblées.",
+"en": "Methodically clears and reorganizes the board with targeted blasts.",
+"de": "Räumt das Spielfeld methodisch mit gezielten Explosionen auf.",
+"es": "Reorganiza y limpia metódicamente el tablero con explosiones dirigidas.",
+"it": "Riorganizza e pulisce metodicamente il tabellone con esplosioni mirate."
+}
+},
+{
+"id": 20,
+"name": "UFO",
+"tier": "Diamond",
+"rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+"effect": {
+"fr": "Enlève un grand nombre de pièces grâce à son rayon tracteur extraterrestre.",
+"en": "Abducts a large number of tiles using its alien tractor beam.",
+"de": "Entführt eine große Anzahl von Steinen mit seinem Traktorstrahl.",
+"es": "Abduce una gran cantidad de fichas con su rayo tractor alienígena.",
+"it": "Rapisce un gran numero di tessere grazie al suo raggio traente alieno."
+}
+},
+{
+"id": 21,
+"name": "Queen Cobra",
+"tier": "Diamond",
+"rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+"effect": {
+"fr": "Traverse le plateau en zigzag en éliminant toutes les pièces sur sa trajectoire.",
+"en": "Slithers across the board in a zigzag, clearing every tile on its trail.",
+"de": "Schlängelt sich im Zickzack über das Brett und entfernt alle Steine.",
+"es": "Cruza el tablero en zigzag eliminando todas las fichas a su paso.",
+"it": "Attraversa il tabellone a zig-zag eliminando tutte le tessere sulla sua scia."
+}
+},
+{
+"id": 22,
+"name": "Woolly Workout",
+"tier": "Diamond",
+"rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+"effect": {
+"fr": "Fait rebondir des moutons qui écrasent plusieurs zones du plateau.",
+"en": "Bounces sheep across the grid to smash multiple areas of the board.",
+"de": "Lässt Schafe über das Gitter hüpfen, die mehrere Bereiche zerstören.",
+"es": "Hace rebotar ovejas que aplastan varias zonas del tablero.",
+"it": "Fa rimbalzare pecore che schiacciano più aree del tabellone."
+}
+},
+{
+"id": 23,
+"name": "Doctor Color",
+"tier": "Diamond",
+"rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+"effect": {
+"fr": "Unifie plusieurs couleurs sur le plateau pour déclencher des réactions massives.",
+"en": "Unifies multiple colors on the board to trigger massive chain reactions.",
+"de": "Vereinheitlicht mehrere Farben auf dem Brett für gewaltige Kettenreaktionen.",
+"es": "Unifica varios colores en el tablero para provocar reacciones masivas.",
+"it": "Unifica più colori sul tabellone per innescare reazioni a catena massive."
+}
+},
+{
+"id": 24,
+"name": "El Magneto",
+"tier": "Diamond",
+"rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+"effect": {
+"fr": "Attire et regroupe les pièces identiques au centre avant de les faire exploser.",
+"en": "Pulls matching tiles together into the center before detonating them.",
+"de": "Zieht gleiche Steine in der Mitte zusammen und lässt sie explodieren.",
+"es": "Atrae y agrupa las fichas idénticas en el centro antes de detonarlas.",
+"it": "Attira e raggruppa le tessere identiche al centro prima di farle esplodere."
+}
+},
+{
+"id": 25,
+"name": "Valentine Vinnie",
+"tier": "Diamond",
+"rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+"effect": {
+"fr": "Propulse des cœurs qui relient et détruisent les pièces éloignées.",
+"en": "Shoots hearts that link and clear distant tiles across the board.",
+"de": "Verschießt Herzen, die entfernte Steine verbinden und abräumen.",
+"es": "Lanza corazones que conectan y destruyen fichas lejanas.",
+"it": "Lancia cuori che collegano e distruggono tessere distanti."
+}
+},
+{
+"id": 26,
+"name": "Checkmate Charles",
+"tier": "Diamond",
+"rarity": { "fr": "Diamant", "en": "Diamond", "de": "Diamant", "es": "Diamante", "it": "Diamante" },
+"effect": {
+"fr": "Déplace des pièces d'échecs qui éliminent les cases en diagonale et en L.",
+"en": "Moves chess pieces that clear tiles diagonally and in L-shapes.",
+"de": "Bewegt Schachfiguren, die Steine diagonal und in L-Form entfernen.",
+"es": "Mueve piezas de ajedrez que eliminan casillas en diagonal y en L.",
+"it": "Muove pezzi degli scacchi che eliminano le caselle in diagonale e a L."
+}
+},
+{
+"id": 27,
+"name": "Monkey Joo Joo",
+"tier": "Legend",
+"rarity": { "fr": "Légende", "en": "Legend", "de": "Legende", "es": "Leyenda", "it": "Leggenda" },
+"effect": {
+"fr": "Invoque des singes qui déclenchent un chaos d'explosions et rechargent le booster.",
+"en": "Summons monkeys that trigger chaotic blasts and recharge the booster.",
+"de": "Beschwört Affen, die Explosionen auslösen und den Booster aufladen.",
+"es": "Invoca monos que desatan explosiones y recargan el potenciador.",
+"it": "Evoca scimmie che scatenano esplosioni e ricaricano il booster."
+}
+},
+{
+"id": 28,
+"name": "Billie Boom",
+"tier": "Legend",
+"rarity": { "fr": "Légende", "en": "Legend", "de": "Legende", "es": "Leyenda", "it": "Leggenda" },
+"effect": {
+"fr": "Pose des charges explosives à très large rayon qui vident presque tout le plateau.",
+"en": "Places wide-radius explosives that clear nearly the entire board.",
+"de": "Platziert Sprengsätze mit großem Radius, die fast das ganze Brett leeren.",
+"es": "Coloca cargas explosivas de amplio radio que vacían casi todo el tablero.",
+"it": "Piazza cariche esplosive ad ampio raggio che svuotano quasi tutto il tabellone."
+}
+},
+{
+"id": 29,
+"name": "Brocco Boogie",
+"tier": "Legend",
+"rarity": { "fr": "Légende", "en": "Legend", "de": "Legende", "es": "Leyenda", "it": "Leggenda" },
+"effect": {
+"fr": "Déclenche des explosions végétales en chaîne avec un énorme multiplicateur.",
+"en": "Triggers vegetable-themed chain explosions with a huge point multiplier.",
+"de": "Löst Gemüse-Kettenexplosionen mit riesigem Punktemultiplikator aus.",
+"es": "Provoca explosiones vegetales en cadena con un gran multiplicador.",
+"it": "Innesca esplosioni vegetali a catena con un enorme moltiplicatore."
+}
+},
+{
+"id": 30,
+"name": "Cleo Cadabra",
+"tier": "Legend",
+"rarity": { "fr": "Légende", "en": "Legend", "de": "Legende", "es": "Leyenda", "it": "Leggenda" },
+"effect": {
+"fr": "Invoque la magie égyptienne pour transformer le plateau et créer des combos géants.",
+"en": "Uses Egyptian magic to transform the board and create giant combos.",
+"de": "Nutzt ägyptische Magie, um das Brett zu verwandeln und Riesenkombos zu bauen.",
+"es": "Invoca magia egipcia para transformar el tablero y crear combos gigantes.",
+"it": "Usa la magia egizia per trasformare il tabellone e creare combo giganti."
+}
+},
+{
+"id": 31,
+"name": "Mixy Meow",
+"tier": "Legend",
+"rarity": { "fr": "Légende", "en": "Legend", "de": "Legende", "es": "Leyenda", "it": "Leggenda" },
+"effect": {
+"fr": "Combine plusieurs effets aléatoires dévastateurs sur l'ensemble de la grille.",
+"en": "Combines multiple devastating random effects across the entire grid.",
+"de": "Kombiniert mehrere verheerende Zufallseffekte auf dem gesamten Gitter.",
+"es": "Combina varios efectos aleatorios devastadores en toda la cuadrícula.",
+"it": "Combina diversi effetti casuali devastanti sull'intera griglia."
+}
+},
+{
+"id": 32,
+"name": "El Magneto SE",
+"tier": "SE",
+"rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
+"effect": {
+"fr": "Version surpuissante d'El Magneto qui attire encore plus de pièces et génère des bonus.",
+"en": "Supercharged El Magneto that pulls more tiles and spawns extra power-ups.",
+"de": "Verstärkter El Magneto, der mehr Steine anzieht und Extras erzeugt.",
+"es": "Versión mejorada de El Magneto que atrae más fichas y genera bonificaciones.",
+"it": "Versione potenziata di El Magneto che attira più tessere e genera bonus."
+}
+},
+{
+"id": 33,
+"name": "Doctor Color SE",
+"tier": "SE",
+"rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
+"effect": {
+"fr": "Version améliorée qui convertit une plus grande partie du plateau en une couleur.",
+"en": "Enhanced version that converts a larger portion of the board into one color.",
+"de": "Verbesserte Version, die einen größeren Teil des Bretts in eine Farbe verwandelt.",
+"es": "Versión mejorada que convierte gran parte del tablero en un solo color.",
+"it": "Versione migliorata che converte gran parte del tabellone in un unico colore."
+}
+},
+{
+"id": 34,
+"name": "All Aboard SE",
+"tier": "SE",
+"rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
+"effect": {
+"fr": "Train express renforcé qui multiplie les passages et les explosions sur la grille.",
+"en": "Reinforced express train that multiplies passes and blasts across the grid.",
+"de": "Verstärkter Expresszug, der Durchfahrten und Explosionen vervielfacht.",
+"es": "Tren expreso reforzado que multiplica las pasadas y explosiones.",
+"it": "Treno espresso rinforzato che moltiplica i passaggi e le esplosioni."
+}
+},
+{
+"id": 35,
+"name": "UFO SE",
+"tier": "SE",
+"rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
+"effect": {
+"fr": "Soucoupe améliorée avec un rayon d'abduction élargi et des bonus supplémentaires.",
+"en": "Upgraded UFO with a wider abduction beam and extra bonus tiles.",
+"de": "Verbessertes UFO mit breiterem Strahl und zusätzlichen Bonussteinen.",
+"es": "Ovni mejorado con un rayo más amplio y fichas de bonificación extra.",
+"it": "UFO potenziato con un raggio più ampio e tessere bonus extra."
+}
+},
+{
+"id": 36,
+"name": "Valentine Vinnie SE",
+"tier": "SE",
+"rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
+"effect": {
+"fr": "Version spéciale qui propage davantage de cœurs pour maximiser le score.",
+"en": "Special version that spreads more hearts for significantly higher scores.",
+"de": "Spezialversion, die mehr Herzen für deutlich höhere Punktzahlen verteilt.",
+"es": "Versión especial que propaga más corazones para maximizar la puntuación.",
+"it": "Versione speciale che diffonde più cuori per massimizzare il punteggio."
+}
+},
+{
+"id": 37,
+"name": "Foxy Roxy SE",
+"tier": "SE",
+"rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
+"effect": {
+"fr": "Version spéciale de Foxy Roxy générant des combos prolongés à chaque activation.",
+"en": "Upgraded Foxy Roxy generating extended combos on every activation.",
+"de": "Verbesserte Foxy Roxy, die bei jeder Aktivierung längere Kombos erzeugt.",
+"es": "Versión especial de Foxy Roxy que genera combos prolongados.",
+"it": "Versione speciale di Foxy Roxy che genera combo prolungate."
+}
+},
+{
+"id": 38,
+"name": "Sweep It SE",
+"tier": "SE",
+"rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
+"effect": {
+"fr": "Balayage renforcé qui nettoie davantage de rangées et déclenche des bombes.",
+"en": "Stronger sweep that clears more rows and triggers extra bombs.",
+"de": "Stärkeres Fegen, das mehr Reihen abräumt und Zusatzbomben auslöst.",
+"es": "Barrido reforzado que limpia más filas y activa bombas adicionales.",
+"it": "Spazzata rinforzata che pulisce più file e attiva bombe extra."
+}
+},
+{
+"id": 39,
+"name": "The Jelly SE",
+"tier": "SE",
+"rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
+"effect": {
+"fr": "Gelée spéciale à propagation rapide créant des réactions en chaîne surprises.",
+"en": "Fast-spreading special jelly creating surprise chain reactions.",
+"de": "Schnell ausbreitendes Spezialgelee für überraschende Kettenreaktionen.",
+"es": "Gelatina especial de rápida propagación que crea reacciones sorpresa.",
+"it": "Gelatina speciale a rapida diffusione che crea reazioni a catena."
+}
+}
+]	  
