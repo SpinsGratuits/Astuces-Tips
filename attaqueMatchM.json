@@ -493,16 +493,17 @@
 "it": "Spazzata rinforzata che pulisce più file e attiva bombe extra."
 }
 },
-{
-"id": 39,
-"name": "The Jelly SE",
-"tier": "SE",
-"rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
-"effect": {
-"fr": "Gelée spéciale à propagation rapide créant des réactions en chaîne surprises.",
-"en": "Fast-spreading special jelly creating surprise chain reactions.",
-"de": "Schnell ausbreitendes Spezialgelee für überraschende Kettenreaktionen.",
-"es": "Gelatina especial de rápida propagación que crea reacciones sorpresa.",
-"it": "Gelatina speciale a rapida diffusione che crea reazioni a catena."
-}
-]	  
+  {
+    "id": 39,
+    "name": "The Jelly SE",
+    "tier": "SE",
+    "rarity": { "fr": "Édition Spéciale", "en": "Special Edition", "de": "Sonderedition", "es": "Edición Especial", "it": "Edizione Speciale" },
+    "effect": {
+      "fr": "Gelée spéciale à propagation rapide créant des réactions en chaîne surprises.",
+      "en": "Fast-spreading special jelly creating surprise chain reactions.",
+      "de": "Schnell ausbreitendes Spezialgelee für überraschende Kettenreaktionen.",
+      "es": "Gelatina especial de rápida propagación que crea reacciones sorpresa.",
+      "it": "Gelatina speciale a rapida diffusione che crea reazioni a catena."
+    }
+  }
+]  
