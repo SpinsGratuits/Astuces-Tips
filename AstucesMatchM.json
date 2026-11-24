@@ -1,31 +1,42 @@
- [
- {
+[
+  {
     "id": 5,
     "jeuxa": "✨Match Masters🔴",
     "jeuxios": "✨Match Masters🔴",
     "fr": "Concentrez-vous en priorité sur l’alignement des étoiles bleues (qui chargent votre booster) par rapport aux cercles rouges de votre adversaire.",
-    "en": "Focus primarily on aligning the blue stars (which charge your booster) with your opponent’s red circles."
+    "en": "Focus primarily on aligning the blue stars (which charge your booster) with your opponent’s red circles.",
+    "it": "Concentrati principalmente sull'allineamento delle stelle blu (che caricano il tuo booster) rispetto ai cerchi rossi del tuo avversario.",
+    "es": "Concéntrate principalmente en alinear las estrellas azules (que cargan tu potenciador) frente a los círculos rojos de tu oponente.",
+    "de": "Konzentriere dich vorrangig darauf, die blauen Sterne (die deinen Booster aufladen) vor den roten Kreisen deines Gegners zu kombinieren."
   },
-    {
+  {
     "id": 12,
     "jeuxa": "✨Match Masters🔴",
     "jeuxios": "✨Match Masters🔴",
     "fr": "Évitez d'équiper vos boosters les plus rares à chaque match sans réfléchir. Gardez-les pour les modes ou événements où vous avez de fortes chances de gagner (comme les modes dédiés Or ou Diamant).",
-    "en": "Avoid equipping your rarest boosters for every match without giving it any thought. Save them for modes or events where you have a strong chance of winning (such as modes specifically for Gold or Diamond tiers)."
+    "en": "Avoid equipping your rarest boosters for every match without giving it any thought. Save them for modes or events where you have a strong chance of winning (such as modes specifically for Gold or Diamond tiers).",
+    "it": "Evita di equipaggiare i tuoi booster più rari in ogni partita senza pensarci. Conservali per le modalità o gli eventi in cui hai alte probabilità di vittoria (come le modalità dedicate ai livelli Oro o Diamante).",
+    "es": "Evita equipar tus potenciadores más raros en cada partida sin pensarlo. Guárdalos para modos o eventos en los que tengas altas probabilidades de ganar (como los modos dedicados a Oro o Diamante).",
+    "de": "Vermeide es, deine seltensten Booster unüberlegt in jedem Match auszurüsten. Spare sie für Modi oder Events auf, in denen du hohe Gewinnchancen hast (wie die speziellen Gold- oder Diamant-Modi)."
   },
-    {
+  {
     "id": 20,
     "jeuxa": "✨Match Masters🔴",
     "jeuxios": "✨Match Masters🔴",
     "fr": "Utilisez vos Perks (bonus d'avant-match) intelligemment : ne les brûlez pas tous au début ; gardez-les parfois pour placer une contre-attaque décisive en fin de partie. Mettez-les à jour si vous changez de mode de jeu.",
-    "en": "Use your Perks (pre-match bonuses) wisely: don’t burn through them all at the start—sometimes it’s better to save them for a decisive counterattack later in the game. Remember to update them if you switch game modes."
+    "en": "Use your Perks (pre-match bonuses) wisely: don’t burn through them all at the start—sometimes it’s better to save them for a decisive counterattack later in the game. Remember to update them if you switch game modes.",
+    "it": "Usa i tuoi Perks (bonus pre-partita) con intelligenza: non sprecarli tutti all'inizio, ma conservali a volte per un contrattacco decisivo nel finale. Ricorda di aggiornarli se cambi modalità di gioco.",
+    "es": "Usa tus Perks (bonificaciones previas a la partida) con inteligencia: no los gastes todos al principio; a veces es mejor guardarlos para un contraataque decisivo al final. Recuerda actualizarlos si cambias de modo de juego.",
+    "de": "Setze deine Perks (Vorab-Boni) klug ein: Verbrauche sie nicht alle sofort zu Beginn, sondern hebe sie dir manchmal für einen entscheidenden Gegenangriff im Endspiel auf. Denke daran, sie anzupassen, wenn du den Spielmodus wechselst."
   },
   {
-"id": 28,
-"jeuxa": "✨Match Masters🔴",
-"jeuxios": "✨Match Masters🔴",
-"fr": "Réduisez les opportunités de l'adversaire : avant de faire un choix, regardez si votre mouvement ne va pas offrir un alignement facile ou une bombe sur un plateau ouvert à votre rival.",
-"en": "Limit your opponent's opportunities: Before making a move, check to ensure that your action won't provide your rival with an easy alignment or a bomb on an open board."
-}
-
+    "id": 28,
+    "jeuxa": "✨Match Masters🔴",
+    "jeuxios": "✨Match Masters🔴",
+    "fr": "Réduisez les opportunités de l'adversaire : avant de faire un choix, regardez si votre mouvement ne va pas offrir un alignement facile ou une bombe sur un plateau ouvert à votre rival.",
+    "en": "Limit your opponent's opportunities: Before making a move, check to ensure that your action won't provide your rival with an easy alignment or a bomb on an open board.",
+    "it": "Riduci le opportunità dell'avversario: prima di fare una mossa, controlla che la tua azione non offra al rivale un allineamento facile o una bomba su un tabellone aperto.",
+    "es": "Reduce las oportunidades del oponente: antes de hacer un movimiento, asegúrate de que tu jugada no le dé a tu rival una alineación fácil o una bomba en un tablero abierto.",
+    "de": "Minimiere die Chancen des Gegners: Prüfe vor jedem Zug, ob deine Aktion deinem Rivalen nicht eine einfache Kombination oder eine Bombe auf einem offenen Feld ermöglicht."
+  }
 ]
