@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "jeuxa": "🔮Bingo Blitz🔮",
+    "jeuxios": "🔮Bingo Blitz🔮",
+    "fr": "À moins que vous ne manquiez cruellement de crédits, utilisez toujours 4 planches à la fois pour multiplier vos chances d'obtenir des bingos.",
+    "en": "Unless you are desperately short on credits, always use 4 boards at a time to increase your chances of getting bingos.",
+    "it": "A meno che tu non sia disperatamente a corto di crediti, usa sempre 4 cartelle alla volta per moltiplicare le tue possibilità di fare bingo.",
+    "es": "A menos que te falten créditos desesperadamente, usa siempre 4 cartones a la vez para multiplicar tus posibilidades de conseguir bingos.",
+    "de": "Wenn du nicht gerade extrem wenig Credits hast, spiele immer mit 4 Karten gleichzeitig, um deine Chancen auf Bingos zu vervielfachen."
+  },
+  {
+    "id": 2,
+    "jeuxa": "🔮Bingo Blitz🔮",
+    "jeuxios": "🔮Bingo Blitz🔮",
+    "fr": "Ne cliquez pas trop vite sur le bouton Bingo. Attendez un peu pour marquer d'autres numéros et faire progresser vos jauges de power-ups, à moins que vous ne risquiez de rater une opportunité.",
+    "en": "Don’t click the Bingo button too quickly. Wait a bit to mark more numbers and fill up your power-up gauges—unless, of course, you risk missing an opportunity.",
+    "it": "Non cliccare troppo in fretta sul pulsante Bingo. Aspetta un po' per segnare altri numeri e caricare le barre dei power-up, a meno che tu non rischi di perdere un'occasione.",
+    "es": "No pulses demasiado rápido el botón de Bingo. Espera un poco para marcar más números y llenar tus barras de potenciadores, a menos que corras el riesgo de perder una oportunidad.",
+    "de": "Klicke nicht zu schnell auf den Bingo-Button. Warte kurz ab, um weitere Zahlen zu markieren und deine Power-up-Leisten aufzuladen – es sei denn, du riskierst, eine Chance zu verpassen."
+  },
+  {
+    "id": 3,
+    "jeuxa": "🔮Bingo Blitz🔮",
+    "jeuxios": "🔮Bingo Blitz🔮",
+    "fr": "Utilisez les Power-ups intelligemment :\n• Le Supercharger réduit le temps de recharge.\n• Le Double XP double vos points d'expérience.\n• L'Instant Win vous offre un bingo automatique sur une case aléatoire.",
+    "en": "Use Power-ups wisely:\n• The Supercharger reduces the recharge time.\n• Double XP doubles your experience points.\n• Instant Win grants you an automatic bingo on a random space.",
+    "it": "Usa i Power-up con intelligenza:\n• Il Supercharger riduce il tempo di ricarica.\n• Il Double XP raddoppia i tuoi punti esperienza.\n• L'Instant Win ti regala un bingo automatico su una casella casuale.",
+    "es": "Usa los Power-ups con inteligencia:\n• El Supercharger reduce el tiempo de recarga.\n• El Double XP duplica tus puntos de experiencia.\n• El Instant Win te otorga un bingo automático en una casilla aleatoria.",
+    "de": "Setze Power-ups klug ein:\n• Der Supercharger verkürzt die Aufladezeit.\n• Double XP verdoppelt deine Erfahrungspunkte.\n• Instant Win schenkt dir ein automatisches Bingo auf einem zufälligen Feld."
+  },
+  {
+    "id": 4,
+    "jeuxa": "🔮Bingo Blitz🔮",
+    "jeuxios": "🔮Bingo Blitz🔮",
+    "fr": "Des modes intermédiaires comme le mode Supérieur permettent souvent de cumuler des bonus et des crédits plus durablement qu'une mise trop agressive, quitte à réduire si vous êtes à court de cartes.",
+    "en": "Intermediate modes like Superior mode often allow you to accumulate bonuses and credits more sustainably than overly aggressive bets, though you can step down if you run low on cards.",
+    "it": "Le modalità intermedie come la modalità Superiore permettono spesso di accumulare bonus e crediti in modo più duraturo rispetto a una puntata troppo aggressiva, riducendo se sei a corto di carte.",
+    "es": "Los modos intermedios como el modo Superior suelen permitir acumular bonificaciones y créditos de forma más sostenible que una apuesta demasiado agresiva, pudiendo bajar si te quedas sin cartones.",
+    "de": "Mittlere Modi wie der Superior-Modus ermöglichen es oft, Boni und Credits nachhaltiger zu sammeln als ein zu aggressiver Einsatz – reduziere den Einsatz jedoch, wenn dir die Karten ausgehen."
+  },
+  {
+    "id": 5,
+    "jeuxa": "🔮Bingo Blitz🔮",
+    "jeuxios": "🔮Bingo Blitz🔮",
+    "fr": "Si vos crédits sont bas, retourner dans une ville de départ comme New York coûte peu de crédits et offre des cadeaux ou double daubs utiles.",
+    "en": "If your credits are low, returning to a starter city like New York costs very few credits and offers useful gifts or double daubs.",
+    "it": "Se hai pochi crediti, tornare in una città iniziale come New York costa pochissimi crediti e offre regali o double daub molto utili.",
+    "es": "Si tienes pocos créditos, volver a una ciudad inicial como Nueva York cuesta muy pocos créditos y ofrece regalos o dobles marcadores muy útiles.",
+    "de": "Wenn deine Credits niedrig sind, kostet die Rückkehr in eine Startstadt wie New York nur wenige Credits und bietet nützliche Geschenke oder Double Daubs."
+  }
+]
+
+
