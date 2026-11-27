@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "jeuxa": "🎲Dice Dreams🎲",
+    "jeuxios": "🎲Dice Dreams🎲",
+    "fr": "Concentrez-vous d'abord sur la construction ou l'amélioration des structures les plus coûteuses de votre royaume, puis terminez par les moins chères.",
+    "en": "Focus first on constructing or upgrading the most expensive structures in your kingdom, then finish with the least expensive ones.",
+    "it": "Concentrati prima sulla costruzione o sul potenziamento delle strutture più costose del tuo regno, poi termina con quelle meno care.",
+    "es": "Concéntrate primero en construir o mejorar las estructuras más caras de tu reino y termina después con las más baratas.",
+    "de": "Konzentriere dich zuerst auf den Bau oder Ausbau der teuersten Gebäude in deinem Königreich und schließe danach die günstigeren ab."
+  },
+  {
+    "id": 2,
+    "jeuxa": "🎲Dice Dreams🎲",
+    "jeuxios": "🎲Dice Dreams🎲",
+    "fr": "Dépensez votre or dès que vous en avez assez pour passer au niveau supérieur ou terminer un bâtiment, plutôt que de vous déconnecter avec une fortune facile à voler.",
+    "en": "Spend your gold as soon as you have enough to upgrade to the next level or complete a building, rather than logging off with a fortune that’s easy to steal.",
+    "it": "Spendi il tuo oro appena ne hai abbastanza per salire di livello o completare un edificio, invece di disconnetterti con un tesoro facile da rubare.",
+    "es": "Gasta tu oro en cuanto tengas suficiente para subir de nivel o completar un edificio, en lugar de desconectarte con una fortuna fácil de robar.",
+    "de": "Gib dein Gold aus, sobald du genug für die nächste Stufe oder ein Gebäude hast, statt dich mit einem leicht zu stehlenden Vermögen auszuloggen."
+  },
+  {
+    "id": 3,
+    "jeuxa": "🎲Dice Dreams🎲",
+    "jeuxios": "🎲Dice Dreams🎲",
+    "fr": "Servez-vous de la fonction de vengeance pour cibler précisément les joueurs qui ont attaqué votre royaume récemment.",
+    "en": "Use the revenge feature to specifically target players who have recently attacked your kingdom.",
+    "it": "Usa la funzione di vendetta per prendere di mira con precisione i giocatori che hanno attaccato il tuo regno di recente.",
+    "es": "Usa la función de venganza para apuntar directamente a los jugadores que han atacado tu reino recientemente.",
+    "de": "Nutze die Rache-Funktion, um gezielt die Spieler anzugreifen, die dein Königreich kürzlich überfallen haben."
+  },
+  {
+    "id": 4,
+    "jeuxa": "🎲Dice Dreams🎲",
+    "jeuxios": "🎲Dice Dreams🎲",
+    "fr": "Jouez plus de dés sur les 3 ou 4 premiers lancers : c'est à ce moment que tombent très souvent les dés offerts dans le jeu, puis réduisez votre usage de moitié.",
+    "en": "Play more dice during the first 3 or 4 rolls—this is when the bonus dice provided in the game very often appear—then cut your usage in half.",
+    "it": "Gioca più dadi nei primi 3 o 4 lanci: è in questo momento che escono molto spesso i dadi bonus nel gioco, poi dimezza l'utilizzo.",
+    "es": "Usa más dados en las primeras 3 o 4 tiradas: es cuando suelen salir con más frecuencia los dados extra del juego; luego reduce su uso a la mitad.",
+    "de": "Setze in den ersten 3 oder 4 Würfen mehr Würfel ein – genau dann erscheinen die Bonuswürfel im Spiel besonders oft – und halbiere danach deinen Einsatz."
+  },
+  {
+    "id": 5,
+    "jeuxa": "🎲Dice Dreams🎲",
+    "jeuxios": "🎲Dice Dreams🎲",
+    "fr": "Regardez les vidéos publicitaires : lorsque vous passez sous un certain seuil de lancers, profitez des courtes annonces proposées pour gagner des lancers supplémentaires.",
+    "en": "Watch video ads: when you drop below a certain roll threshold, watch the short ads offered to earn extra rolls.",
+    "it": "Guarda i video pubblicitari: quando scendi sotto una certa soglia di lanci, guarda i brevi annunci proposti per ottenere lanci extra.",
+    "es": "Mira los anuncios en vídeo: cuando bajes de cierto umbral de tiradas, aprovecha los breves anuncios disponibles para ganar tiradas extra.",
+    "de": "Schau dir Werbevideos an: Wenn du unter eine bestimmte Anzahl an Würfen fällst, nutze die kurzen Werbeclips für zusätzliche Würfe."
+  }
+]
