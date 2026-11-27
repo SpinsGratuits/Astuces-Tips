@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "jeuxa": "🎩Monopoly Go!🏠",
+    "jeuxios": "🎩Monopoly Go!🏠",
+    "fr": "Augmentez votre multiplicateur lorsque vous vous trouvez à 6, 7 ou 8 cases (statistiquement les plus fréquentes) d'une case intéressante (gares, événements, boucliers).",
+    "en": "Increase your multiplier when you are 6, 7, or 8 spaces away (statistically the most frequent distances) from a valuable space (stations, events, shields).",
+    "it": "Aumenta il moltiplicatore quando ti trovi a 6, 7 o 8 caselle (statisticamente le distanze più frequenti) da una casella interessante (stazioni, eventi, scudi).",
+    "es": "Aumenta tu multiplicador cuando estés a 6, 7 u 8 casillas (estadísticamente las distancias más frecuentes) de una casilla valiosa (estaciones, eventos, escudos).",
+    "de": "Erhöhe deinen Multiplikator, wenn du 6, 7 oder 8 Felder (statistisch die häufigsten Entfernungen) von einem lohnenden Feld (Bahnhöfe, Events, Schilde) entfernt bist."
+  },
+  {
+    "id": 2,
+    "jeuxa": "🎩Monopoly Go!🏠",
+    "jeuxios": "🎩Monopoly Go!🏠",
+    "fr": "Attendez des événements comme Wheel Boost ou Board Rush pour lancer vos constructions en bloc et maximiser vos gains à moindre coût.",
+    "en": "Wait for events like Wheel Boost or Board Rush to launch your building projects, allowing you to maximize your gains while spending less.",
+    "it": "Aspetta eventi come Wheel Boost o Board Rush per avviare le tue costruzioni in blocco e massimizzare i guadagni spendendo meno.",
+    "es": "Espera a eventos como Wheel Boost o Board Rush para lanzar tus construcciones en bloque y maximizar tus ganancias gastando menos.",
+    "de": "Warte auf Events wie Wheel Boost oder Board Rush, um deine Bauprojekte gesammelt zu starten und deine Gewinne bei geringeren Kosten zu maximieren."
+  },
+  {
+    "id": 3,
+    "jeuxa": "🎩Monopoly Go!🏠",
+    "jeuxios": "🎩Monopoly Go!🏠",
+    "fr": "Ne faites pas d'échanges au hasard ; concentrez-vous sur la complétion de sets d'autocollants entiers pour gagner des milliers de dés d'un coup.",
+    "en": "Don't trade at random; focus on completing entire sticker sets to earn thousands of dice at once.",
+    "it": "Non fare scambi a caso; concentrati sul completamento di interi set di adesivi per vincere migliaia di dadi in una sola volta.",
+    "es": "No hagas intercambios al azar; céntrate en completar álbumes enteros de pegatinas para ganar miles de dados de golpe.",
+    "de": "Tausche nicht wahllos; konzentriere dich darauf, ganze Sticker-Sets zu vervollständigen, um auf einen Schlag Tausende Würfel zu gewinnen."
+  },
+  {
+    "id": 4,
+    "jeuxa": "🎩Monopoly Go!🏠",
+    "jeuxios": "🎩Monopoly Go!🏠",
+    "fr": "Ne construisez pas vos monuments dès que vous avez un peu d'argent, au risque de vous faire braquer ou détruire.",
+    "en": "Do not build your monuments as soon as you have a little money, or you risk having them raided or destroyed.",
+    "it": "Non costruire i tuoi monumenti appena hai un po' di soldi, altrimenti rischi che vengano saccheggiati o distrutti.",
+    "es": "No construyas tus monumentos en cuanto tengas algo de dinero, o correrás el riesgo de que te los saqueen o destruyan.",
+    "de": "Baue deine Wahrzeichen nicht sofort aus, sobald du etwas Geld hast, sonst riskierst du, überfallen oder zerstört zu werden."
+  },
+  {
+    "id": 5,
+    "jeuxa": "🎩Monopoly Go!🏠",
+    "jeuxios": "🎩Monopoly Go!🏠",
+    "fr": "Comprenez le rôle des boucliers : Les boucliers protègent vos monuments contre les attaques, mais ne bloquent pas les braquages, qui ciblent votre argent.",
+    "en": "Understand how shields work: shields protect your monuments from shutdown attacks, but they do not block bank heists, which target your cash.",
+    "it": "Comprendi il ruolo degli scudi: gli scudi proteggono i tuoi monumenti dagli attacchi, ma non bloccano le rapine in banca, che colpiscono i tuoi soldi.",
+    "es": "Comprende la función de los escudos: los escudos protegen tus monumentos contra los ataques, pero no bloquean los atracos al banco, que van a por tu dinero.",
+    "de": "Verstehe die Rolle der Schilde: Schilde schützen deine Wahrzeichen vor Angriffen, blockieren aber keine Banküberfälle, die auf dein Bargeld zielen."
+  },
+  {
+    "id": 6,
+    "jeuxa": "🎩Monopoly Go!🏠",
+    "jeuxios": "🎩Monopoly Go!🏠",
+    "fr": "Cumulez les boosts flash : Activez des bonus complémentaires en même temps (par exemple un Boost d'Argent et un événement lié aux cases Chance ou Méga Braquage) pour maximiser vos gains.",
+    "en": "Stack flash boosts: activate complementary bonuses at the same time (such as Cash Boost alongside a Chance or Mega Heist event) to maximize your rewards.",
+    "it": "Combina i boost flash: attiva bonus complementari contemporaneamente (ad esempio un Boost Denaro insieme a un evento Imprevisti o Mega Rapina) per massimizzare i guadagni.",
+    "es": "Combina los potenciadores flash: activa bonificaciones complementarias al mismo tiempo (por ejemplo, un Potenciador de Dinero junto con un evento de Suerte o Mega Atraco) para maximizar tus ganancias.",
+    "de": "Kombiniere Flash-Boosts: Aktiviere sich ergänzende Boni gleichzeitig (z. B. einen Geld-Boost zusammen mit einem Ereignis- oder Mega-Überfall-Event), um deine Gewinne zu maximieren."
+  }
+]
