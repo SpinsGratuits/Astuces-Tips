@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "name": "Instant Win (Bingo Instantané)",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Power-Up Rare",
+      "en": "Rare Power-Up",
+      "it": "Power-Up Raro",
+      "es": "Power-Up Raro",
+      "de": "Seltenes Power-Up"
+    },
+    "effect": {
+      "fr": "Place une case Bingo automatique sur une case aléatoire de votre carton. Activez-le dès qu'il apparaît pour libérer votre emplacement de Power-Up.",
+      "en": "Places an automatic Bingo tile on a random square of your card. Trigger it immediately when it appears to free up your Power-Up slot.",
+      "it": "Posiziona una casella Bingo automatica su una casella casuale. Attivalo subito appena appare per liberare lo spazio Power-Up.",
+      "es": "Coloca una casilla de Bingo automática en un cuadro aleatorio. Actívalo en cuanto aparezca para liberar tu ranura de Power-Up.",
+      "de": "Platziert ein automatisches Bingo-Feld auf einem zufälligen Feld. Löse es sofort aus, um deinen Power-Up-Platz wieder freizumachen."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Double Daub (Double Marquage)",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Power-Up",
+      "en": "Power-Up",
+      "it": "Power-Up",
+      "es": "Power-Up",
+      "de": "Power-Up"
+    },
+    "effect": {
+      "fr": "Marque deux numéros aléatoires supplémentaires sur vos cartons en plus du numéro tiré. Idéal en début de partie pour accélérer vos premiers Bingos.",
+      "en": "Daubs two extra random numbers across your cards on top of the called number. Ideal early in a round to speed up your first Bingos.",
+      "it": "Segna due numeri casuali extra sulle cartelle oltre al numero estratto. Ideale a inizio partita per accelerare i primi Bingo.",
+      "es": "Marca dos números aleatorios extra en tus cartones además del número cantado. Ideal al inicio para acelerar tus primeros Bingos.",
+      "de": "Markiert zwei zusätzliche Zufallszahlen auf deinen Karten. Ideal zu Rundenbeginn, um deine ersten Bingos zu beschleunigen."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Triple Daub (Triple Marquage)",
+    "tier": "Legend",
+    "rarity": {
+      "fr": "Power-Up",
+      "en": "Power-Up",
+      "it": "Power-Up",
+      "es": "Power-Up",
+      "de": "Power-Up"
+    },
+    "effect": {
+      "fr": "Marque trois numéros supplémentaires d'un seul coup sur vos grilles. Gardez-le pour la fin de partie lorsqu'il ne vous manque qu'une case.",
+      "en": "Daubs three extra numbers across your boards at once. Save it for late in the round when you are just one square away from Bingo.",
+      "it": "Segna tre numeri extra in un colpo solo sulle cartelle. Conservalo per il finale quando ti manca una sola casella.",
+      "es": "Marca tres números extra de golpe en tus cartones. Guárdalo para el final de la ronda cuando te falte solo una casilla.",
+      "de": "Markiert drei zusätzliche Zahlen auf einmal. Hebe es dir für das Rundenende auf, wenn dir nur noch ein Feld zum Bingo fehlt."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Supercharger (Suralimentation)",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Boost Vitesse",
+      "en": "Speed Boost",
+      "it": "Boost Velocità",
+      "es": "Impulso Velocidad",
+      "de": "Tempo-Boost"
+    },
+    "effect": {
+      "fr": "Réduit considérablement le temps de recharge de vos Power-Ups après chaque numéro marqué. Permet d'enchaîner plusieurs bonus dans la même partie.",
+      "en": "Greatly reduces the cooldown of your Power-Ups after every daubed number. Lets you chain multiple bonuses within the same round.",
+      "it": "Riduce notevolmente il tempo di ricarica dei Power-Up dopo ogni numero segnato. Permette di concatenare più bonus nella stessa partita.",
+      "es": "Reduce mucho el tiempo de recarga de tus Power-Ups tras cada número marcado. Permite encadenar varios bonos en la misma partida.",
+      "de": "Verkürzt die Ladezeit deiner Power-Ups nach jeder markierten Zahl deutlich. Ermöglicht mehrere Boni in derselben Runde."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Double XP & Double Payout",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Multiplicateur",
+      "en": "Multiplier",
+      "it": "Moltiplicatore",
+      "es": "Multiplicador",
+      "de": "Multiplikator"
+    },
+    "effect": {
+      "fr": "Double les points d'expérience ou les pièces gagnées sur les cases spéciales du carton. Activez-le juste avant de valider un Bingo.",
+      "en": "Doubles the experience points or coins earned from special card squares. Trigger it right before claiming a Bingo.",
+      "it": "Raddoppia i punti esperienza o le monete vinte sulle caselle speciali. Attivalo appena prima di chiamare un Bingo.",
+      "es": "Duplica los puntos de experiencia o monedas ganadas en casillas especiales. Actívalo justo antes de cantar un Bingo.",
+      "de": "Verdoppelt Erfahrungspunkte oder Münzen auf Spezialfeldern. Löse es direkt vor dem Drücken des Bingo-Buttons aus."
+    }
+  },
+  {
+    "id": 6,
+    "name": "4 Cards Strategy (4 Cartons)",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Stratégie",
+      "en": "Strategy",
+      "it": "Strategia",
+      "es": "Estrategia",
+      "de": "Strategie"
+    },
+    "effect": {
+      "fr": "Jouer 4 cartons simultanément maximise vos chances de toucher des numéros à chaque tirage et remplit votre jauge de Power-Up deux fois plus vite.",
+      "en": "Playing 4 cards at once maximizes your odds of hitting called numbers and fills your Power-Up meter twice as fast.",
+      "it": "Giocare 4 cartelle insieme massimizza le probabilità di trovare i numeri estratti e riempie la barra Power-Up il doppio più velocemente.",
+      "es": "Jugar 4 cartones a la vez maximiza tus opciones de acertar números y llena tu barra de Power-Up el doble de rápido.",
+      "de": "Mit 4 Karten gleichzeitig erhöhst du deine Trefferchancen und füllst deine Power-Up-Leiste doppelt so schnell."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Treasure Chest Square (Coffre)",
+    "tier": "Silver",
+    "rarity": {
+      "fr": "Case Spéciale",
+      "en": "Special Tile",
+      "it": "Casella Speciale",
+      "es": "Casilla Especial",
+      "de": "Spezialfeld"
+    },
+    "effect": {
+      "fr": "Marquer une case Coffre et décrocher un Bingo sur ce carton ouvre un coffre rempli de crédits, d'ingrédients ou de pièces de collection.",
+      "en": "Daubing a Chest square and scoring a Bingo on that card opens a chest packed with credits, ingredients, or collection items.",
+      "it": "Segnare una casella Forziere e fare Bingo su quella cartella apre un forziere pieno di crediti, ingredienti o oggetti da collezione.",
+      "es": "Marcar una casilla Cofre y lograr Bingo en ese cartón abre un cofre lleno de créditos, ingredientes u objetos de colección.",
+      "de": "Markiere ein Truhenfeld und hole ein Bingo auf dieser Karte, um Credits, Zutaten oder Sammelobjekte zu gewinnen."
+    }
+  },
+  {
+    "id": 8,
+    "name": "City Collections & Souvenirs",
+    "tier": "Legend",
+    "rarity": {
+      "fr": "Progression",
+      "en": "Progression",
+      "it": "Progressione",
+      "es": "Progreso",
+      "de": "Fortschritt"
+    },
+    "effect": {
+      "fr": "Chaque ville possède un album d'objets à compléter via les Bingos. Terminer une ville débloque un gros pack de crédits et la destination suivante.",
+      "en": "Every city has a souvenir set completed through Bingos. Finishing a city unlocks a huge credit bundle and the next world destination.",
+      "it": "Ogni città ha un set di souvenir da completare con i Bingo. Finire una città sblocca un grande pacchetto di crediti e la meta successiva.",
+      "es": "Cada ciudad tiene un álbum de recuerdos que se completa con Bingos. Terminar una ciudad desbloquea créditos y el siguiente destino.",
+      "de": "Jede Stadt hat ein Sammelalbum, das durch Bingos gefüllt wird. Der Abschluss schaltet ein großes Credit-Paket und die nächste Stadt frei."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Spare Items Trading (Échanges)",
+    "tier": "Bronze",
+    "rarity": {
+      "fr": "Social",
+      "en": "Social",
+      "it": "Social",
+      "es": "Social",
+      "de": "Sozial"
+    },
+    "effect": {
+      "fr": "Utilisez le chat de salle pour échanger vos objets en double (non dorés) avec d'autres joueurs et boucler vos collections sans dépenser de crédits.",
+      "en": "Use the room chat to trade duplicate non-gold collection items with other players and finish your sets without spending extra credits.",
+      "it": "Usa la chat della stanza per scambiare gli oggetti doppi (non dorati) con altri giocatori e completare i set senza spendere crediti.",
+      "es": "Usa el chat de la sala para intercambiar objetos repetidos (no dorados) con otros jugadores y completar tus álbumes sin gastar créditos.",
+      "de": "Nutze den Raum-Chat, um doppelte (nicht goldene) Sammelobjekte mit anderen Spielern zu tauschen und Sets gratis abzuschließen."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Kitchen & Cooking Events",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Mini-Jeu",
+      "en": "Mini-Game",
+      "it": "Minigioco",
+      "es": "Minijuego",
+      "de": "Minispiel"
+    },
+    "effect": {
+      "fr": "Collectez des ingrédients sur les cartons spéciaux pour préparer des recettes et remporter des coffres de crédits et de Power-Ups.",
+      "en": "Collect ingredients from special bingo squares to cook recipes and earn chests filled with credits and Power-Ups.",
+      "it": "Raccogli ingredienti dalle caselle speciali per cucinare ricette e vincere forzieri pieni di crediti e Power-Up.",
+      "es": "Recoge ingredientes en casillas especiales para preparar recetas y ganar cofres llenos de créditos y Power-Ups.",
+      "de": "Sammle Zutaten auf Spezialfeldern, um Rezepte zu kochen und Truhen voller Credits und Power-Ups zu gewinnen."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Blitzy's Daily Spin & Quests",
+    "tier": "Bronze",
+    "rarity": {
+      "fr": "Quotidien",
+      "en": "Daily",
+      "it": "Giornaliero",
+      "es": "Diario",
+"de": "Täglich"
+},
+"effect": {
+"fr": "Connectez-vous chaque jour pour tourner la roue quotidienne et valider vos missions rapides afin de recharger vos crédits gratuitement.",
+"en": "Log in daily to spin the daily wheel and finish quick quests to top up your credits for free.",
+"it": "Accedi ogni giorno per girare la ruota quotidiana e completare le missioni rapide per ricaricare i crediti gratis.",
+"es": "Conéctate cada día para girar la ruleta diaria y completar misiones rápidas para recargar tus créditos gratis.",
+"de": "Logge dich täglich ein, um das Tagesrad zu drehen und Schnellmissionen für kostenlose Credits abzuschließen."
+}
+},
+{
+"id": 12,
+"name": "Timing Your Bingo Call",
+"tier": "SE",
+"rarity": {
+"fr": "Astuce Pro",
+"en": "Pro Tip",
+"it": "Consiglio Pro",
+"es": "Consejo Pro",
+"de": "Profi-Tipp"
+},
+"effect": {
+"fr": "Ne cliquez pas instantanément sur le bouton Bingo s'il reste beaucoup de Bingos disponibles : marquez encore 2 ou 3 numéros pour charger vos Power-Ups.",
+"en": "Don't tap the Bingo button immediately when plenty of Bingos remain—daub 2 or 3 more numbers first to charge your Power-Ups.",
+"it": "Non premere subito il tasto Bingo se restano molti Bingo disponibili: segna altri 2 o 3 numeri per caricare i Power-Up.",
+"es": "No pulses al instante el botón Bingo si aún quedan muchos Bingos: marca 2 o 3 números más para cargar tus Power-Ups.",
+"de": "Drücke nicht sofort auf Bingo, wenn noch viele Bingos übrig sind – markiere erst 2–3 weitere Zahlen, um Power-Ups aufzuladen."
+}
+},
+{
+"id": 13,
+"name": "Low Credit Recovery (New York)",
+"tier": "Silver",
+"rarity": {
+"fr": "Économie",
+"en": "Economy",
+"it": "Economia",
+"es": "Economía",
+"de": "Sparen"
+},
+"effect": {
+"fr": "Si votre réserve de crédits baisse, rejouez dans les premières salles (comme New York) où le coût d'entrée est minimal pour refaire le plein.",
+"en": "When your credit balance runs low, play in early rooms (such as New York) where card entry costs are minimal to rebuild your stash.",
+"it": "Se i crediti scarseggiano, gioca nelle prime stanze (come New York) dove il costo d'ingresso è minimo per fare scorta.",
+"es": "Si te quedan pocos créditos, juega en las primeras salas (como Nueva York) donde el coste es mínimo para recuperar saldo.",
+"de": "Wenn deine Credits knapp werden, spiele in frühen Räumen (wie New York) mit minimalem Einsatz, um deinen Vorrat aufzubauen."
+}
+},
+{
+"id": 14,
+"name": "Classic vs. Featured Rooms",
+"tier": "Gold",
+"rarity": {
+"fr": "Modes de Jeu",
+"en": "Game Modes",
+"it": "Modalità",
+"es": "Modos de Juego",
+"de": "Spielmodi"
+},
+"effect": {
+"fr": "Les salles à thème (Featured Rooms) offrent des mini-jeux bonus exclusifs et de meilleures récompenses que les salles classiques à mise égale.",
+"en": "Featured themed rooms offer exclusive bonus mini-games and higher rewards than standard classic rooms for the same card cost.",
+"it": "Le stanze a tema (Featured) offrono minigiochi bonus esclusivi e premi migliori rispetto alle stanze classiche a parità di costo.",
+"es": "Las salas temáticas (Featured) ofrecen minijuegos extra exclusivos y mejores recompensas que las salas clásicas por el mismo coste.",
+"de": "Themenräume (Featured Rooms) bieten exklusive Bonus-Minispiele und höhere Belohnungen als klassische Räume bei gleichem Einsatz."
+}
+}
+]
