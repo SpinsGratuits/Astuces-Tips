@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "Rule of 6, 7 & 8 (Probabilité Dés)",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Stratégie Pro",
+      "en": "Pro Strategy",
+      "it": "Strategia Pro",
+      "es": "Estrategia Pro",
+      "de": "Profi-Strategie"
+    },
+    "effect": {
+      "fr": "Avec deux dés, les totaux 6, 7 et 8 ont les plus fortes probabilités de sortie. Montez votre multiplicateur uniquement à 6, 7 ou 8 cases d'une gare ou d'un événement.",
+      "en": "With two dice, rolling 6, 7, or 8 has the highest probability. Raise your multiplier only when sitting 6, 7, or 8 spaces away from a Railroad or event tile.",
+      "it": "Con due dadi, i totali 6, 7 e 8 hanno la probabilità più alta. Alza il moltiplicatore solo a 6, 7 o 8 caselle da una stazione o casella evento.",
+      "es": "Con dos dados, sacar 6, 7 u 8 tiene la mayor probabilidad. Sube tu multiplicador solo cuando estés a 6, 7 u 8 casillas de una estación o evento.",
+      "de": "Mit zwei Würfeln fallen 6, 7 und 8 statistisch am häufigsten. Erhöhe den Multiplikator nur 6, 7 oder 8 Felder vor einem Bahnhof oder Event-Feld."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sticker Boom",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Événement Flash",
+      "en": "Flash Event",
+      "it": "Evento Lampo",
+      "es": "Evento Relámpago",
+      "de": "Flash-Event"
+    },
+    "effect": {
+      "fr": "Augmente de 50 % le nombre d'autocollants contenus dans chaque paquet ouvert. Gardez vos coffres d'étoiles et la roue Color Set pour ce créneau.",
+      "en": "Increases the number of stickers inside every opened pack by 50%. Save your Star Vaults and Color Set Wheel spins for this window.",
+      "it": "Aumenta del 50% il numero di adesivi in ogni pacchetto aperto. Conserva i forzieri di stelle e la ruota Color Set per questo evento.",
+      "es": "Aumenta en un 50 % las pegatinas de cada sobre abierto. Guarda tus cofres de estrellas y la ruleta Color Set para este momento.",
+      "de": "Erhöht die Sticker-Anzahl in jedem geöffneten Paket um 50 %. Spare deine Sterntruhen und Color-Set-Drehs genau für dieses Zeitfenster."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Wheel Boost (Roue Bonus)",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Événement Flash",
+      "en": "Flash Event",
+      "it": "Evento Lampo",
+      "es": "Evento Relámpago",
+      "de": "Flash-Event"
+    },
+    "effect": {
+      "fr": "Offre deux tours de roue au lieu d'un chaque fois que vous complétez un groupe de propriétés de même couleur avec des hôtels.",
+      "en": "Grants two wheel spins instead of one every time you complete a full color set of properties with hotels.",
+      "it": "Offre due giri di ruota invece di uno ogni volta che completi un gruppo di proprietà dello stesso colore con alberghi.",
+      "es": "Otorga dos tiradas de ruleta en lugar de una cada vez que completas un grupo de propiedades del mismo color con hoteles.",
+      "de": "Gewährt zwei Raddrehungen statt einer, sobald du eine Farbgruppe von Grundstücken mit Hotels vervollständigst."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Builder's Bash & Board Rush",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Construction",
+      "en": "Building",
+      "it": "Costruzione",
+      "es": "Construcción",
+      "de": "Bauweise"
+    },
+    "effect": {
+      "fr": "Builder's Bash réduit le coût des monuments jusqu'à 50 %, tandis que Board Rush offre des dés bonus à chaque plateau terminé. Construisez en bloc durant ces événements.",
+      "en": "Builder's Bash discounts landmark upgrades by up to 50%, while Board Rush rewards extra dice for every board completed. Build in bulk during these windows.",
+      "it": "Builder's Bash sconta i monumenti fino al 50%, mentre Board Rush regala dadi extra a ogni tabellone completato. Costruisci in blocco durante questi eventi.",
+      "es": "Builder's Bash rebaja los monumentos hasta un 50 % y Board Rush da dados extra por tablero completado. Construye en bloque durante estos eventos.",
+      "de": "Builder's Bash senkt Baukosten um bis zu 50 %, während Board Rush Gratiswürfel pro abgeschlossenem Brett schenkt. Baue gesammelt in diesen Events."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Golden Blitz (Échange Doré)",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Album",
+      "en": "Album",
+      "it": "Album",
+      "es": "Álbum",
+      "de": "Album"
+    },
+    "effect": {
+      "fr": "Événement de 24 h permettant d'échanger deux cartes dorées précises (jusqu'à 5 envois). Préparez vos échanges à l'avance pour terminer vos albums.",
+      "en": "24-hour event allowing trades of two specific golden stickers (up to 5 sends). Line up your trades early to finish tough sets.",
+      "it": "Evento di 24 ore che permette di scambiare due carte dorate specifiche (fino a 5 invii). Organizza gli scambi in anticipo per chiudere gli album.",
+      "es": "Evento de 24 h para intercambiar dos cartas doradas concretas (hasta 5 envíos). Prepara tus cambios con antelación para cerrar álbumes.",
+      "de": "24-Stunden-Event zum Tauschen zweier bestimmter goldener Sticker (bis zu 5 Sendungen). Plane Tauschgeschäfte frühzeitig ein."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Partner Events (4 Coéquipiers)",
+    "tier": "Legend",
+    "rarity": {
+      "fr": "Mini-Jeu Coop",
+      "en": "Co-op Mini-Game",
+      "it": "Minigioco Coop",
+      "es": "Minijuego Coop",
+      "de": "Koop-Minispiel"
+    },
+    "effect": {
+      "fr": "Construisez 4 attractions avec 4 partenaires pour gagner 5 000 dés et un Wild Sticker. N'acceptez que des joueurs fiables et complétez un partenaire à la fois.",
+      "en": "Build 4 attractions with 4 partners to win 5,000 dice and a Wild Sticker. Accept only reliable teammates and finish one partner at a time.",
+      "it": "Costruisci 4 attrazioni con 4 partner per vincere 5.000 dadi e un Wild Sticker. Accetta solo compagni affidabili e completane uno alla volta.",
+      "es": "Construye 4 atracciones con 4 compañeros para ganar 5.000 dados y un Wild Sticker. Acepta solo aliados fiables y completa uno a la vez.",
+      "de": "Baue 4 Attraktionen mit 4 Partnern für 5.000 Würfel und einen Wild Sticker. Wähle nur zuverlässige Partner und schließe einen nach dem anderen ab."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Peg-E Prize Drop",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Mini-Jeu",
+      "en": "Mini-Game",
+      "it": "Minigioco",
+      "es": "Minijuego",
+      "de": "Minispiel"
+    },
+    "effect": {
+      "fr": "Accumulez un maximum de jetons Peg-E avant de jouer, puis lâchez-les sur les côtés droit ou gauche avec un multiplicateur x10 ou x30 pour toucher les pare-chocs.",
+      "en": "Stockpile Peg-E tokens before dropping, then release from the far right or left slots on x10 or x30 multiplier to hit the bumpers repeatedly.",
+      "it": "Accumula molti gettoni Peg-E prima di giocare, poi lanciali dai lati destro o sinistro con moltiplicatore x10 o x30 per colpire i respingenti.",
+      "es": "Acumula fichas Peg-E antes de lanzar y suéltalas por los lados derecho o izquierdo con multiplicador x10 o x30 para golpear los parachoques.",
+      "de": "Sammle viele Peg-E-Chips an und wirf sie rechts oder links mit x10- oder x30-Multiplikator ein, um die Bumper optimal zu treffen."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Treasures Digging Event",
+    "tier": "Legend",
+    "rarity": {
+      "fr": "Mini-Jeu",
+      "en": "Mini-Game",
+      "it": "Minigioco",
+      "es": "Minijuego",
+      "de": "Minispiel"
+    },
+    "effect": {
+      "fr": "Creusez les dalles avec des pioches pour déterrer des reliques. Repérez la taille des objets cachés et évitez de creuser les cases isolées inutiles.",
+      "en": "Dig tiles using pickaxes to unearth artifacts. Deduce the grid size of hidden items and avoid wasting pickaxes on isolated single squares.",
+      "it": "Scava le caselle con i picconi per trovare reliquie. Calcola la dimensione degli oggetti nascosti ed evita di scavare caselle isolate inutili.",
+      "es": "Excava casillas con picos para hallar reliquias. Calcula el tamaño de los objetos ocultos y evita gastar picos en casillas sueltas.",
+      "de": "Grabe Felder mit Spitzhacken aus, um Artefakte zu finden. Achte auf die Objektgröße und verschwende keine Hacken an einzelne Randfelder."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Mega Heist & Cash Boost",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Combo Argent",
+      "en": "Cash Combo",
+      "it": "Combo Denaro",
+      "es": "Combo Dinero",
+      "de": "Geld-Kombi"
+    },
+    "effect": {
+      "fr": "Mega Heist ajoute des lingots d'or dans les braquages de banque pour multiplier les gains. Cumulez-le avec Cash Boost pour financer plusieurs plateaux d'un coup.",
+      "en": "Mega Heist adds gold bars to Bank Heists for massive payouts. Stack it with Cash Boost to fund several boards in minutes.",
+      "it": "Mega Heist aggiunge lingotti d'oro nelle rapine in banca per premi enormi. Combinalo con Cash Boost per finanziare più tabelloni insieme.",
+      "es": "Mega Heist añade lingotes de oro en los atracos para multiplicar premios. Combínalo con Cash Boost para financiar varios tableros.",
+      "de": "Mega Heist fügt Goldbarren bei Banküberfällen hinzu. Kombiniere es mit Cash Boost, um mehrere Spielbretter auf einmal abzuschließen."
+    }
+  },
+  {
+    "id": 10,
+    "name": "High Roller (Multiplicateur Max)",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Haut Risque",
+      "en": "High Risk",
+      "it": "Alto Rischio",
+      "es": "Alto Riesgo",
+      "de": "Hohes Risiko"
+    },
+    "effect": {
+      "fr": "Débloque temporairement les multiplicateurs x200, x500 et x1000. Réservez-le strictement lorsque vous êtes à 7 cases d'une gare avec un événement actif.",
+      "en": "Temporarily unlocks x200, x500, and x1000 multipliers. Use it strictly when sitting 7 spaces away from a Railroad during an active event.",
+"it": "Sblocca temporaneamente i moltiplicatori x200, x500 e x1000. Usalo solo quando sei a 7 caselle da una stazione con un evento attivo.",
+"es": "Desbloquea temporalmente multiplicadores x200, x500 y x1000. Úsalo solo a 7 casillas de una estación durante un evento activo.",
+"de": "Schaltet kurzzeitig x200-, x500- und x1000-Multiplikatoren frei. Nutze dies strikt nur 7 Felder vor einem Bahnhof während eines Events."
+}
+},
+{
+"id": 11,
+"name": "Free Parking (Stationnement Gratuit)",
+"tier": "Diamond",
+"rarity": {
+"fr": "Case Angle",
+"en": "Corner Tile",
+"it": "Casella Angolo",
+"es": "Casilla Esquina",
+"de": "Eckfeld"
+},
+"effect": {
+"fr": "Pendant cet événement spécial, les cases Impôts ou Chance remplissent une cagnotte de dés ou d'argent récupérée dès que vous tombez sur Stationnement Gratuit.",
+"en": "During this special event, Tax or Chance tiles fill a dice or cash jackpot that you claim the moment you land on Free Parking.",
+"it": "Durante questo evento speciale, le caselle Tasse o Imprevisti riempiono un montepremi di dadi o denaro che incassi atterrando sul Parcheggio Gratuito.",
+"es": "Durante este evento, las casillas de Impuestos o Suerte llenan un bote de dados o dinero que cobras al caer en Parking Gratuito.",
+"de": "Während dieses Events füllen Steuer- oder Ereignisfelder einen Würfel- oder Geld-Jackpot, den du beim Landen auf Frei Parken abräumst."
+}
+},
+{
+"id": 12,
+"name": "Quick Wins (Gains Rapides)",
+"tier": "Bronze",
+"rarity": {
+"fr": "Quotidien",
+"en": "Daily",
+"it": "Giornaliero",
+"es": "Diario",
+"de": "Täglich"
+},
+"effect": {
+"fr": "Trois missions quotidiennes faciles qui remplissent la barre hebdomadaire pour gagner un paquet violet 5 étoiles ou un Wild Sticker chaque dimanche.",
+"en": "Three easy daily tasks that fill the weekly meter to earn a 5-star Purple Pack or a Wild Sticker every Sunday.",
+"it": "Tre missioni giornaliere semplici che riempiono la barra settimanale per vincere un pacchetto viola 5 stelle o un Wild Sticker ogni domenica.",
+"es": "Tres misiones diarias sencillas que llenan la barra semanal para ganar un sobre morado de 5 estrellas o un Wild Sticker cada domingo.",
+"de": "Drei einfache Tagesaufgaben füllen die Wochenleiste für ein 5-Sterne-Lila-Paket oder einen Wild Sticker jeden Sonntag."
+}
+},
+{
+"id": 13,
+"name": "700-Star Vault (Coffre d'Étoiles)",
+"tier": "Legend",
+"rarity": {
+"fr": "Album",
+"en": "Album",
+"it": "Album",
+"es": "Álbum",
+"de": "Album"
+},
+"effect": {
+"fr": "Vos autocollants en double se convertissent en étoiles. Économisez toujours jusqu'au coffre maximum (700 étoiles) et ouvrez-le pendant un Sticker Boom.",
+"en": "Duplicate stickers turn into stars. Always save up for the top-tier vault (700 stars) and open it during a Sticker Boom event.",
+"it": "Gli adesivi doppi diventano stelle. Risparmia sempre fino al forziere massimo (700 stelle) e aprilo durante uno Sticker Boom.",
+"es": "Las pegatinas repetidas se convierten en estrellas. Ahorra siempre para el cofre máximo (700 estrellas) y ábrelo durante un Sticker Boom.",
+"de": "Doppelte Sticker werden zu Sternen. Spare immer auf den größten Tresor (700 Sterne) und öffne ihn während eines Sticker Booms."
+}
+},
+{
+"id": 14,
+"name": "Bank of Monopoly (Bonus Plateaux)",
+"tier": "Diamond",
+"rarity": {
+"fr": "Progression",
+"en": "Progression",
+"it": "Progressione",
+"es": "Progreso",
+"de": "Fortschritt"
+},
+"effect": {
+"fr": "Plateau bonus spécial qui apparaît régulièrement tous les quelques niveaux, rempli de coffres de dés gratuits, d'argent, de pions exclusifs et de paquets de cartes.",
+"en": "Special bonus board appearing every few levels, packed with free dice chests, cash, exclusive tokens, and sticker packs.",
+"it": "Tabellone bonus speciale che appare ogni pochi livelli, pieno di forzieri di dadi gratis, denaro, pedine esclusive e pacchetti di adesivi.",
+"es": "Tablero extra especial que aparece cada pocos niveles, lleno de cofres de dados gratis, dinero, fichas exclusivas y sobres de pegatinas.",
+"de": "Spezielles Bonusbrett alle paar Level voller Gratis-Würfeltruhen, Geld, exklusiver Spielfiguren und Stickerpakete."
+}
+},
+{
+"id": 15,
+"name": "Shutdown Target Switch",
+"tier": "Silver",
+"rarity": {
+"fr": "Attaque",
+"en": "Attack",
+"it": "Attacco",
+"es": "Ataque",
+"de": "Angriff"
+},
+"effect": {
+"fr": "Lors d'une fermeture (Shutdown), cliquez sur « Changer d'adversaire » pour viser un joueur dont les monuments sont déjà fumants afin d'obtenir 100 % des points.",
+"en": "During a Shutdown, tap 'Switch Opponent' to target a player whose landmarks are already smoking to guarantee full tournament points.",
+"it": "Durante un Shutdown, tocca 'Cambia avversario' per colpire un giocatore con monumenti già danneggiati e ottenere il 100% dei punti.",
+"es": "En un Derribo, pulsa 'Cambiar oponente' para atacar a un jugador con monumentos ya humeantes y asegurar el 100 % de puntos.",
+"de": "Tippe bei einem Abriss auf 'Gegner wechseln', um einen Spieler mit bereits beschädigten Wahrzeichen für volle Turnierpunkte zu treffen."
+}
+},
+{
+"id": 16,
+"name": "Community Chest (Caisse de Communauté)",
+"tier": "Silver",
+"rarity": {
+"fr": "Social",
+"en": "Social",
+"it": "Social",
+"es": "Social",
+"de": "Sozial"
+},
+"effect": {
+"fr": "Ayez au moins 5 amis actifs pour ouvrir la Caisse de Communauté chaque jour : débloquer toutes les clés rapporte un paquet violet 5 étoiles garanti.",
+"en": "Keep at least 5 active friends to open the Community Chest daily—unlocking all keys awards a guaranteed 5-star Purple Pack.",
+"it": "Tieni almeno 5 amici attivi per aprire la Cassa della Comunità ogni giorno: sbloccare tutte le chiavi garantisce un pacchetto viola 5 stelle.",
+"es": "Ten al menos 5 amigos activos para abrir la Caja de Comunidad a diario: desbloquear todas las llaves garantiza un sobre morado de 5 estrellas.",
+"de": "Behalte mindestens 5 aktive Freunde für die tägliche Gemeinschaftskasse – alle Schlüssel bringen ein garantiertes 5-Sterne-Lila-Paket."
+}
+}
+]
