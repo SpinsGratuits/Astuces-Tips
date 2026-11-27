@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "jeuxa": "🐽Piggy Go!🐖",
+    "jeuxios": "🐽Piggy Go!🐖",
+    "fr": "Si vous êtes vulnérable, ne construisez pas les éléments un par un au hasard. Accumulez suffisamment de pièces pour terminer de grandes sections, voire des niveaux insulaires entiers en une seule fois, afin d'éviter de perdre des sommes considérables lors d'attaques.",
+    "en": "Don't build pieces one-by-one randomly if you are vulnerable; save up enough coins to finish large portions or entire island levels at once to avoid losing massive amounts to raids.",
+    "it": "Se sei vulnerabile, non costruire gli elementi uno alla volta a caso. Accumula abbastanza monete per completare grandi sezioni o interi livelli dell'isola in una sola volta, evitando di perdere grandi somme negli attacchi.",
+    "es": "Si eres vulnerable, no construyas los elementos uno por uno al azar. Acumula suficientes monedas para completar grandes secciones o niveles enteros de la isla de una sola vez y evitar perder grandes sumas en los ataques.",
+    "de": "Wenn du verwundbar bist, baue Elemente nicht einzeln und planlos aus. Spare genug Münzen an, um große Abschnitte oder ganze Insel-Level auf einmal fertigzustellen, damit du bei Überfällen keine riesigen Summen verlierst."
+  },
+  {
+    "id": 2,
+    "jeuxa": "🐽Piggy Go!🐖",
+    "jeuxios": "🐽Piggy Go!🐖",
+    "fr": "Gérez vos lancers de dés : connectez-vous régulièrement pour récupérer des lancers supplémentaires (disponibles toutes les heures) afin de ne jamais atteindre votre limite maximale d’énergie et de ne pas gaspiller de lancers gratuits.",
+    "en": "Manage your dice rolls: log in regularly to collect hourly roll refills so you never hit your maximum energy cap and waste free rolls.",
+    "it": "Gestisci i tuoi lanci di dadi: accedi regolarmente per raccogliere i lanci extra (disponibili ogni ora) in modo da non raggiungere mai il limite massimo di energia e non sprecare lanci gratuiti.",
+    "es": "Gestiona tus tiradas de dados: conéctate regularmente para recoger tiradas adicionales (disponibles cada hora) y así no alcanzar nunca tu límite máximo de energía ni desperdiciar tiradas gratis.",
+    "de": "Verwalte deine Würfelwürfe: Logge dich regelmäßig ein, um stündliche Zusatzwürfe einzusammeln, damit du nie dein maximales Energielimit erreichst und keine Gratiswürfe verschwendest."
+  },
+  {
+    "id": 3,
+    "jeuxa": "🐽Piggy Go!🐖",
+    "jeuxios": "🐽Piggy Go!🐖",
+    "fr": "Élargissez votre liste d’amis en jeu et rejoignez une équipe active pour échanger vos cartes en double, compléter plus rapidement vos albums de récompenses et vous envoyer des cadeaux au quotidien.",
+    "en": "Expand your in-game friends list and join an active team to trade card duplicates, complete reward albums faster, and exchange daily gifts.",
+    "it": "Amplia la tua lista di amici nel gioco e unisciti a una squadra attiva per scambiare le carte doppie, completare più velocemente gli album premio e inviarvi regali ogni giorno.",
+    "es": "Amplía tu lista de amigos en el juego y únete a un equipo activo para intercambiar cartas repetidas, completar más rápido tus álbumes de recompensas y enviaros regalos a diario.",
+    "de": "Erweitere deine Freundesliste im Spiel und tritt einem aktiven Team bei, um doppelte Karten zu tauschen, Belohnungsalben schneller zu vervollständigen und euch täglich Geschenke zu schicken."
+  },
+  {
+    "id": 4,
+    "jeuxa": "🐽Piggy Go!🐖",
+    "jeuxios": "🐽Piggy Go!🐖",
+    "fr": "Gardez vos dés pour les événements : économisez vos lancers pour les événements spéciaux (comme Dice Rush, Crazy Wheel ou Treasure Hunt) qui offrent de grosses récompenses.",
+    "en": "Save your dice for events: keep your rolls for special events (such as Dice Rush, Crazy Wheel, or Treasure Hunt) that offer big rewards.",
+    "it": "Conserva i tuoi dadi per gli eventi: risparmia i lanci per gli eventi speciali (come Dice Rush, Crazy Wheel o Treasure Hunt) che offrono grandi ricompense.",
+    "es": "Guarda tus dados para los eventos: ahorra tus tiradas para los eventos especiales (como Dice Rush, Crazy Wheel o Treasure Hunt) que ofrecen grandes recompensas.",
+    "de": "Spare deine Würfel für Events: Hebe deine Würfe für besondere Events (wie Dice Rush, Crazy Wheel oder Treasure Hunt) auf, die große Belohnungen bieten."
+  },
+  {
+    "id": 5,
+    "jeuxa": "🐽Piggy Go!🐖",
+    "jeuxios": "🐽Piggy Go!🐖",
+    "fr": "Utilisez l'Autoplay : maintenez appuyé le bouton de lancer en bas de l'écran pour activer le lancer automatique et enchaîner les tours plus confortablement.",
+    "en": "Use Autoplay: press and hold the roll button at the bottom of the screen to activate automatic rolling and chain turns more comfortably.",
+    "it": "Usa l'Autoplay: tieni premuto il pulsante di lancio nella parte inferiore dello schermo per attivare il lancio automatico e concatenare i turni più comodamente.",
+    "es": "Usa el Autoplay: mantén pulsado el botón de tirar en la parte inferior de la pantalla para activar el lanzamiento automático y encadenar turnos más cómodamente.",
+    "de": "Nutze Autoplay: Halte den Würfel-Button unten auf dem Bildschirm gedrückt, um das automatische Würfeln zu aktivieren und Züge bequemer aneinanderzureihen."
+  },
+  {
+    "id": 6,
+    "jeuxa": "🐽Piggy Go!🐖",
+    "jeuxios": "🐽Piggy Go!🐖",
+    "fr": "Gérez vos pièces et diamants : dépensez vos pièces pour faire évoluer vos villages et réservez vos diamants aux améliorations utiles ou aux événements avantageux.",
+    "en": "Manage your coins and diamonds: spend your coins to upgrade your villages and save your diamonds for useful upgrades or rewarding events.",
+    "it": "Gestisci monete e diamanti: spendi le monete per far evolvere i tuoi villaggi e riserva i diamanti ai potenziamenti utili o agli eventi vantaggiosi.",
+    "es": "Gestiona tus monedas y diamantes: gasta tus monedas para mejorar tus aldeas y reserva tus diamantes para mejoras útiles o eventos ventajosos.",
+    "de": "Verwalte deine Münzen und Diamanten: Gib deine Münzen für den Ausbau deiner Dörfer aus und spare deine Diamanten für nützliche Verbesserungen oder lohnende Events."
+  }
+]
