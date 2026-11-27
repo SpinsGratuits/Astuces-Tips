@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "jeuxa": "🃊 Domino Dreams 🃊",
+    "jeuxios": "🃊 Domino Dreams 🃊",
+    "fr": "Réservez vos multiplicateurs (x5, x10) pour les événements importants comme les braquages de banque (Bank Heists) ou les raids.",
+    "en": "Save your multipliers (x5, x10) for major events like bank heists or raids.",
+    "it": "Conserva i tuoi moltiplicatori (x5, x10) per gli eventi principali come le rapine in banca (Bank Heists) o i raid.",
+    "es": "Guarda tus multiplicadores (x5, x10) para eventos importantes como los atracos al banco (Bank Heists) o los asaltos.",
+    "de": "Spare deine Multiplikatoren (x5, x10) für große Events wie Banküberfälle (Bank Heists) oder Raids auf."
+  },
+  {
+    "id": 2,
+    "jeuxa": "🃊 Domino Dreams 🃊",
+    "jeuxios": "🃊 Domino Dreams 🃊",
+    "fr": "Ne terminez jamais un chapitre avec un solde à zéro. Gardez toujours des pièces pour démarrer le niveau suivant sans attendre.",
+    "en": "Never finish a chapter with a zero balance. Always keep some coins on hand so you can start the next level without having to wait.",
+    "it": "Non terminare mai un capitolo con il saldo a zero. Tieni sempre delle monete da parte per iniziare il livello successivo senza aspettare.",
+    "es": "Nunca termines un capítulo con el saldo a cero. Guarda siempre algunas monedas para empezar el siguiente nivel sin tener que esperar.",
+    "de": "Beende ein Kapitel niemals mit null Münzen. Behalte immer genug Münzen übrig, um das nächste Level ohne Wartezeit zu starten."
+  },
+  {
+    "id": 3,
+    "jeuxa": "🃊 Domino Dreams 🃊",
+    "jeuxios": "🃊 Domino Dreams 🃊",
+    "fr": "Ne dépensez vos pièces que pour les constructions et améliorations requises pour finir le chapitre. Ignorez les décorations facultatives qui gaspillent vos réserves.",
+    "en": "Only spend your coins on the constructions and upgrades required to complete the chapter. Ignore optional decorations, which just waste your reserves.",
+    "it": "Spendi le tue monete solo per le costruzioni e i miglioramenti necessari a completare il capitolo. Ignora le decorazioni facoltative che sprecano le tue riserve.",
+    "es": "Gasta tus monedas solo en las construcciones y mejoras necesarias para completar el capítulo. Ignora las decoraciones opcionales que malgastan tus reservas.",
+    "de": "Gib deine Münzen nur für Bauten und Verbesserungen aus, die zum Abschluss des Kapitels nötig sind. Ignoriere optionale Dekorationen, die nur deine Reserven verschwenden."
+  },
+  {
+    "id": 4,
+    "jeuxa": "🃊 Domino Dreams 🃊",
+    "jeuxios": "🃊 Domino Dreams 🃊",
+    "fr": "Anticipation : Planifiez vos poses de dominos à l'avance et gardez des extrémités flexibles ouvertes pour éviter les impasses, surtout à partir des niveaux plus avancés.",
+    "en": "Think ahead: plan your domino placements in advance and keep flexible ends open to avoid dead ends, especially in more advanced levels.",
+    "it": "Anticipazione: pianifica le tue mosse in anticipo e mantieni aperte estremità flessibili per evitare vicoli ciechi, soprattutto nei livelli più avanzati.",
+    "es": "Anticipación: planifica tus jugadas con antelación y mantén extremos flexibles abiertos para evitar bloqueos, especialmente en los niveles más avanzados.",
+    "de": "Vorausschauend spielen: Plane deine Domino-Züge im Voraus und halte flexible Enden offen, um Sackgassen zu vermeiden – besonders in fortgeschrittenen Levels."
+  },
+  {
+    "id": 5,
+    "jeuxa": "🃊 Domino Dreams 🃊",
+    "jeuxios": "🃊 Domino Dreams 🃊",
+    "fr": "Patience et régularité : Jouez sans vous précipiter et profitez des séries de victoires pour enchaîner les niveaux.",
+    "en": "Patience and consistency: play without rushing and take advantage of winning streaks to chain levels together.",
+    "it": "Pazienza e costanza: gioca senza fretta e sfrutta le serie di vittorie per concatenare i livelli.",
+    "es": "Paciencia y constancia: juega sin prisas y aprovecha las rachas de victorias para encadenar niveles.",
+    "de": "Geduld und Beständigkeit: Spiele ohne Hektik und nutze Siegesserien, um mehrere Levels hintereinander abzuschließen."
+  }
+]
