@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "3x Coins & Jackpot",
+    "tier": "Bronze",
+    "rarity": {
+      "fr": "Face de Dé",
+      "en": "Dice Face",
+      "it": "Faccia Dado",
+      "es": "Cara del Dado",
+      "de": "Würfelseite"
+    },
+    "effect": {
+      "fr": "Aligner trois symboles Pièces rapporte un gain immédiat d'or proportionnel à votre multiplicateur. Utilisez-le pour financer les bâtiments les plus chers en premier.",
+      "en": "Landing three Coin symbols grants an instant gold payout scaled by your multiplier. Use it to fund the most expensive buildings first.",
+      "it": "Ottenere tre simboli Moneta assegna subito oro proporzionale al moltiplicatore. Usalo per finanziare prima gli edifici più costosi.",
+      "es": "Sacar tres símbolos de Moneda otorga oro al instante según tu multiplicador. Úsalo para pagar primero los edificios más caros.",
+      "de": "Drei Münz-Symbole bringen sofort Gold passend zu deinem Multiplikator. Nutze es, um zuerst die teuersten Gebäude zu bauen."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Attack (Slingshot)",
+    "tier": "Silver",
+    "rarity": {
+      "fr": "Face de Dé",
+      "en": "Dice Face",
+      "it": "Faccia Dado",
+      "es": "Cara del Dado",
+      "de": "Würfelseite"
+    },
+    "effect": {
+      "fr": "Permet de tirer sur un bâtiment du royaume d'un autre joueur. Visez un bâtiment déjà fumant ou endommagé pour être sûr qu'il n'a plus de boucliers.",
+      "en": "Lets you shoot a building in another player's kingdom. Aim at an already smoking or damaged building to ensure their shields are down.",
+      "it": "Permette di colpire un edificio nel regno di un altro giocatore. Mira a un edificio già danneggiato per essere sicuro che non abbia scudi.",
+      "es": "Permite disparar a un edificio del reino de otro jugador. Apunta a uno ya dañado para asegurarte de que no tiene escudos.",
+      "de": "Ermöglicht einen Schuss auf ein Gebäude im Königreich eines anderen Spielers. Ziele auf ein bereits beschädigtes Gebäude ohne Schilde."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Steal (2x Perfect Bonus)",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Face de Dé",
+      "en": "Dice Face",
+      "it": "Faccia Dado",
+      "es": "Cara del Dado",
+      "de": "Würfelseite"
+    },
+    "effect": {
+      "fr": "Vous transporte dans le royaume du Roi des Pièces. Choisissez le plus gros tas d'or et arrêtez la jauge au centre pour doubler le butin (2x Perfect).",
+      "en": "Transports you to the Coin King's kingdom. Pick the largest gold pile and stop the gauge in the center to double the loot (2x Perfect).",
+      "it": "Ti porta nel regno del Re delle Monete. Scegli il mucchio d'oro più grande e ferma l'indicatore al centro per raddoppiare il bottino (2x Perfect).",
+      "es": "Te lleva al reino del Rey de las Monedas. Elige el mayor montón de oro y detén el medidor en el centro para duplicar el botín (2x Perfect).",
+      "de": "Bringt dich ins Königreich des Münzkönigs. Wähle den größten Goldhaufen und stoppe die Anzeige in der Mitte für doppelte Beute (2x Perfect)."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Fight (Pierre-Feuille-Ciseaux)",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Mini-Duel",
+      "en": "Mini-Duel",
+      "it": "Mini-Duello",
+      "es": "Mini-Duelo",
+      "de": "Mini-Duell"
+    },
+    "effect": {
+      "fr": "Déclenche un duel en 3 manches contre un rival. Remporter le duel rapporte un énorme coffre de pièces et des points d'événement.",
+      "en": "Triggers a 3-round duel against a rival. Winning the duel awards a massive coin chest and extra event points.",
+      "it": "Avvia un duello in 3 round contro un rivale. Vincere il duello assegna un enorme forziere di monete e punti evento extra.",
+      "es": "Inicia un duelo a 3 rondas contra un rival. Ganar el duelo otorga un gran cofre de monedas y puntos extra de evento.",
+      "de": "Startet ein 3-Runden-Duell gegen einen Rivalen. Ein Sieg bringt eine riesige Münztruhe und zusätzliche Event-Punkte."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Shields (Boucliers)",
+    "tier": "Silver",
+    "rarity": {
+      "fr": "Défense",
+      "en": "Defense",
+      "it": "Difesa",
+      "es": "Defensa",
+      "de": "Verteidigung"
+    },
+    "effect": {
+      "fr": "Protège votre royaume contre les attaques adverses. Lorsque votre réserve est pleine, chaque nouveau bouclier obtenu est remboursé en lancers gratuits.",
+      "en": "Protects your kingdom from enemy attacks. When your shield bar is full, every extra shield rolled is refunded as free rolls.",
+      "it": "Protegge il tuo regno dagli attacchi. Quando la barra scudi è piena, ogni scudo extra ottenuto viene rimborsato in lanci gratuiti.",
+      "es": "Protege tu reino de los ataques. Cuando tu barra de escudos está llena, cada escudo extra se devuelve en tiradas gratis.",
+      "de": "Schützt dein Königreich vor Angriffen. Ist dein Schildvorrat voll, wird jeder weitere Schild als Gratiswurf erstattet."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Wildcard (?)",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Joker",
+      "en": "Wildcard",
+      "it": "Jolly",
+      "es": "Comodín",
+      "de": "Joker"
+    },
+    "effect": {
+      "fr": "Symbole spécial qui prend automatiquement la valeur des deux autres dés affichés pour compléter une combinaison gagnante (Attaque, Vol ou Lancers).",
+      "en": "Special symbol that automatically matches the other two dice shown to complete a winning combo (Attack, Steal, or Free Rolls).",
+      "it": "Simbolo speciale che copia automaticamente gli altri due dadi usciti per completare una combinazione vincente (Attacco, Furto o Lanci).",
+      "es": "Símbolo especial que imita automáticamente a los otros dos dados para completar un combo ganador (Ataque, Robo o Tiradas).",
+      "de": "Spezialsymbol, das automatisch die anderen beiden Würfel übernimmt, um eine Gewinnkombi zu vervollständigen (Angriff, Raub oder Würfe)."
+    }
+  },
+  {
+    "id": 7,
+    "name": "3x Free Rolls",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Face de Dé",
+      "en": "Dice Face",
+      "it": "Faccia Dado",
+      "es": "Cara del Dado",
+      "de": "Würfelseite"
+    },
+    "effect": {
+      "fr": "Offre immédiatement un pack de lancers supplémentaires proportionnel à votre multiplicateur actif. Idéal pour prolonger une série sur un événement.",
+      "en": "Immediately grants a bundle of extra rolls scaled by your active multiplier. Ideal for extending a streak during an event.",
+      "it": "Regala subito un pacchetto di lanci extra proporzionale al moltiplicatore attivo. Ideale per prolungare una serie durante un evento.",
+      "es": "Otorga al instante un lote de tiradas extra según tu multiplicador activo. Ideal para alargar una racha en un evento.",
+      "de": "Schenkt sofort ein Paket zusätzlicher Würfe passend zum aktiven Multiplikator. Ideal, um eine Serie im Event zu verlängern."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Bonus Kingdoms (Niveau 100+)",
+    "tier": "Legend",
+    "rarity": {
+      "fr": "Progression",
+      "en": "Progression",
+      "it": "Progressione",
+      "es": "Progresión",
+      "de": "Fortschritt"
+    },
+    "effect": {
+      "fr": "À partir du Royaume 100, un Royaume Bonus apparaît tous les 10 niveaux avec des coûts réduits et un mini-jeu Golden Peonball rempli de récompenses.",
+      "en": "Starting at Kingdom 100, a Bonus Kingdom appears every 10 levels featuring discounted build costs and a Golden Peonball mini-game.",
+      "it": "Dal Regno 100 in poi, ogni 10 livelli appare un Regno Bonus con costi ridotti e un minigioco Golden Peonball ricco di premi.",
+      "es": "A partir del Reino 100, cada 10 niveles aparece un Reino Bonus con costes reducidos y un minijuego Golden Peonball lleno de premios.",
+      "de": "Ab Königreich 100 erscheint alle 10 Stufen ein Bonus-Königreich mit reduzierten Baukosten und dem Golden-Peonball-Minispiel."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Building Blitz",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Événement Flash",
+      "en": "Flash Event",
+      "it": "Evento Lampo",
+      "es": "Evento Relámpago",
+      "de": "Flash-Event"
+    },
+    "effect": {
+      "fr": "Événement temporaire qui réinitialise vos récompenses de construction en cours ou offre des lancers bonus à chaque bâtiment terminé.",
+      "en": "Temporary event that resets your current building rewards or grants bonus rolls every time you complete a structure.",
+      "it": "Evento temporaneo che azzera i premi di costruzione in corso o regala lanci bonus ogni volta che completi una struttura.",
+      "es": "Evento temporal que reinicia las recompensas de construcción actuales u otorga tiradas extra cada vez que completas un edificio.",
+      "de": "Temporäres Event, das deine aktuellen Bau-Belohnungen zurücksetzt oder Bonuswürfe für jedes fertiggestellte Gebäude schenkt."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Trail Event (Sentier)",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Événement",
+      "en": "Event",
+      "it": "Evento",
+      "es": "Evento",
+      "de": "Event"
+    },
+    "effect": {
+      "fr": "Collectez des jetons d'événement sur vos lancers pour avancer sur un parcours à étapes et débloquer de gros coffres de dés et d'autocollants.",
+      "en": "Collect event tokens from your rolls to advance along a milestone path and unlock massive dice and sticker chests.",
+      "it": "Raccogli gettoni evento dai lanci per avanzare lungo un percorso a tappe e sbloccare grandi forzieri di dadi e adesivi.",
+      "es": "Recoge fichas de evento con tus tiradas para avanzar por un camino de hitos y desbloquear grandes cofres de dados y pegatinas.",
+      "de": "Sammle Event-Marken bei deinen Würfen, um auf einem Meilenstein-Pfad voranzukommen und große Würfel- und Stickertruhen freizuschalten."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Kingdom Quest & Tournaments",
+    "tier": "Legend",
+    "rarity": {
+      "fr": "Tournoi",
+      "en": "Tournament",
+      "it": "Torneo",
+"es": "Torneo",
+"de": "Turnier"
+},
+"effect": {
+"fr": "Affrontez d'autres joueurs au classement pendant 24 à 48 h en réussissant des attaques et des vols. Attendez les dernières heures pour sécuriser le podium.",
+"en": "Compete on a leaderboard for 24–48h by landing attacks and steals. Save a burst of rolls for the final hours to secure a podium spot.",
+"it": "Sfida altri giocatori in classifica per 24-48 ore con attacchi e furti. Conserva una riserva di lanci per le ultime ore per assicurarti il podio.",
+"es": "Compite en una clasificación durante 24-48 h logrando ataques y robos. Guarda tiradas para las últimas horas y asegura el podio.",
+"de": "Tritt 24–48 Std. lang über Angriffe und Raubzüge in einer Rangliste an. Spare Würfe für die letzten Stunden, um das Podium zu sichern."
+}
+},
+{
+"id": 12,
+"name": "Sticker Albums & Super Stickers",
+"tier": "SE",
+"rarity": {
+"fr": "Collection",
+"en": "Collection",
+"it": "Collezione",
+"es": "Colección",
+"de": "Sammlung"
+},
+"effect": {
+"fr": "Complétez des pages d'autocollants (normaux, dorés et Super Stickers) pour gagner des milliers de dés. Échangez vos doublons avec des amis ou dans les coffres d'étoiles.",
+"en": "Complete sticker sets (regular, golden, and Super Stickers) to win thousands of dice. Trade duplicates with friends or in star vaults.",
+"it": "Completa i set di adesivi (normali, dorati e Super Sticker) per vincere migliaia di dadi. Scambia i doppioni con gli amici o nei forzieri.",
+"es": "Completa álbumes de pegatinas (normales, doradas y Super Stickers) para ganar miles de dados. Intercambia repetidas con amigos o en cofres.",
+"de": "Vervollständige Sticker-Sets (normal, golden und Super-Sticker) für Tausende Würfel. Tausche Duplikate mit Freunden oder in Sterntruhen."
+}
+},
+{
+"id": 13,
+"name": "Wild Sticker (Autocollant Joker)",
+"tier": "SE",
+"rarity": {
+"fr": "Récompense Rare",
+"en": "Rare Reward",
+"it": "Premio Raro",
+"es": "Premio Raro",
+"de": "Seltene Belohnung"
+},
+"effect": {
+"fr": "Permet de choisir n'importe quel autocollant manquant dans votre album. Utilisez-le toujours sur un Super Sticker 5 étoiles qui termine un album entier.",
+"en": "Lets you pick any missing sticker in your album. Always use it on a 5-star Super Sticker that completes an entire set.",
+"it": "Permette di scegliere qualsiasi adesivo mancante nell'album. Usalo sempre su un Super Sticker a 5 stelle che completa un intero set.",
+"es": "Permite elegir cualquier pegatina que te falte en el álbum. Úsalo siempre en un Super Sticker de 5 estrellas que complete un set entero.",
+"de": "Ermöglicht die Wahl eines beliebigen fehlenden Stickers. Nutze ihn immer für einen 5-Sterne-Super-Sticker, der ein ganzes Set abschließt."
+}
+},
+{
+"id": 14,
+"name": "Revenge Tab (Vengeance)",
+"tier": "Bronze",
+"rarity": {
+"fr": "Stratégie",
+"en": "Strategy",
+"it": "Strategia",
+"es": "Estrategia",
+"de": "Strategie"
+},
+"effect": {
+"fr": "Lors d'une attaque, basculez sur l'onglet Vengeance pour frapper ceux qui ont attaqué votre royaume : leurs défenses sont souvent baissées.",
+"en": "During an attack, switch to the Revenge tab to strike players who recently hit your kingdom—their shields are often already down.",
+"it": "Durante un attacco, passa alla scheda Vendetta per colpire chi ha attaccato il tuo regno: le loro difese sono spesso già abbassate.",
+"es": "Durante un ataque, cambia a la pestaña Venganza para golpear a quienes atacaron tu reino: sus defensas suelen estar bajas.",
+"de": "Wechsle bei einem Angriff auf den Reiter Rache, um Angreifer deines Königreichs zu treffen – ihre Schilde sind oft bereits unten."
+}
+},
+{
+"id": 15,
+"name": "Kingdom Structure Order (6x5)",
+"tier": "Bronze",
+"rarity": {
+"fr": "Construction",
+"en": "Building",
+"it": "Costruzione",
+"es": "Construcción",
+"de": "Bauweise"
+},
+"effect": {
+"fr": "Chaque royaume compte 6 structures à améliorer 5 fois (30 améliorations). Achetez les niveaux les plus chers en premier pour éviter de perdre vos pièces en raid.",
+"en": "Every kingdom has 6 structures to upgrade 5 times (30 upgrades). Buy the priciest upgrades first so you don't lose saved coins to raids.",
+"it": "Ogni regno ha 6 strutture da potenziare 5 volte (30 potenziamenti). Acquista prima i livelli più costosi per non perdere monete nei raid.",
+"es": "Cada reino tiene 6 estructuras para mejorar 5 veces (30 mejoras). Compra primero las mejoras más caras para no perder monedas en robos.",
+"de": "Jedes Königreich hat 6 Gebäude mit je 5 Stufen (30 Ausbauten). Kaufe die teuersten Stufen zuerst, um kein Gold bei Raubzügen zu verlieren."
+}
+},
+{
+"id": 16,
+"name": "Roll Multiplier Strategy",
+"tier": "Diamond",
+"rarity": {
+"fr": "Stratégie",
+"en": "Strategy",
+"it": "Strategia",
+"es": "Estrategia",
+"de": "Strategie"
+},
+"effect": {
+"fr": "Utilisez un multiplicateur élevé sur les 3 ou 4 premiers lancers d'une session (où les lancers gratuits tombent souvent), puis réduisez de moitié.",
+"en": "Use a higher multiplier on the first 3–4 rolls of a session (when free rolls drop most frequently), then cut your multiplier in half.",
+"it": "Usa un moltiplicatore alto nei primi 3-4 lanci di una sessione (quando escono spesso i lanci gratis), poi dimezza il moltiplicatore.",
+"es": "Usa un multiplicador alto en las primeras 3-4 tiradas de una sesión (cuando suelen salir tiradas gratis) y luego redúcelo a la mitad.",
+"de": "Nutze einen höheren Multiplikator in den ersten 3–4 Würfen einer Sitzung (wenn oft Gratiswürfe fallen) und halbiere ihn danach."
+}
+}
+]
