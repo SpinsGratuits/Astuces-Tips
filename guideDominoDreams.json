@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "name": "Wild Domino (Joker)",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Carte Spéciale",
+      "en": "Special Card",
+      "it": "Carta Speciale",
+      "es": "Carta Especial",
+      "de": "Spezialkarte"
+    },
+    "effect": {
+      "fr": "S'associe à n'importe quel domino du plateau, quelle que soit sa valeur. Gardez-le pour débloquer une colonne bloquée ou prolonger une longue série de combos.",
+      "en": "Matches any domino on the board regardless of its pip value. Save it to unlock a blocked column or extend a long combo streak.",
+      "it": "Si abbina a qualsiasi tessera sul tabellone indipendentemente dal valore. Conservalo per sbloccare una colonna o continuare una serie.",
+      "es": "Combina con cualquier ficha del tablero sin importar su valor. Guárdalo para desbloquear una columna o alargar una racha.",
+      "de": "Passt zu jedem Domino auf dem Brett, unabhängig vom Wert. Hebe ihn auf, um blockierte Reihen zu öffnen oder eine Serie zu verlängern."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Frozen Tiles (Tuiles Gelées)",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Obstacle",
+      "en": "Obstacle",
+      "it": "Ostacolo",
+      "es": "Obstáculo",
+      "de": "Hindernis"
+    },
+    "effect": {
+      "fr": "Tuiles recouvertes de glace qui nécessitent deux correspondances : la première brise la glace, la seconde retire le domino. Attaquez-les dès qu'elles sont accessibles.",
+      "en": "Ice-covered tiles requiring two matches: the first cracks the ice, the second clears the domino. Target them as soon as they become exposed.",
+      "it": "Tessere coperte di ghiaccio che richiedono due abbinamenti: il primo rompe il ghiaccio, il secondo rimuove la tessera. Colpiscile appena puoi.",
+      "es": "Fichas cubiertas de hielo que requieren dos combinaciones: la primera rompe el hielo y la segunda retira la ficha. Atácalas en cuanto queden libres.",
+      "de": "Vereiste Steine, die zwei Züge brauchen: Der erste bricht das Eis, der zweite entfernt den Stein. Spiele sie frei, sobald sie zugänglich sind."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Locked Tiles & Keys (Serrures)",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Obstacle",
+      "en": "Obstacle",
+      "it": "Ostacolo",
+      "es": "Obstáculo",
+      "de": "Hindernis"
+    },
+    "effect": {
+      "fr": "Des chaînes bloquent une zone entière du plateau jusqu'à ce que vous associiez le domino portant la clé correspondante. Repérez la clé en priorité dès le début.",
+      "en": "Chains lock an entire section of the board until you match the domino holding the matching key. Locate the key tile first at the start of the level.",
+      "it": "Catene bloccano un'intera area del tabellone finché non abbini la tessera con la chiave corrispondente. Cerca subito la chiave all'inizio.",
+      "es": "Cadenas bloquean una zona entera hasta que combinas la ficha con la llave correspondiente. Localiza la llave al principio del nivel.",
+      "de": "Ketten blockieren einen Bereich, bis du den Stein mit dem passenden Schlüssel kombinierst. Suche den Schlüssel gleich zu Beginn."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Bomb Tiles (Tuiles Bombe)",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Danger",
+      "en": "Hazard",
+      "it": "Pericolo",
+      "es": "Peligro",
+      "de": "Gefahr"
+    },
+    "effect": {
+      "fr": "Affiche un compte à rebours qui diminue à chaque domino pioché. Éliminez-la avant que le compteur n'atteigne zéro pour éviter de perdre des dominos de votre pioche.",
+      "en": "Displays a countdown that drops every time you draw a domino. Clear it before the timer hits zero to avoid losing cards from your draw pile.",
+      "it": "Mostra un conto alla rovescia che scende ogni volta che peschi. Eliminala prima dello zero per non perdere tessere dal mazzo.",
+      "es": "Muestra una cuenta atrás que baja cada vez que robas una ficha. Elimínala antes de llegar a cero para no perder fichas del mazo.",
+      "de": "Zeigt einen Countdown, der bei jedem Ziehen sinkt. Entferne sie vor Null, damit du keine Steine aus deinem Nachziehstapel verlierst."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Magnet Booster (Aimant)",
+    "tier": "Legend",
+    "rarity": {
+      "fr": "Booster",
+      "en": "Booster",
+      "it": "Booster",
+      "es": "Potenciador",
+      "de": "Booster"
+    },
+    "effect": {
+      "fr": "Attire et élimine instantanément plusieurs dominos jouables du plateau. Activez-le lorsque plusieurs colonnes hautes bloquent l'accès aux cartes du dessous.",
+      "en": "Pulls and clears multiple playable dominoes from the board at once. Activate it when several tall columns block access to lower tiles.",
+      "it": "Attira ed elimina subito diverse tessere giocabili dal tabellone. Attivalo quando più colonne alte bloccano le carte sottostanti.",
+      "es": "Atrae y elimina al instante varias fichas jugables del tablero. Actívalo cuando varias columnas altas bloqueen las fichas inferiores.",
+      "de": "Zieht mehrere spielbare Steine gleichzeitig vom Brett. Aktiviere ihn, wenn hohe Stapel den Zugang zu unteren Steinen blockieren."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Undo Move (Annuler le Coup)",
+    "tier": "Bronze",
+    "rarity": {
+      "fr": "Outil",
+      "en": "Tool",
+      "it": "Strumento",
+      "es": "Herramienta",
+      "de": "Werkzeug"
+    },
+    "effect": {
+      "fr": "Permet d'annuler votre dernier coup si vous vous apercevez qu'une autre branche ouvrait un combo bien plus long. Très utile en fin de niveau.",
+      "en": "Lets you take back your last move when you spot another branch that unlocks a much longer combo. Very helpful near the end of a stage.",
+      "it": "Permette di annullare l'ultima mossa se noti un altro ramo che apre una combo molto più lunga. Utilissimo a fine livello.",
+      "es": "Permite deshacer tu última jugada si ves otra rama que abre un combo mucho más largo. Muy útil al final del nivel.",
+      "de": "Macht deinen letzten Zug rückgängig, wenn ein anderer Weg eine viel längere Kombo ermöglicht. Sehr nützlich am Levelende."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Extra Dominoes (+5 Pioche)",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Secours",
+      "en": "Lifeline",
+      "it": "Aiuto",
+      "es": "Ayuda",
+      "de": "Rettung"
+    },
+    "effect": {
+      "fr": "Ajoute 5 dominos supplémentaires à votre pioche lorsqu'elle est vide. Ne l'achetez que s'il ne reste que 1 à 3 tuiles sur le plateau.",
+      "en": "Adds 5 extra dominoes to your draw pile when empty. Only spend coins on it when just 1 to 3 tiles remain on the board.",
+      "it": "Aggiunge 5 tessere extra al mazzo quando è vuoto. Usalo solo se restano appena 1-3 tessere sul tabellone.",
+      "es": "Añade 5 fichas extra a tu mazo cuando se agota. Úsalo solo si quedan entre 1 y 3 fichas en el tablero.",
+      "de": "Fügt deinem leeren Nachziehstapel 5 zusätzliche Steine hinzu. Nutze dies nur, wenn noch 1 bis 3 Steine auf dem Brett liegen."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Combo Streak Meter (Jauge Combo)",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Mécanique",
+      "en": "Mechanic",
+      "it": "Meccanica",
+      "es": "Mecánica",
+      "de": "Mechanik"
+    },
+    "effect": {
+      "fr": "Enchaîner 5 dominos sans piocher remplit la jauge et ajoute une tuile bonus gratuite à votre pioche. Planifiez toujours 2 ou 3 coups d'avance.",
+      "en": "Chaining 5 dominoes without drawing fills the streak meter and adds a free bonus tile to your pile. Always plan 2–3 moves ahead.",
+      "it": "Concatenare 5 tessere senza pescare riempie la barra e aggiunge una tessera bonus gratis al mazzo. Pianifica sempre 2-3 mosse in anticipo.",
+      "es": "Encadenar 5 fichas sin robar llena la barra y añade una ficha extra gratis a tu mazo. Planifica siempre 2 o 3 jugadas por adelantado.",
+      "de": "5 Steine hintereinander ohne Ziehen füllen die Leiste und schenken dir einen Gratisstein. Plane immer 2–3 Züge voraus."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Double-Sided Dominoes (Doubles)",
+    "tier": "Silver",
+    "rarity": {
+      "fr": "Tuile",
+      "en": "Tile",
+      "it": "Tessera",
+      "es": "Ficha",
+      "de": "Stein"
+    },
+    "effect": {
+      "fr": "Les dominos doubles (ex. 4-4 ou 6-6) n'offrent qu'une seule valeur de correspondance au lieu de deux : éliminez-les dès que leur numéro sort.",
+      "en": "Double dominoes (e.g., 4-4 or 6-6) offer only one matching value instead of two—clear them immediately whenever their number appears.",
+      "it": "I domino doppi (es. 4-4 o 6-6) hanno un solo valore abbinabile invece di due: eliminali subito appena esce il loro numero.",
+      "es": "Los dominós dobles (ej. 4-4 o 6-6) solo tienen un valor posible en lugar de dos: elimínalos en cuanto salga su número.",
+      "de": "Doppelsteine (z. B. 4-4 oder 6-6) bieten nur einen passenden Wert statt zwei – räume sie sofort ab, sobald ihre Zahl erscheint."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Hidden / Face-Down Tiles",
+    "tier": "Silver",
+    "rarity": {
+      "fr": "Obstacle",
+      "en": "Obstacle",
+      "it": "Ostacolo",
+      "es": "Obstáculo",
+      "de": "Hindernis"
+    },
+    "effect": {
+      "fr": "Tuiles retournées face cachée qui ne se révèlent qu'une fois la tuile qui les recouvre retirée. Débloquez les piles les plus profondes en priorité.",
+      "en": "Face-down tiles that only flip over once the tile covering them is removed. Prioritize uncovering the deepest stacks first.",
+      "it": "Tessere coperte che si girano solo quando viene rimossa la tessera sopra di esse. Scopri prima le pile più profonde.",
+      "es": "Fichas boca abajo que solo se voltean al retirar la ficha que las cubre. Prioriza destapar las pilas más profundas.",
+      "de": "Verdeckte Steine, die sich erst umdrehen, wenn der darüberliegende Stein entfernt wird. Decke zuerst tiefe Stapel auf."
+    }
+  },
+  {
+"id": 11,
+"name": "Super Wheel & Piggy Bank",
+"tier": "Gold",
+"rarity": {
+"fr": "Bonus",
+"en": "Bonus",
+"it": "Bonus",
+"es": "Bonificación",
+"de": "Bonus"
+},
+"effect": {
+"fr": "Chaque victoire remplit votre tirelire de pièces et fait progresser la roue bonus. Récupérez les récompenses gratuites entre chaque chapitre.",
+"en": "Every win fills your coin bank and charges the bonus wheel. Collect your free milestone rewards between chapters.",
+"it": "Ogni vittoria riempie il salvadanaio e carica la ruota bonus. Riscatta i premi gratuiti tra un capitolo e l'altro.",
+"es": "Cada victoria llena tu hucha de monedas y carga la ruleta extra. Recoge las recompensas gratuitas entre capítulos.",
+"de": "Jeder Sieg füllt deine Münzbank und lädt das Bonusrad auf. Hole dir deine Gratis-Belohnungen zwischen den Kapiteln ab."
+}
+},
+{
+"id": 12,
+"name": "Chapter Stars & Royal Builders",
+"tier": "Legend",
+"rarity": {
+"fr": "Progression",
+"en": "Progression",
+"it": "Progressione",
+"es": "Progresión",
+"de": "Fortschritt"
+},
+"effect": {
+"fr": "Les étoiles gagnées dans les niveaux servent à rénover le royaume. Terminez chaque chapitre pour ouvrir un coffre de pièces et de Jokers.",
+"en": "Stars earned from stages are used to restore the kingdom. Complete each chapter to unlock a chest packed with coins and Wild cards.",
+"it": "Le stelle vinte nei livelli servono a restaurare il regno. Completa ogni capitolo per aprire un forziere di monete e Jolly.",
+"es": "Las estrellas ganadas en los niveles sirven para restaurar el reino. Completa cada capítulo para abrir un cofre con monedas y Comodines.",
+"de": "Verdiente Sterne aus Levels bauen das Königreich wieder auf. Schließe jedes Kapitel ab, um eine Truhe mit Münzen und Jokern zu öffnen."
+}
+},
+{
+"id": 13,
+"name": "Hourly Coins & Free Gifts",
+"tier": "Bronze",
+"rarity": {
+"fr": "Quotidien",
+"en": "Daily",
+"it": "Giornaliero",
+"es": "Diario",
+"de": "Täglich"
+},
+"effect": {
+"fr": "Récupérez votre bonus de pièces toutes les heures dans le hall principal afin de financer vos parties sans jamais tomber à sec.",
+"en": "Collect your hourly coin bonus in the main lobby to fund your runs without ever running out of entry coins.",
+"it": "Raccogli il bonus monete ogni ora nella schermata principale per finanziare le partite senza restare mai a secco.",
+"es": "Recoge tu bono de monedas cada hora en la pantalla principal para financiar tus partidas sin quedarte sin saldo.",
+"de": "Hole dir stündlich deinen Münzbonus in der Lobby ab, um deine Runden zu finanzieren, ohne pleitezugehen."
+}
+},
+{
+"id": 14,
+"name": "Level Multiplier (x2 / x4)",
+"tier": "SE",
+"rarity": {
+"fr": "Stratégie",
+"en": "Strategy",
+"it": "Strategia",
+"es": "Estrategia",
+"de": "Strategie"
+},
+"effect": {
+"fr": "Multiplie le coût d'entrée et le gain d'étoiles d'un niveau. N'activez x2 ou x4 que lorsque votre réserve dépasse 10 parties d'avance.",
+"en": "Multiplies both entry cost and star payout for a level. Only toggle x2 or x4 when your coin stash covers at least 10 runs.",
+"it": "Moltiplica costo d'ingresso e stelle vinte in un livello. Attiva x2 o x4 solo quando hai monete per almeno 10 partite.",
+"es": "Multiplica el coste de entrada y las estrellas ganadas. Activa x2 o x4 solo cuando tengas monedas para al menos 10 partidas.",
+"de": "Vervielfacht Einsatz und Sterngewinn eines Levels. Aktiviere x2 oder x4 nur, wenn dein Münzvorrat für mindestens 10 Runden reicht."
+}
+}
+]
