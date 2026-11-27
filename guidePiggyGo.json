@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "Dice Rush",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Événement Dés",
+      "en": "Dice Event",
+      "it": "Evento Dadi",
+      "es": "Evento de Dados",
+      "de": "Würfel-Event"
+    },
+    "effect": {
+      "fr": "Événement à durée limitée où chaque lancer de dé rapporte des points d'étape. Gardez vos réserves de dés pour atteindre les derniers paliers qui offrent des milliers de lancers.",
+      "en": "Limited-time event where every dice roll earns milestone points. Save your dice reserves to reach the final tiers that reward thousands of rolls.",
+      "it": "Evento a tempo limitato in cui ogni lancio di dadi fa guadagnare punti traguardo. Conserva le scorte di dadi per raggiungere gli ultimi livelli.",
+      "es": "Evento por tiempo limitado donde cada tirada suma puntos de hito. Guarda tus reservas de dados para alcanzar los niveles finales con miles de tiradas.",
+      "de": "Zeitlich begrenztes Event, bei dem jeder Würfelwurf Meilenstein-Punkte bringt. Spare deine Würfel für die letzten Stufen mit Tausenden Gratiswürfen."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Crazy Wheel",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Mini-Jeu",
+      "en": "Mini-Game",
+      "it": "Minigioco",
+      "es": "Minijuego",
+      "de": "Minispiel"
+    },
+    "effect": {
+      "fr": "Roue de la fortune spéciale activée en collectant des jetons sur le plateau. Permet de décrocher des jackpots de pièces, des coffres de cartes rares ou des lancers massifs.",
+      "en": "Special fortune wheel activated by collecting tokens on the board. Lets you win coin jackpots, rare card chests, or massive roll packs.",
+      "it": "Ruota della fortuna speciale attivata raccogliendo gettoni sul tabellone. Permette di vincere jackpot di monete, forzieri di carte rare o tanti lanci.",
+      "es": "Ruleta de la fortuna especial activada al recoger fichas en el tablero. Permite ganar botes de monedas, cofres de cartas raras o grandes lotes de tiradas.",
+      "de": "Spezielles Glücksrad, das durch das Sammeln von Spielmarken auf dem Brett aktiviert wird. Bietet Münz-Jackpots, seltene Kartentruhen oder riesige Würfelpakete."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Treasure Hunt",
+    "tier": "Legend",
+    "rarity": {
+      "fr": "Aventure",
+      "en": "Adventure",
+      "it": "Avventura",
+      "es": "Aventura",
+      "de": "Abenteuer"
+    },
+    "effect": {
+      "fr": "Mini-jeu d'exploration par niveaux utilisant des pioches ou pelles gagnées sur le plateau. Visez les grandes dalles en priorité pour économiser vos outils.",
+      "en": "Level-based exploration mini-game using pickaxes or shovels earned on the board. Target large tiles first to save your digging tools.",
+      "it": "Minigioco di esplorazione a livelli con picconi o pale ottenuti sul tabellone. Punta prima alle caselle grandi per risparmiare strumenti.",
+      "es": "Minijuego de exploración por niveles con picos o palas ganados en el tablero. Apunta primero a las losas grandes para ahorrar herramientas.",
+      "de": "Erkundungs-Minispiel mit Spitzhacken oder Schaufeln vom Spielbrett. Ziele zuerst auf große Felder, um deine Werkzeuge zu sparen."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Card Boom",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Bonus Album",
+      "en": "Album Boost",
+      "it": "Bonus Album",
+      "es": "Bono de Álbum",
+      "de": "Album-Bonus"
+    },
+    "effect": {
+      "fr": "Pendant cet événement flash, tous les paquets de cartes ouverts contiennent 50 % de cartes supplémentaires. Attendez ce bonus avant d'ouvrir vos coffres d'étoiles.",
+      "en": "During this flash event, every card pack opened contains 50% more cards. Wait for this boost before opening your star vaults.",
+      "it": "Durante questo evento lampo, ogni pacchetto di carte aperto contiene il 50% di carte in più. Aspetta questo bonus prima di aprire i forzieri.",
+      "es": "Durante este evento relámpago, cada sobre de cartas abierto contiene un 50 % más de cartas. Espera este bono antes de abrir tus cofres de estrellas.",
+      "de": "Während dieses Flash-Events enthält jedes geöffnete Kartenpaket 50 % mehr Karten. Warte auf diesen Bonus, bevor du deine Sterntruhen öffnest."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Golden Card Trade",
+    "tier": "SE",
+    "rarity": {
+      "fr": "Échange Rare",
+      "en": "Rare Trade",
+      "it": "Scambio Raro",
+      "es": "Intercambio Raro",
+      "de": "Seltener Tausch"
+    },
+    "effect": {
+      "fr": "Fenêtre spéciale permettant d'échanger deux cartes dorées précises avec vos amis ou votre équipe, normalement impossibles à envoyer.",
+      "en": "Special window allowing you to trade two specific golden cards with your friends or team, which are normally untradeable.",
+      "it": "Finestra speciale che consente di scambiare due carte dorate specifiche con amici o squadra, normalmente non scambiabili.",
+      "es": "Ventana especial que permite intercambiar dos cartas doradas concretas con amigos o equipo, que normalmente no se pueden enviar.",
+      "de": "Spezielles Zeitfenster, in dem du zwei bestimmte goldene Karten mit Freunden oder deinem Team tauschen kannst, die sonst nicht handelbar sind."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Balloon Festival",
+    "tier": "Diamond",
+    "rarity": {
+      "fr": "Événement Équipe",
+      "en": "Team Event",
+      "it": "Evento Squadra",
+      "es": "Evento de Equipo",
+      "de": "Team-Event"
+    },
+    "effect": {
+      "fr": "Événement coopératif où vous construisez des montgolfières avec 4 partenaires. Choisissez des coéquipiers actifs dès le premier jour pour débloquer le grand prix.",
+      "en": "Co-op event where you build hot-air balloons with 4 partners. Pick active teammates on day one to unlock the grand prize.",
+      "it": "Evento cooperativo in cui costruisci mongolfiere con 4 partner. Scegli compagni attivi fin dal primo giorno per sbloccare il primo premio.",
+      "es": "Evento cooperativo donde construyes globos aerostáticos con 4 compañeros. Elige aliados activos desde el primer día para lograr el gran premio.",
+      "de": "Koop-Event, bei dem du mit 4 Partnern Heißluftballons baust. Wähle ab dem ersten Tag aktive Mitspieler, um den Hauptpreis freizuschalten."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Piggy Bank",
+    "tier": "Gold",
+    "rarity": {
+      "fr": "Tirelire",
+      "en": "Savings",
+      "it": "Salvadanaio",
+      "es": "Hucha",
+      "de": "Sparschwein"
+    },
+    "effect": {
+      "fr": "Chaque lancer remplit votre tirelire en parallèle. Surveillez les promotions de doublement pour récupérer un maximum de dés d'un seul coup.",
+      "en": "Every roll fills up your piggy bank on the side. Watch for doubling promotions to claim a huge amount of dice at once.",
+      "it": "Ogni lancio riempie il tuo salvadanaio. Tieni d'occhio le promozioni di raddoppio per riscattare il massimo dei dadi in una volta.",
+      "es": "Cada tirada llena tu hucha en paralelo. Aprovecha las promociones de duplicación para recoger el máximo de dados de una vez.",
+      "de": "Jeder Wurf füllt nebenbei dein Sparschwein. Achte auf Verdopplungs-Aktionen, um möglichst viele Würfel auf einmal abzuholen."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Super Steal (Braquage)",
+    "tier": "Legend",
+    "rarity": {
+      "fr": "Case Plateau",
+      "en": "Board Tile",
+      "it": "Casella Tabellone",
+      "es": "Casilla Tablero",
+      "de": "Spielfeld"
+    },
+    "effect": {
+      "fr": "Permet de vider le coffre d'un joueur riche. Si vous tombez dessus avec un multiplicateur élevé (x10 ou x20), vous pouvez financer une ville entière immédiatement.",
+      "en": "Lets you empty a wealthy player's vault. Landing on it with a high multiplier (x10 or x20) can fund an entire city upgrade immediately.",
+      "it": "Permette di svuotare il caveau di un giocatore ricco. Atterrarci con un moltiplicatore alto (x10 o x20) può finanziare un'intera città subito.",
+      "es": "Permite vaciar la bóveda de un jugador rico. Caer aquí con un multiplicador alto (x10 o x20) puede financiar una ciudad entera al instante.",
+      "de": "Ermöglicht es, den Tresor eines reichen Spielers zu leeren. Mit einem hohen Multiplikator (x10 oder x20) finanzierst du sofort eine ganze Stadt."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Attack & Revenge",
+    "tier": "Silver",
+    "rarity": {
+      "fr": "Case Plateau",
+      "en": "Board Tile",
+      "it": "Casella Tabellone",
+      "es": "Casilla Tablero",
+      "de": "Spielfeld"
+    },
+    "effect": {
+      "fr": "Endommage le monument d'un rival. Utilisez l'onglet Vengeance pour cibler un joueur dont les boucliers sont déjà brisés et doubler vos gains.",
+      "en": "Damages a rival's landmark. Use the Revenge tab to target a player whose shields are already broken and double your coin payout.",
+      "it": "Danneggia il monumento di un rivale. Usa la scheda Vendetta per colpire un giocatore con gli scudi già rotti e raddoppiare le monete.",
+      "es": "Daña el monumento de un rival. Usa la pestaña Venganza para atacar a un jugador con los escudos rotos y duplicar tus ganancias.",
+      "de": "Beschädigt das Wahrzeichen eines Rivalen. Nutze den Rache-Reiter, um Spieler ohne Schilde anzugreifen und deine Beute zu verdoppeln."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Shields (Boucliers)",
+    "tier": "Bronze",
+    "rarity": {
+      "fr": "Défense",
+      "en": "Defense",
+      "it": "Difesa",
+      "es": "Defensa",
+      "de": "Verteidigung"
+    },
+    "effect": {
+      "fr": "Protège vos bâtiments contre les attaques adverses. Si votre réserve de boucliers est pleine, les boucliers ramassés sur le plateau sont remboursés en lancers de dés.",
+      "en": "Protects your buildings from enemy attacks. When your shield bar is full, extra shields picked up on the board are refunded as dice rolls.",
+"it": "Protegge i tuoi edifici dagli attacchi. Quando la barra scudi è piena, gli scudi extra raccolti sul tabellone vengono rimborsati in lanci di dadi.",
+"es": "Protege tus edificios de los ataques. Si tu barra de escudos está llena, los escudos extra recogidos en el tablero se devuelven en tiradas.",
+"de": "Schützt deine Gebäude vor Angriffen. Ist dein Schildvorrat voll, werden zusätzliche Schilde auf dem Brett als Würfelwürfe erstattet."
+}
+},
+{
+"id": 11,
+"name": "Building Discount",
+"tier": "Gold",
+"rarity": {
+"fr": "Événement Flash",
+"en": "Flash Event",
+"it": "Evento Lampo",
+"es": "Evento Relámpago",
+"de": "Flash-Event"
+},
+"effect": {
+"fr": "Réduit le coût de construction de toutes les structures de 10 % à 25 % pendant 30 à 60 minutes. Idéal pour vider votre réserve d'or cumulée.",
+"en": "Reduces the construction cost of all structures by 10% to 25% for 30 to 60 minutes. Ideal for spending your saved gold reserves.",
+"it": "Riduce il costo di costruzione di tutte le strutture dal 10% al 25% per 30-60 minuti. Ideale per spendere le riserve d'oro accumulate.",
+"es": "Reduce el coste de construcción de todas las estructuras entre un 10 % y un 25 % durante 30 a 60 minutos. Ideal para gastar tu oro acumulado.",
+"de": "Senkt die Baukosten aller Gebäude für 30 bis 60 Minuten um 10 % bis 25 %. Ideal, um deine angesparten Goldreserven auszugeben."
+}
+},
+{
+"id": 12,
+"name": "Star Vault (Coffre d'Étoiles)",
+"tier": "Diamond",
+"rarity": {
+"fr": "Album Cartes",
+"en": "Card Album",
+"it": "Album Carte",
+"es": "Álbum de Cartas",
+"de": "Kartenalbum"
+},
+"effect": {
+"fr": "Vos cartes en double se convertissent en étoiles. Ne les échangez jamais contre les petits coffres : économisez jusqu'au coffre maximum qui garantit une carte manquante.",
+"en": "Duplicate cards convert into stars. Never trade them for small vaults—save up for the top-tier vault that guarantees a missing card.",
+"it": "Le carte doppie si convertono in stelle. Non scambiarle per i forzieri piccoli: risparmia fino al forziere massimo che garantisce una carta mancante.",
+"es": "Las cartas repetidas se convierten en estrellas. Nunca las cambies por cofres pequeños: ahorra para el cofre máximo que garantiza una carta nueva.",
+"de": "Doppelte Karten werden zu Sternen. Tausche sie nie gegen kleine Truhen ein – spare auf die größte Truhe, die eine fehlende Karte garantiert."
+}
+},
+{
+"id": 13,
+"name": "Dice Multiplier (x2 à x50)",
+"tier": "Gold",
+"rarity": {
+"fr": "Stratégie",
+"en": "Strategy",
+"it": "Strategia",
+"es": "Estrategia",
+"de": "Strategie"
+},
+"effect": {
+"fr": "Multiplie vos gains et points d'événements par lancer. Montez le multiplicateur uniquement lorsque plusieurs cases cibles se trouvent à 6-8 pas devant votre pion.",
+"en": "Multiplies your rewards and event points per roll. Only raise the multiplier when multiple target tiles sit 6–8 steps ahead of your token.",
+"it": "Moltiplica premi e punti evento per lancio. Alza il moltiplicatore solo quando più caselle obiettivo si trovano a 6-8 passi davanti alla pedina.",
+"es": "Multiplica tus premios y puntos de evento por tirada. Sube el multiplicador solo cuando varias casillas objetivo estén a 6-8 pasos de tu ficha.",
+"de": "Vervielfacht deine Gewinne und Event-Punkte pro Wurf. Erhöhe den Multiplikator nur, wenn mehrere Zielfelder 6–8 Schritte vor deiner Figur liegen."
+}
+},
+{
+"id": 14,
+"name": "Daily Missions & Pass",
+"tier": "Bronze",
+"rarity": {
+"fr": "Quotidien",
+"en": "Daily",
+"it": "Quotidiano",
+"es": "Diario",
+"de": "Täglich"
+},
+"effect": {
+"fr": "Trois objectifs simples renouvelés chaque jour (attaquer, améliorer un bâtiment, collecter des pièces). Complétez-les avec un petit multiplicateur x1 ou x2.",
+"en": "Three simple goals refreshed daily (attack, upgrade a building, collect coins). Complete them efficiently using a low x1 or x2 multiplier.",
+"it": "Tre semplici obiettivi rinnovati ogni giorno (attaccare, potenziare un edificio, raccogliere monete). Completali con un moltiplicatore basso x1 o x2.",
+"es": "Tres objetivos sencillos renovados cada día (atacar, mejorar un edificio, recoger monedas). Complétalos usando un multiplicador bajo x1 o x2.",
+"de": "Drei einfache Tagesziele (angreifen, Gebäude ausbauen, Münzen sammeln). Schließe sie sparsam mit einem niedrigen Multiplikator (x1 oder x2) ab."
+}
+},
+{
+"id": 15,
+"name": "Jail / Chance Tile",
+"tier": "Silver",
+"rarity": {
+"fr": "Case Plateau",
+"en": "Board Tile",
+"it": "Casella Tabellone",
+"es": "Casilla Tablero",
+"de": "Spielfeld"
+},
+"effect": {
+"fr": "Case spéciale offrant un double lancer gratuit si vous faites un double aux dés, ou une carte Chance (pluie d'argent, saut vers un raid ou lancers bonus).",
+"en": "Special tile granting a free extra roll if you roll doubles, or a Chance card (cash rain, warp to a raid, or bonus rolls).",
+"it": "Casella speciale che regala un lancio extra se fai doppio con i dadi, oppure una carta Imprevisti (pioggia di monete, salto a un raid o lanci bonus).",
+"es": "Casilla especial que otorga una tirada extra gratis si sacas dobles, o una carta de Suerte (lluvia de dinero, salto a un asalto o tiradas extra).",
+"de": "Spezialfeld, das bei einem Pasch einen Gratiswurf gewährt oder eine Ereigniskarte zieht (Geldregen, Sprung zu einem Raubzug oder Bonuswürfe)."
+}
+},
+{
+"id": 16,
+"name": "City Completion Bonus",
+"tier": "Legend",
+"rarity": {
+"fr": "Progression",
+"en": "Progression",
+"it": "Progressione",
+"es": "Progresión",
+"de": "Fortschritt"
+},
+"effect": {
+"fr": "Terminer toutes les étoiles d'une ville débloque un coffre de lancers gratuits, des paquets de cartes et augmente vos gains sur toutes les cases du plateau suivant.",
+"en": "Completing every star in a city unlocks a chest of free rolls, card packs, and permanently increases payouts on every tile of the next board.",
+"it": "Completare tutte le stelle di una città sblocca un forziere di lanci gratuiti, pacchetti di carte e aumenta i premi sul tabellone successivo.",
+"es": "Completar todas las estrellas de una ciudad desbloquea un cofre de tiradas gratis, sobres de cartas y aumenta los premios en el siguiente tablero.",
+"de": "Das Abschließen aller Sterne einer Stadt schaltet eine Truhe mit Gratiswürfen und Kartenpaketen frei und erhöht die Gewinne auf dem nächsten Brett."
+}
+}
+]
